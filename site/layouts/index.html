@@ -1,9 +1,26 @@
 {{ partial "header" . }}
 
-<h1>Hugo with Gulp, PostCSS and Webpack</h1>
-
-<p>
-  Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!
-</p>
-
+<body>
+  <div class="splash">
+      <div class="main__text">
+          <h1>Olive &amp; Mango</h1>
+          <p>a budget conscious life style blog on food, travel and well-being</p>
+      </div>
+  </div>
+  <div class="page-content">
+    <div class="container">
+      <ul>
+      <!-- Ranges through content/post/*.md -->
+      {{ range .Data.Pages }}
+        <li>
+          <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
+          <p>{{ .Date.Format "2 January, 2006" }}</p>
+          <a href="{{ .Permalink }}"><img src="{{ .Params.Thumbnail }}" alt=""></a>
+          <p class="">{{ .Params.excerpt }}
+          </p>
+        </li>
+      {{ end }}
+      </ul>
+    </div>
+  </div>
 {{ partial "footer" . }}

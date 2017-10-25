@@ -1,9 +1,25 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "Olive & Mango"
+
+[params]
+  description = "a budget conscious life style blog on food, travel and well-being"
+
+[[menu.main]]
+  name = "Home"
+  url  = "/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url  = "/about"
+  weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/blog"
+  weight = 3
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

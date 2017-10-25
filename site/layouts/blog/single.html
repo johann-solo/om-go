@@ -1,0 +1,14 @@
+{{ partial "header" . }}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="post-content" itemprop="articleBody">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <p class="post-meta">
+      <time>{{ .Date.Format "2 Jan, 2006" }}</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ .Params.Author }}</span></span>
+    </p>
+    {{ .Content }}
+  </div>
+</article>
+<!-- {% include disqus.html disqus_identifier=page.disqus_identifier %} -->
+
+{{ partial "footer" . }}
