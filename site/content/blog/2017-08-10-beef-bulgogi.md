@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Beef bulgogi &mdash; Korean style beef perfection
 date: 2017-08-10T00:00:00.000Z
 author: Joanne
@@ -86,4 +85,3 @@ Definitely try this guys! You won't regret it and we have yet to go back to our 
 
 <br>
 ![Beef Bulgogi](/images/uploads/2017_08_10_beef_bulgogi_6.jpg)
-

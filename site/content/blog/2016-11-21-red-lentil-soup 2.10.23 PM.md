@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Smokey red lentil and chorizo soup
 date: "2016-11-21 10:30:35 -0400"
 author: Joanne

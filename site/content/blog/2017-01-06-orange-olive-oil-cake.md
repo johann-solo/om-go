@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Orange olive oil cake
 date: "2017-01-06 7:30:35 -0400"
 author: Joanne

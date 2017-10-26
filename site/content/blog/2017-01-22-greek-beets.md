@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greek beet salad with a creamy yoghurt dressing (panzarosalata)
 date: "2017-01-22 7:30:35 -0400"
 author: Joanne

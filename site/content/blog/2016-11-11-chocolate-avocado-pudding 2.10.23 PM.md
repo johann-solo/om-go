@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Smooth and rich chocolate avocado pudding
 date: "2016-11-11 10:30:35 -0400"
 author: Joanne

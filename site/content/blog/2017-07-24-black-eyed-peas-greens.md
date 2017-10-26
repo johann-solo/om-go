@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Black-eyed Peas with Greens
 date: 2017-07-24T00:00:00.000Z
 author: Joanne
@@ -71,4 +70,3 @@ Drain and rinse and place them in a large saucepan covered with water at least b
 
 <br>
 ![Black-eyed Peas and Greens](/images/uploads/2017_07_24_black_eyed_peas_greens_5.jpg)
-

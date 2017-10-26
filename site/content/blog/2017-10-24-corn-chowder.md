@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_24_corn_chowder_1.jpg
 categories: blog
 tags: food
-excerpt: <p>A hearty make-you-smile-from-the-inside kind of soup that’s chock-full of flavour and creaminess.</p>
+excerpt: A hearty make-you-smile-from-the-inside kind of soup that’s chock-full of flavour and creaminess.
 ---
 
 I’m still seeing lots of fresh local corn at the grocery store and market so I was excited to make this corn chowder. It is a fabulous soup whether you use fresh or frozen corn.  I am and always have been a fan of corn chowder and any chowder for that matter. I love the creaminess of the soup and the sweetness of the corn. Its also one of those soups that you can make your own &ndash; it’s so versatile!

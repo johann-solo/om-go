@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to keep moving and fit even with a busy schedule"
 date:   2016-10-14 09:30:35 -0400
 author: Joanne

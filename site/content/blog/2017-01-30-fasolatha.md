@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fasolatha &mdash; quintessential Greek white bean soup
 date: "2017-01-30 7:30:35 -0400"
 author: Joanne

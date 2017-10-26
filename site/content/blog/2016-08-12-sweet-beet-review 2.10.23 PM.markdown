@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The Sweet Beet for a healthy treat"
 date:   2016-08-11 07:00:35 -0400
 author: Joanne

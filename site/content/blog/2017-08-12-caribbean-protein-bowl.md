@@ -1,5 +1,4 @@
 ---
-layout: post
 title: High Protein Caribbean Bowl
 date: 2017-08-12
 author: Joanne

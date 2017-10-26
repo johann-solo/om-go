@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Farm to table eating - Trini style"
 date:   2016-09-09 07:00:35 -0400
 author: Johann

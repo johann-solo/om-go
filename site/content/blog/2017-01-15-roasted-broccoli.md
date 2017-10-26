@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roasted Lemony Parmesan Broccoli
 date: "2017-01-15 7:30:35 -0400"
 author: Joanne

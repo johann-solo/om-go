@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creamy scalloped sweet potatoes
 date: "2016-11-27 10:30:35 -0400"
 author: Joanne

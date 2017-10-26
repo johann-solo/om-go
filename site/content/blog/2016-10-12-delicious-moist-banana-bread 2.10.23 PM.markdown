@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "No fail banana bread"
 date:   2016-10-12 09:30:35 -0400
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Oatflour chocolate chip banana nut muffins
 date: '2017-03-30 7:30:35 -0400'
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coconut raspberry cupcakes
 date: "2016-12-02 8:30:35 -0400"
 author: Joanne

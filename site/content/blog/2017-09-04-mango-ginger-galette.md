@@ -5,9 +5,8 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_04_mango_ginger_galette_1.jpg
 categories: blog
 tags: food
-excerpt: >-
-  <p>The perfect and most delicious way to use up all your ripe and half ripe
-  mangoes</p>
+excerpt: The perfect and most delicious way to use up all your ripe and half ripe
+  mangoes
 ---
 
 It's been mango madness over here because both me and my husband love mangoes and we are now at the tail end of mango season.  We are super fortunate to have family with a mango tree so when it's the season there is an abundance. I love to eat them just as they are and I also like to add them to my oats or over yoghurt. When I have a lot of ripe ones at one given time I remove all the pulp from them and freeze them and add them to smoothies.

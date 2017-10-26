@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_08_provencale_fish_1.jpg
 categories: blog
 tags: food
-excerpt: '<p>Beautiful herbs, soft succulent meat and sublime flavours make this fish recipe a keeper </p>'
+excerpt: 'Beautiful herbs, soft succulent meat and sublime flavours make this fish recipe a keeper'
 ---
 
 I wanted to start off by telling you guys a little about this fish. It's local fish caught on the north side of the island and I received it cleaned and deboned! How perfect is that! I got it as a gift, to show appreciation for patronage. The technical way to what it really was &ndash; a thank you for spending lots of money at one of my favourite stores to spend money at in Trinidad. That would be Fresh! How did I survive with out them and my protein powder and all the other good stuff that has become essential in my life from Fresh! Let's just say it's been a good year!

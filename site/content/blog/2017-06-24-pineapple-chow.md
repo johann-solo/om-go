@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sweet pineapple mint salad and pineapple chow
 date: '2017-06-24 7:30:35 -0400'
 author: Joanne
@@ -101,4 +100,3 @@ caption="" %}
 img="/img/JUNE2017/pineapple_chow_7.jpg"
 title="Pineapple salad"
 caption="" %}
-

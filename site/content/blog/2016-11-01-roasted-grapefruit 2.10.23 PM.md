@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Have your grapefruit roasted"
 date:   2016-11-01 09:30:35 -0400
 author: Joanne

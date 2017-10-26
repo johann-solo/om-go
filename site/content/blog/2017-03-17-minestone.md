@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Classic minestrone soup
 date: '2017-03-17 7:30:35 -0400'
 author: Joanne

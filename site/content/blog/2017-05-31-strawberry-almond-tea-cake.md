@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Strawberry Almond Tea Cake '
 date: 2017-05-31T22:31:50.000Z
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creamy Spring Potato salad with Yoghurt dressing
 date: '2017-04-23 7:30:35 -0400'
 author: Joanne

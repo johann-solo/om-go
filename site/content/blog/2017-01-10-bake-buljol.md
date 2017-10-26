@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coconut bake and 'Buljol'
 date: "2017-01-10 7:30:35 -0400"
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Coconut curry fish
 date: "2017-03-07 7:30:35 -0400"
 author: Joanne

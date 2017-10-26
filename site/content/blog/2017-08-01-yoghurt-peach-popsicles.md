@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Peaches and cream yoghurt popsicles
 date: 2017-08-01
 author: Joanne

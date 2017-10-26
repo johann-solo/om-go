@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_14_pumpkin_bread_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Date and nut bread with a twist </p>
+excerpt: Date and nut bread with a twist
 ---
 ![Pumpkin Bread](/images/uploads/2017_09_14_pumpkin_bread_4.jpg)
 <br>

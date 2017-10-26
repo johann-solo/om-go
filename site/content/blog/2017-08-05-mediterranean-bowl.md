@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nutrient Dense Mediterranean Bowl
 date: 2017-08-05
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chickpea salad done right
 date: "2016-11-20 10:30:35 -0400"
 author: Joanne

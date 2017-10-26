@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A simple soup with dynamic flavours
 date: "2016-11-07 09:30:35 -0400"
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to make the perfect carrot cake"
 date:   2016-08-19 07:00:35 -0400
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vegan sugarless oat flour banana bread
 date: "2016-12-01 8:30:35 -0400"
 author: Joanne

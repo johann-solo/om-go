@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_06_apple_butter_baked_beans_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Sweet, savoury, rich in flavour, with a slight bit of heat. You won't regret making it. That's a promise!</p>
+excerpt: Sweet, savoury, rich in flavour, with a slight bit of heat. You won't regret making it. That's a promise!
 ---
 
 We ate these beans as pictured, with lots of biscuits but days later we were still eating them with eggs and toast &ndash; they were so good and we were sad when we finally ate the last of them.

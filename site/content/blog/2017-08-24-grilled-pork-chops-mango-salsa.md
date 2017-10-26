@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_24_pork_chops_mango_salsa_1.JPG
 image: null
 categories: Blog
 tags: Food
-excerpt: <p>Summer's not over yet! Make the most out of the grilling season with these delicious pork chops</p>
+excerpt: Summer's not over yet! Make the most out of the grilling season with these delicious pork chops
 ---
 
 You guys I'm so excited to share this recipe! It's bright and gorgeous looking and so easy to prepare. Grilling season for many of you is still going strong. For us it's 365 days a year which is great because what's better than popping something on the grill for a quick and easy dinner am I right?!?!

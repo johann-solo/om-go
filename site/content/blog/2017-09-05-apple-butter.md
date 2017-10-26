@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_05_apple_butter_1.jpg
 categories: blog
 tags: food
-excerpt: '<p>More than a purée, and delicious enough to eat by the spoonful </p>'
+excerpt: 'More than a purée, and delicious enough to eat by the spoonful'
 ---
 
 Apples are one of the top things I miss about living in Canada. It sounds kind of lame to miss apples right but let me explain. Obviously I miss my friends and family and other conveniences but apples are a food I really miss. Yes we get them here but I have yet to bite into a fabulous crisp apple and I'm not being negative about Trinidad in any way by saying that. They just don't grow here and the ones we get are all imported so they will never taste the same as freshly picked apples. They are alright but so many of them are soft and grainy and just not the same. So you better believe I'm happy to be going home at the peak of apple season and I will be gorging on them!  Can't wait to pick a few as well!

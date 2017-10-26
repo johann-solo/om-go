@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roasted Vegetable Frittata &mdash; a must  have on your brunch list.
 date: 2017-08-07T00:00:00.000Z
 author: Joanne

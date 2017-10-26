@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Overnight ponche de creme French toast
 date: "2016-12-25 7:30:35 -0400"
 author: Joanne

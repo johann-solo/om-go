@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Horiatiki Panzanella Salad"
 date:   2016-10-30 09:30:35 -0400
 author: Joanne

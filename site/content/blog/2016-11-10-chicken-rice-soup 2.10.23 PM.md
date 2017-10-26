@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chicken soup for the soul
 date: "2016-11-09 10:30:35 -0400"
 author: Joanne

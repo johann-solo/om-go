@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Stellar Creamy Enchiladas
 date: 2017-07-10T11:09:18.654Z
 author: Joanne

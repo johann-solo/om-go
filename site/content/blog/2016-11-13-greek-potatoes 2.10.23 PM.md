@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greek-style potato salad
 date: "2016-11-13 10:30:35 -0400"
 author: Joanne

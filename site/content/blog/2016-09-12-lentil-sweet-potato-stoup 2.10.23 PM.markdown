@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to have your lentils (and eat them too)"
 date:   2016-09-12 09:30:35 -0400
 author: Joanne

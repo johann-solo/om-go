@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Super Simple Vanilla Almond Granola
 date: '2017-05-23 7:30:35 -0400'
 author: Joanne

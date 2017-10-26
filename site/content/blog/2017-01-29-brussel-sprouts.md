@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roasted brussel sprouts with candied pecans and bacon
 date: "2017-01-29 7:30:35 -0400"
 author: Joanne

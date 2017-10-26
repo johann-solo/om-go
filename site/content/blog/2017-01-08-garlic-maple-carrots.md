@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Brown Butter Garlic Maple Roasted Carrots
 date: "2017-01-08 7:30:35 -0400"
 author: Joanne

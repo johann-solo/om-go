@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_12_pizza_diavolo_1.jpg
 categories: blog
 tags: food
-excerpt: <p>My classic favourite pepperoni and cheese pizza with a little extra heat</p>
+excerpt: My classic favourite pepperoni and cheese pizza with a little extra heat
 ---
 
 You can call me boring when it comes to my favourite pizza and I’m okay with it. Classic pepperoni and cheese is my favourite. I love it cause I feel like I get to taste all of the pizza elements individually. Each distinct flavour. I can enjoy the crust, the sauce and the pepperoni and cheese with out them getting muddled with a million other flavours on my pizza. Don’t get me wrong I enjoy other ones too, especially when they add a sweet component but my all time favourite &ndash; the one I most definitely will order every time is a basic pepperoni and cheese.  When I do order it I love to sprinkle chili flakes and or chili oil on it for a little extra kick of flavour and then I’m basically in pizza heaven! And you best not be thinking of taking one of my slices cause I’m serious about my pizza!!

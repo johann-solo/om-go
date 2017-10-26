@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "SoCal...so cool"
 date:   2016-10-21 09:30:35 -0400
 author: Joanne

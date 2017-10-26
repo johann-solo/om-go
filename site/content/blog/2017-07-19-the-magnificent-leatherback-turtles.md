@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Magnificent Leatherback Turtles
 date: 2017-07-19
 author: Johann

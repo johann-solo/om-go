@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Goat cheese dip with homemade pita chips
 date: "2016-12-28 7:30:35 -0400"
 author: Joanne

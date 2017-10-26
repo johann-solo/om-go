@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Perfect apple crisp with dulce de leche sauce
 date: "2016-11-22 10:30:35 -0400"
 author: Joanne

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_01_roasted_pumpkin_honey_thyme_feta_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Look no further for a delicious and caramelised pumpkin side with a spicy kick</p>
+excerpt: Look no further for a delicious and caramelised pumpkin side with a spicy kick
 ---
 ![Spicy Roasted Pumpkin With Honey Thyme And Feta](/images/uploads/2017_10_01_roasted_pumpkin_honey_thyme_feta_2.jpg)
 <br>

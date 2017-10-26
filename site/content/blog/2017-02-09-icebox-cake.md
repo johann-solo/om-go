@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chocolate icebox cake
 date: "2017-02-09 7:30:35 -0400"
 author: Joanne

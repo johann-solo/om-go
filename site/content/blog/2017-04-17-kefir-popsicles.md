@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Strawberry goat milk kefir popsicles
 date: '2017-04-17 8:30:35 -0400'
 author: Joanne

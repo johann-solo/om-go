@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Classic spaghetti and meatballs
 date: "2017-01-19 7:30:35 -0400"
 author: Joanne

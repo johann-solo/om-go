@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greek honey cookies (Melomakarona)
 date: "2016-12-24 7:30:35 -0400"
 author: Joanne

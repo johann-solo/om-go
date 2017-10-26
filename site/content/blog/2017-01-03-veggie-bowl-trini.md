@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Veggie bowl &mdash; Trini style
 date: "2017-01-03 7:30:35 -0400"
 author: Joanne

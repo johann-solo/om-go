@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spiced Coffee Cake with a Caramel Rum Glaze
 date: '2017-04-26 7:30:35 -0400'
 author: Joanne

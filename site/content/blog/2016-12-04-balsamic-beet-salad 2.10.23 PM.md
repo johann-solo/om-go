@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Roasted balsamic beet salad with goat cheese and caramelised pecans
 date: "2016-12-04 8:30:35 -0400"
 author: Joanne

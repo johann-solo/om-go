@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The top 3 wineries of Santorini
 date: "2016-12-09 7:30:35 -0400"
 author: Joanne

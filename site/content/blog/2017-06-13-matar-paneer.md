@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Matar Paneer Masala
 date: '2017-06-13 7:30:35 -0400'
 author: Joanne

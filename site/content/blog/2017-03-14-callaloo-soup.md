@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Callaloo soup &mdash; Joanne style
 date: '2017-03-14 7:30:35 -0400'
 author: Joanne

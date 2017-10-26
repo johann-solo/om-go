@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to prep for a stress-free vacation"
 date:   2016-09-15 09:30:35 -0400
 author: Joanne

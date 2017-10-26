@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Top 5 things to do at Maracas Bay
 date: "2017-02-14 7:30:35 -0400"
 author: Joanne

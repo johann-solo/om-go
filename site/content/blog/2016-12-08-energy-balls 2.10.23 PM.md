@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Raw chocolate peanut butter energy bliss balls
 date: "2016-12-06 7:30:35 -0400"
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Awesome platters for entertaining your guests
 date: "2017-02-17 7:30:35 -0400"
 author: Joanne

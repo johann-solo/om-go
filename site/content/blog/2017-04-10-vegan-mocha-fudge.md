@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vegan mocha fudge
 date: '2017-04-10 7:30:35 -0400'
 author: Joanne

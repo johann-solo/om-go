@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bourbon Pineapple upside-down cake
 date: '2017-05-04 7:30:35 -0400'
 author: Joanne
@@ -27,9 +26,9 @@ img="/img/MAY2017/pineapple_cake_3.jpg"
 title="Pineapple upside-down cake"
 caption="That sweet and tart caramel colour glaze just takes the cake" %}
 
-Ok I started off on a positive note but now I'm going to go down a bit of a negative path.  One that's directed to something that will probably create some food enemies. That is the use of maraschino cherries in pineapple upside down cake! I don't know who came up with that idea but I'm not a fan of them in anything let alone this cake.  Yes they may add something decorative but if you only knew what goes into getting them to look the way they do, you wouldn't touch them any more either. 
+Ok I started off on a positive note but now I'm going to go down a bit of a negative path.  One that's directed to something that will probably create some food enemies. That is the use of maraschino cherries in pineapple upside down cake! I don't know who came up with that idea but I'm not a fan of them in anything let alone this cake.  Yes they may add something decorative but if you only knew what goes into getting them to look the way they do, you wouldn't touch them any more either.
 
-> It pairs perfectly with a scoop of coconut icecream 
+> It pairs perfectly with a scoop of coconut icecream
 
 That isn't my only gripe about them either, although it's a big one. I just don't like the taste of them. They are literally soaked moist sugar balls. If they still made them like they originally were made - just soaked in alcohol, that would be a different story. But these don't even taste like cherries and when I see them in a drink/cocktail, cake or anything other than a kiddie drink like a Shirley temple, my brain just things cheap. It's sound so snobby but it's the truth.  I totally get turned off of any kind of coloured, sugared, or preserved fruit of any kind.  I don't like the texture, flavour, preservative'y or chemically aftertaste they leave in your mouth, and other than adding an extra dose of sugar and some colour they really don't add anything to a recipe. I honestly think that if you want cherries in something use the real deal or leave them out.  Do your research on them and you will see why that  is just plain good advice.
 <br>
@@ -111,6 +110,3 @@ caption="" %}
 img="/img/MAY2017/pineapple_cake_6.jpg"
 title="Pineapple upside-down cake"
 caption="" %}
-
-
-

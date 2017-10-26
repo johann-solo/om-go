@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_10_19_feta_cheese_filled_hand_pies_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Perfect little pockets of feta that are hard to resist especially fresh out of the oven</p>
+excerpt: Perfect little pockets of feta that are hard to resist especially fresh out of the oven
 ---
 
 Perfect little pockets of feta that are hard to resist especially fresh out of the oven. They really are tempting especially out of the oven.  I always burn my tongue because I’m not patient enough to wait for them to cool! As you can see from the ingredients below, these are pretty basic and simple but maybe that’s why they are so good. Peanut butter cookies are pretty basic too but you literally can’t stop eating them. Same principle applies here I think.

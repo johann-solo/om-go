@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 3 Cheese Loaded Lasagna with Herb and Garlic Cheesy Bread
 date: 2017-08-03
 author: Joanne

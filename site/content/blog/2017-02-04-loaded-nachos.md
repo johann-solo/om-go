@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nachos supreme sheet pan loaded nachos
 date: "2017-02-04 7:30:35 -0400"
 author: Joanne

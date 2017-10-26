@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mt Plaisir &mdash; a not so hidden gem in Trinidad's north coast
 date: '2017-03-21 7:30:35 -0400'
 author: Joanne

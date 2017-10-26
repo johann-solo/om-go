@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fabulously flavourful Geera Chicken
 date: '2017-06-20 7:30:35 -0400'
 author: Joanne

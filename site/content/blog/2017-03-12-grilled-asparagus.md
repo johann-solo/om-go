@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Brown butter lemon garlic grilled asparagus
 date: '2017-03-12 7:30:35 -0400'
 author: Joanne

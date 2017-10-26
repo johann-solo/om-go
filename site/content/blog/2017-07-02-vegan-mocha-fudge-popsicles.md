@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vegan mocha fudge popsicles
 date: 2017-07-02T17:41:47.081Z
 author: Joanne

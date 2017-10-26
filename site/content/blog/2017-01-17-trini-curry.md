@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Trini style curry chicken
 date: "2017-01-17 7:30:35 -0400"
 author: Joanne

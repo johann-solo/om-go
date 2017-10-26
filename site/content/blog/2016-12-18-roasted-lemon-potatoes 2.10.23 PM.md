@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Greek Roasted Lemon Potatoes (lemonates patates)
 date: "2016-12-18 7:30:35 -0400"
 author: Joanne

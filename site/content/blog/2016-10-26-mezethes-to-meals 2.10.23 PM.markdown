@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Turn your mezethakia into a meal"
 date:   2016-10-26 09:30:35 -0400
 author: Joanne

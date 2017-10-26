@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Melt in your mouth Greek shortbread cookies (kourabiethes)
 date: "2016-12-22 7:30:35 -0400"
 author: Joanne

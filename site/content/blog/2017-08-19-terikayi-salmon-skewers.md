@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Terikayi Salmon Skewers With Sesame Buckwheat Soba Noodles
 date: 2017-08-19T19:45:00.000Z
 author: Joanne
@@ -108,4 +107,3 @@ Serves 4
 4. Plate and top with sliced scallions and sesame seeds, top with 2 salmon skewers and a handful of sprouts  
 
 ![Terikayi Salmon Skewers](/images/uploads/2017_08_19_terikayi_salmon_11.jpg)
-

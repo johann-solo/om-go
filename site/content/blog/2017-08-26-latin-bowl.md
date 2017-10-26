@@ -6,9 +6,8 @@ thumbnail: /images/uploads/2017_08_26_fiesta_bowl_1.JPG
 image: null
 categories: Blog
 tags: Food
-excerpt: >-
-  <p>Fabulous Latin American flavours that with keep you full and satisfied and
-  counting gains</p>
+excerpt: Fabulous Latin American flavours that with keep you full and satisfied and
+  counting gains
 ---
 
 This is by far my favourite of the four recipes I did in collaboration with the @trainingpad! Don't get me wrong I loved them all but I have a special sort of love for Latin flavours and this meal really delivers in that department. Those flavours (plural cause Latin flavours include many) are probably on my list of top three fav flavours ever and can't get enough. If you are the same make sure to make a double batch of each recipe because you will love each component. If not-  what is wrong with you? Joking- but this meal may make you a convert!

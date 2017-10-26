@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Classic Niçoise salad &mdash; a little piece of the south of France on a plate
 date: 2017-08-09T00:00:00.000Z
 author: Joanne
@@ -119,4 +118,3 @@ Serves at least two or more
 
 <br>
 ![Nicoise Salad](/images/uploads/2017_08_08_nicoise_salad_9.jpg)
-

@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_19_chocolate_coconut_banana_muffins_1.jpg
 categories: blog
 tags: food
-excerpt: <p>A delicious way to make use of your ripened bananas</p>
+excerpt: A delicious way to make use of your ripened bananas
 ---
 
 ![Dark Chocolate Coconut Banana Muffins](/images/uploads/2017_09_19_chocolate_coconut_banana_muffins_2.jpg)

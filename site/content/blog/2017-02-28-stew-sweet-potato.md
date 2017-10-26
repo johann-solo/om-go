@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rich Caribbean stew (stewed) beef and creamy sweet potato mash
 date: "2017-02-28 7:30:35 -0400"
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Loaded pearl couscous salad with beets, feta and walnuts
 date: '2017-03-26 7:30:35 -0400'
 author: Joanne

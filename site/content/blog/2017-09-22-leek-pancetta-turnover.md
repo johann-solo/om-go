@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_22_leek_pancetta_turnover_1.jpg
 categories: blog
 tags: food
-excerpt: <p>A savoury and hearty turnover just in time for Fall </p>
+excerpt: A savoury and hearty turnover just in time for Fall
 ---
 ![Leek and pancetta turnovers](/images/uploads/2017_09_22_leek_pancetta_turnover_2.jpg)
 <br>

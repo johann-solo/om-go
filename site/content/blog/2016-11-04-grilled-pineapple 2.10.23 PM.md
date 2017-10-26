@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Make it a tropical night with grilled pineapple"
 date:   2016-11-04 09:30:35 -0400
 author: Joanne

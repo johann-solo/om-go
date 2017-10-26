@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rosemary sage sweet potato kale and sausage hash
 date: "2016-11-14 10:30:35 -0400"
 author: Joanne

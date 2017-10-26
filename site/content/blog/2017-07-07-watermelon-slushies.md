@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Watermelon Slushy Cocktails
 date: 2017-07-07T12:21:26.516Z
 author: Joanne

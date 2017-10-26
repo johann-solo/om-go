@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Maple Ginger Chili Shrimp Soba Bowls
 date: 2017-07-20
 author: Joanne

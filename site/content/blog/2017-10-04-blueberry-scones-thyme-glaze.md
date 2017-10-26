@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_29_blueberry_scones_thyme_1.jpg
 categories: blog
 tags: food
-excerpt: <p>This pairing of blueberry and thyme will make you wonder why you made scones any other way</p>
+excerpt: This pairing of blueberry and thyme will make you wonder why you made scones any other way
 ---
 
 It’s a great feeling when you finally get a recipe just the way you want it.  That is how I felt about these scones. I have tried so many recipes and they have all been good but just not great. The great thing about trying so many types of scones and recipes for scones over the years is that you get to know and learn the basics when it comes to the techniques involved.

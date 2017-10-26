@@ -1,5 +1,4 @@
 ---
-layout: post
 title: White bean Cassoulet and Sausage with Pistou
 date: '2017-06-28 7:30:35 -0400'
 author: Joanne
@@ -124,5 +123,3 @@ caption="" %}
 img="/img/JUNE2017/cassoulet_pistou_10.jpg"
 title="White Bean Cassoulet Pistou"
 caption="" %}
-
-

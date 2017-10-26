@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Vanilla Maple Roasted peaches with Mascarpone
 date: 2017-07-21T00:00:00.000Z
 author: Joanne
@@ -72,4 +71,3 @@ I think this would be a great anytime dessert but would look kind of special ser
 
 <br>
 ![Roasted Peaches](/images/uploads/2017_07_21_roasted_peaches_6.jpg)
-

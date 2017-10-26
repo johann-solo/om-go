@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Picnic essentials
 date: 2017-07-01T19:04:29.986Z
 author: 'Joanne '

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Paris in a day"
 date:   2016-10-07 01:30:35 -0400
 author: Johann

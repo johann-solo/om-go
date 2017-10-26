@@ -5,7 +5,7 @@ author: Joanne
 thumbnail: /images/uploads/2017_09_25_plum_clafoutis_1.jpg
 categories: blog
 tags: food
-excerpt: <p>An elegant tender almost custard-like dessert that’s quick and easy to make and pleases the masses</p>
+excerpt: An elegant tender almost custard-like dessert that’s quick and easy to make and pleases the masses
 ---
 
 This was my first go of experimenting making clafoutis/clafouti and I was pleasantly surprised at how quick and easy it was to whip up. I experimented with a kingaurthorflour.com recipe and a thekitchn.com one and came up with this one which works really well. I look forward to experimenting with different fruit.

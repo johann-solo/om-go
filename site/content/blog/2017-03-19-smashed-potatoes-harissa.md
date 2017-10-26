@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Smashed herbed potatoes with harissa
 date: '2017-03-19 7:30:35 -0400'
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A tropical twist on a classic"
 date:   2016-06-16 11:37:35 -0400
 author: Guest Post - Johann (aka the hubby)

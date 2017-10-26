@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to make authentic Greek stuffed peppers"
 date:   2016-09-02 07:00:35 -0400
 author: Joanne

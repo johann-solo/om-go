@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_30_grilled_romaine_lettuce1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: '<p>A great way to eat your salad and a perfect side for anything grilled</p> '
+excerpt: 'A great way to eat your salad and a perfect side for anything grilled'
 ---
 Hope the grills are still hot you guys cause this grilled romaine lettuce is just the change you want in a salad. Still on the crisp side but with a brilliant smokiness. The dressing gives it a lovely little fresh zing and it's also the easiest thing to make on the grill!
 <br>

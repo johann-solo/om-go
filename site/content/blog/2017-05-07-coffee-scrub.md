@@ -1,5 +1,4 @@
 ---
-layout: post
 title: DIY Coffee Scrub
 date: '2017-05-07 7:30:35 -0400'
 author: Joanne
@@ -65,9 +64,3 @@ Just a quick note though. This is all the info I have picked up and researched a
             img="/img/MAY2017/coffee_scrub_4.jpg"
             title="Coffee scrub"
             caption="" %}
-
-
-
-
-
-

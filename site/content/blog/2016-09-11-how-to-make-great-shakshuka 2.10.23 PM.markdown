@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "How to make a great shakshuka"
 date:   2016-09-11 07:00:35 -0400
 author: Joanne

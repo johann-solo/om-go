@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lemon rosewater and almond bundt cake
 date: "2017-01-26 7:30:35 -0400"
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sweet potato and chana (chickpea) curry
 date: "2016-12-28 7:30:35 -0400"
 author: Joanne

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sun damage is real and so is hyperpigmentation"
 date:   2016-08-14 07:00:35 -0400
 author: Joanne

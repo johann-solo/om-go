@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Top 5 things to do in Southern California"
 date:   2016-10-28 09:30:35 -0400
 author: Joanne

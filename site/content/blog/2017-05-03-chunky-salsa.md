@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Keep-ya-coming back chunky tomato salsa
 date: '2017-05-02 7:30:35 -0400'
 author: Joanne
@@ -62,4 +61,3 @@ So let's talk salsa. There are so many ways of making salsa. So many flavour com
             img="/img/MAY2017/chunky_salsa_4.jpg"
             title="Chunky salsa"
             caption="" %}
-
