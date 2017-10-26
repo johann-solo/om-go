@@ -9,6 +9,7 @@ I was born and raised in Hamilton, Ontario in Canada (therefore naturally polite
 Yes I really really love food and enjoy everything about it — including the cooking part. Maybe not so much the clean up part, but my hubby Johann is good for that!! I don’t have any children at the moment but between work and regular life, there’s usually little time left to cook as much or even the type of meals I would like to cook. So over the years I have collected recipes that’s are simple, delicious, quick and many times nostalgic of home cooked food by those loving hands.
 
 > One thing I absolutely love here is that I get mangoes and lemons and avocados and papaya and watermelon … I really could go on.
+
 Oh but there is something that has proven to be a bit challenging over the last few years. I have been living in Trinidad and Tobago. Huh? Why here? Well there’s a lot of factors to that question but to make a very long story short my husband is Trinidadian. Born and raised until he was in his late teens and then moved to Canada with his family.
 
 So we decided to make the move in the Fall of 2012. What could be challenging about living on a Caribbean island you may be thinking? It’s all coconuts beach and rum, right? Well sometimes, but I will stick to the food challenges instead of overall.
