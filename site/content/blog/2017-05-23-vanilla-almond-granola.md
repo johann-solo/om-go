@@ -6,7 +6,7 @@ thumbnail: /images/uploads/almond_granola_2.jpg
 image: MAY2017/almond_granola_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Know exactly what's in your granola by making it yourself</p>
+excerpt: Know exactly what's in your granola by making it yourself
 ---
 
 One of the things I make homemade and enjoy making is granola. It is a weekly or bi monthly food prep item i make regularly including peanut butter.  Yes it's cheaper but that's not really the only reason I make it.  When you make your own granola and peanut butter and other similar goods you really can control what goes into them.  A lot of store bought brands - even some that claim that they are natural have a lot of other added ingredients that you may not want to be including in your daily diet.  Understandably they may include preservatives to lengthen shelf life but many also contain a lot of sugar as well as added artificial flavourings. So I like to make these things at home myself because one they are pretty simple to put together, and two they are pretty quick to make or at least don't take a lot of prep time, and three you can customize the flavours.

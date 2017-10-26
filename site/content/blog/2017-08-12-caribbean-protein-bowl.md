@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_12_caribbean_bowl_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>A protein packed taste of island life</p>
+excerpt: A protein packed taste of island life
 ---
 ​
 Yes yes yes I know I said not all the bowls I will be making in collaboration with my friends at the [@trainingpad](https://www.instagram.com/trainingpad) will be made with grilled chicken. I did not lie I promise. This is the last grilled chicken bowl. The other two will have something other than chicken.  But I had to share this recipe for jerk chicken since I last made it using Dennis Prescott's recipe from Eat Delicious that we did last month for rainy day bites cookbook club. It was fabulous untouched but I wanted to further 'caribbeanise' it or 'Trinify' it. I did and it was fabulous.

@@ -6,68 +6,49 @@ thumbnail: /images/uploads/cassoulet_pistou_5.jpg
 image: JUNE2017/cassoulet_pistou_1.jpg
 categories: blog
 tags: food
-excerpt: >-
-  <p>A satiating peasant dish packed with flavour and comfort. This white bean
-  cassoulet and sausage will prove to be a hit. Don't forget the pistou! </p>
+excerpt: A satiating peasant dish packed with flavour and comfort. This white bean
+  cassoulet and sausage will prove to be a hit. Don't forget the pistou!
 ---
 
 I can honesty say that we (my hubby and I) can live on peasant food like this. Peasant food is really scraps or leftovers and usually includes accessible inexpensive foods that are cooked down and made to taste so good.  Originally cassoulet was really that kind of food. Beans cooked in some form of broth and with some sort of meat or even preserved meat from chicken, duck to mutton.
+
 <br>
-<br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_3.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_3.jpg)  
 <br>
 
 This is a classic French dish that has so many versions and styles of making it.  This is my favorite way to eat it. I think the sausages add a beautiful flavour to the broth and overall dish. No claims of authenticity here but definitely going to claim tastiness, heartiness and a great dish to bring to the table, break bread with and share a couple of glasses of wine over.
+
 <br>
-<br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_6.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_6.jpg)  
 <br>
 
-Let's talk about the beans first off. Any white beans would work beautifully.  I love butter beans and that's why I use them for so many of my bean recipes like [fasolatha](https://www.oliveandmango.com/fasolatha) and [gigantes plaki](https://www.oliveandmango.com/gigantes). You can tell I'm a bean girl! Cannellini beans also work very well here too though.  Using canned makes this dish super quick and easy. But I will admit that using dried and soaked beans is always more flavourful.  So use whichever option you prefer. I use the canned if I'm making this during the week. But if it's the weekend and I have more time, I will use the dry, soaking them overnight and slow cooking them with the rest of the ingredients until nice and tender.  
+Let's talk about the beans first off. Any white beans would work beautifully.  I love butter beans and that's why I use them for so many of my bean recipes like [fasolatha](https://www.oliveandmango.com/fasolatha) and [gigantes plaki](https://www.oliveandmango.com/gigantes). You can tell I'm a bean girl! Cannellini beans also work very well here too though.  Using canned makes this dish super quick and easy. But I will admit that using dried and soaked beans is always more flavourful.  So use whichever option you prefer. I use the canned if I'm making this during the week. But if it's the weekend and I have more time, I will use the dry, soaking them overnight and slow cooking them with the rest of the ingredients until nice and tender.
+
 <br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_4.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_4.jpg)  
 <br>
 
 Now for the sausages. I used these beautiful tomato basil sausages from Delmano a local company that makes the best all meat and no filler sausages. The flavours in the sausages go perfectly with this dish especially with the Pistou!  Perfect!  What I wanted to mention though was that you can brown or sauté them right from the start in the same pot you will cook the beans in so that the whole pot gets the wonderful flavours from the brown bits they leave behind. If you're going that route, once they are cooked remove them from the pan and add more EVOO and butter reducing amounts depending on how much oil is left behind from the sausages. Then deglaze the pan by adding the onions and veggies. Either way works well but I usually do them separate as I have written in the recipe. It kind of saves a little time (or it feels like it does anyways) because I can sauté them while the beans are cooking.
+
 <br>
-<br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_5.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_5.jpg)  
 <br>
 
-Now for the pistou. Or shall we call its pesto's twin or is it cousin? They are very similar and I will leave it at that without starting a war.  This is my take on it using both basil and spinach for extra green and extra nutrition. It's so deliciously flavourful and I love it over the cassoulet and I also love to top soups with it too!  
+Now for the pistou. Or shall we call its pesto's twin or is it cousin? They are very similar and I will leave it at that without starting a war.  This is my take on it using both basil and spinach for extra green and extra nutrition. It's so deliciously flavourful and I love it over the cassoulet and I also love to top soups with it too!
+
 <br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_2.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_2.jpg)  
 <br>
 
-There's a million variations to this too. You can alter it if you're nut free or dairy free by just omitting. I didn't have fresh spinach at the time so I used frozen and it was all the same in the food processor. Using the food processor is so unauthentic when it comes to pistou, but it sure does the job and does it quickly.  More authentic would be to use a mortar and pestle to grind everything and release all the aromatics from the herbs and garlic. I'm pretty happy with the flavour outcome of the food processor though so I'm sticking with that.  
+There's a million variations to this too. You can alter it if you're nut free or dairy free by just omitting. I didn't have fresh spinach at the time so I used frozen and it was all the same in the food processor. Using the food processor is so unauthentic when it comes to pistou, but it sure does the job and does it quickly.  More authentic would be to use a mortar and pestle to grind everything and release all the aromatics from the herbs and garlic. I'm pretty happy with the flavour outcome of the food processor though so I'm sticking with that.
+
 <br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_7.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_7.jpg)  
 <br>
 
 This is an any season dish full of comfort and really makes a belly happy. It's also super easy and pretty cost effective too. So go ahead and give it a try.  
 <br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_8.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_8.jpg)  
 <br>
 <br>
 
@@ -119,7 +100,5 @@ caption="" %}
 * Add all ingredients to blender or food processor except the olive oil  and process adding the EVOO gradually until smooth. Serve immediately over pistou or store in sealed container in the fridge for up to 5-7 days to add to your favourite soups or pastas   
 
 <br>
-{% include image.html
-img="/img/JUNE2017/cassoulet_pistou_10.jpg"
-title="White Bean Cassoulet Pistou"
-caption="" %}
+![White Bean Cassoulet Pistou](/img/JUNE2017/cassoulet_pistou_10.jpg)  
+<br>

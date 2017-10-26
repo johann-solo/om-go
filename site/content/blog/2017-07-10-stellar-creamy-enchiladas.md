@@ -6,9 +6,8 @@ thumbnail: /images/uploads/2017_07_10_ enchiladas_4.jpg
 image: null
 categories: blog
 tags: food
-excerpt: >-
-  The perfect midweek meal. These enchiladas are simple to prepare and easy to
-  make ahead of time.</p>
+excerpt: The perfect midweek meal. These enchiladas are simple to prepare and easy to
+  make ahead of time
 ---
 I can't even tell you how beloved these enchiladas are in my home! We adore them and my husband always reminds me that we don't make them enough. I have brought them to many potlucks and they are quick to get eaten and the recipe for them is always requested.
 <br>    

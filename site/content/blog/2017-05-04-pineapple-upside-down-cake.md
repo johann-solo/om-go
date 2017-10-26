@@ -6,9 +6,8 @@ thumbnail: /images/uploads/pineapple_cake_1.jpg
 image: MAY2017/pineapple_cake_1.jpg
 categories: blog
 tags: food
-excerpt: >-
-  <p>Pineapple upside down cake's older brother &mdash; a mature version of this
-  classic</p>
+excerpt: Pineapple upside down cake's older brother &mdash; a mature version of this
+  classic
 ---
 I am going to start off by saying how tasty this upside down cake is!  This recipe as most of my baking recipes, took several tries and substitutions to get it to the way I like it.  I had a pretty standard recipe that I had made of a pineapple upside down cake stored from long ago (a screen shot recipe). I wasn't super excited about it.  The cake part had a great flavour but I wasn't happy with the texture so I researched and tested and came up with the one below.
 <br>

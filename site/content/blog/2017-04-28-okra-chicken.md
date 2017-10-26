@@ -5,7 +5,7 @@ author: Joanne
 image: APR2017/okra_chicken_2.jpg
 categories: blog
 tags: food
-excerpt: <p>With warmer weather coming, enjoy a classic Greek summer dish</p>
+excerpt: With warmer weather coming, enjoy a classic Greek summer dish
 
 ---
 

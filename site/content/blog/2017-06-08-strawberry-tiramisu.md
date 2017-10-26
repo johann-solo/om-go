@@ -6,7 +6,7 @@ thumbnail: /images/uploads/strawberry_tiramisu_1.jpg
 image: JUNE2017/strawberry_tiramisu_1.jpg
 categories: blog
 tags: dessert
-excerpt: <p>This refreshing spin on your typical tiramisu will not disappoint</p>
+excerpt: This refreshing spin on your typical tiramisu will not disappoint
 ---
 
 This is a great recipe for anyone who loves tiramisu and anything light and creamy like a moussey dessert but don't let the lightness fool you, it's very rich. Personalised cups or glasses of it are the perfect portion size for a sweet treat like this. Whether you use fresh strawberries or if you are using frozen, it's wonderful both ways.

@@ -6,9 +6,8 @@ thumbnail: /images/uploads/2017_07_24_black_eyed_peas_greens_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: >-
-  <p>A delicious, nourishing and Mediterranean take on a bean salad. Perfect
-  side or a main as I like it &mdash; served either warm or cold</p>
+excerpt: A delicious, nourishing and Mediterranean take on a bean salad. Perfect
+  side or a main as I like it &mdash; served either warm or cold
 ---
 
 This dish is probably more Mediterranean than Greek but we Greeks sure love it! Traditionally its made with beet greens or some kind of wild green.  But when all you have is kale you make it with kale, but this would be equally delicious with spinach, Swiss chard  and all sorts of other leafy greens.  You can even use a combo of them in the recipe.

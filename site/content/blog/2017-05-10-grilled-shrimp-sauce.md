@@ -6,7 +6,7 @@ thumbnail: /images/uploads/grilled_shrimp_sauce_1.jpg
 image: MAY2017/grilled_shrimp_sauce_1.jpg
 categories: blog
 tags: food
-excerpt: <p>Add a little spice and excitement to your homade BBQ sauce</p>
+excerpt: Add a little spice and excitement to your homade BBQ sauce
 ---
 
 Grilling season is upon many of you friends and pretty much all year round for me.  It's nice to have something quick and easy to grill that has lots of flavour. One of the things I love to grill that fits the bill for all of that is shrimp. They take very little time to cook and don't require lots of marinating time. They also taste fabulous with this Sriracha BBQ sauce. This sauce definitely has some kick which I love but if you are nervous about that just reduce the amount of Sriracha in the recipe by half. You will still get some heat but with less intensity.  

@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_07_20_maple_ginger_soba_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>Tender saucy shrimp and noodles. The perfect midweek meal which comes together quickly and will satisfy the whole family!</p>
+excerpt: Tender saucy shrimp and noodles. The perfect midweek meal which comes together quickly and will satisfy the whole family!
 ---
 
 I'm going to keep this one brief guys.  At least about the recipe itself. It's a great recipe that has a good little kick of heat in it and includes a good amount of veggies.  It's totally satisfying and the sauce is absolutely 'lick the bowl clean' good.  

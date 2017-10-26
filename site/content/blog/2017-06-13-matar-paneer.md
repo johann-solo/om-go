@@ -6,9 +6,8 @@ thumbnail: /images/uploads/matar_paneer_3.jpg
 image: JUNE2017/matar_paneer_2.jpg
 categories: blog
 tags: food
-excerpt: >-
-  <p>This classic Indian dish is vegetarian, loaded with wonderful spices and
-  absolutely delicious</p>
+excerpt: This classic Indian dish is vegetarian, loaded with wonderful spices and
+  absolutely delicious
 ---
 Matar paneer was introduced to me by my husband. He would always order it at this little Tamil place that we would eat at while we were dating and beyond. I totally fell in love with it (and him as well) and it became a favourite and a must order item when we ate out at any East Indian place.  Also on that list is saag paneer and aloo gobi. I will share my renditions of those another time though. This recipe is all about the matar, mattar, mutter, muttar paneer depending on where you are from
 and how you spell and pronounce it.

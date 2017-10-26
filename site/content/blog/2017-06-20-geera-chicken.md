@@ -6,9 +6,8 @@ thumbnail: /images/uploads/IMG_2433.PNG
 image: JUNE2017/Geera_chicken_1.jpg
 categories: blog
 tags: food
-excerpt: >-
-  <p>A great alternative to your basic curry chicken. Geera chicken is aromatic,
-  flavourful and quintessentially Trinidadian</p>
+excerpt: A great alternative to your basic curry chicken. Geera chicken is aromatic,
+  flavourful and quintessentially Trinidadian
 ---
 What is Geera anyways? Simply put its roasted and ground cumin seeds. It's roots are East Indian and adopted into Trinidadian cuisine. Trinis made it their own by adding their classic [Caribbean green seasoning](https://www.oliveandmango.com/green-seasoning). Geera is also called zeera and I have also seen it read as jeera depending who and where it's being made.
 

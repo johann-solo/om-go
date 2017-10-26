@@ -6,7 +6,7 @@ permalink: potato-salad
 image: APR2017/potato_salad_1.jpg
 categories: blog
 tags: food
-excerpt: <p>A lighter delicious version of a creamy potato salad</p>
+excerpt: A lighter delicious version of a creamy potato salad
 
 ---
 

@@ -5,7 +5,7 @@ author: Joanne
 image: APR2017/spiced_coffee_cake_1.jpg
 categories: blog
 tags: food
-excerpt: <p>The perfect accompaniment to any hot beverage!!</p>
+excerpt: The perfect accompaniment to any hot beverage!!
 
 ---
 

@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_03_cheese_lasagna_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>The perfect family dinner &mdash; hearty, cheesy and so satisfying!</p>
+excerpt: The perfect family dinner &mdash; hearty, cheesy and so satisfying!
 ---
 ​
 Let me start by saying this isn't an authentic Italian lasagna. It's just one that I have been making for years and me and hubby love it and it's my go to recipe that I use whenever I'm making it for a crowd or for company.  I make it a lot and I know it seems like a lot of ingredients and steps but really I have made it so much that I don't even notice, I sort of have a system down when I make it and it doesn't seem like too much effort.  If I'm making it for just us then I will make two and freeze one to have in a pinch at a later day. If I'm tight for time the day I want to make it for company I will make the sauce the night before and refrigerate it until I need it and that saves me a ton of time and then I just have to remember to thaw the frozen spinach. If you don't want to use frozen spinach then definitely use fresh and just chop and sauté it with the mushrooms.

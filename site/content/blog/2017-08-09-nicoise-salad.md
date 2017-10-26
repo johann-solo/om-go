@@ -6,9 +6,8 @@ thumbnail: /images/uploads/2017_08_08_nicoise_salad_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: >-
-  <p>Laid back dinner or lunch that is so easy to put together and absolutely
-  delicious and refreshing!</p>
+excerpt: Laid back dinner or lunch that is so easy to put together and absolutely
+  delicious and refreshing!
 ---
 ​
 We were in Paris last September and Im truly missing it and Europe on the whole! I wish I could visit every year but that's not possible so the best way to get my fix is to bring Europe to me by making and enjoying some of the fabulous dishes we enjoyed over seas and bringing them right to our dinner table.

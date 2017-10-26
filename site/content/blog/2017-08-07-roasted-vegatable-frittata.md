@@ -6,9 +6,8 @@ thumbnail: /images/uploads/2017_08_07_vegetable_frittata_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: >-
-  <p>Creamy, sweet from roasting the veggies and savory with the added cheese
-  and bacon!</p>
+excerpt: Creamy, sweet from roasting the veggies and savory with the added cheese
+  and bacon!
 ---
 ​
 I will be keeping this post pretty simple and short folks.  I make this frittata a lot. And for obvious reasons. My love for roasted veggies and how darn delicious it is! It's perfect for brunch and slow holiday or weekend mornings. When I do make it there's usually leftovers when it's just the two of us and I absolutely love having it for dinner too with a glass of white wine and some greens!  And it's great on toast the next day  as well slathered with some hot sauce.

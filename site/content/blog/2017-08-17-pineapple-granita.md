@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_17_pineapple_granita_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>Summer cool down &mdash; Tropical style </p>
+excerpt: Summer cool down &mdash; Tropical style
 ---
 ​
 My ultimate favourite granita is a coffee one which I will be making and sharing another time. I had it in Italy and was simply the best.  That was one of my favorite experiences with granita.  

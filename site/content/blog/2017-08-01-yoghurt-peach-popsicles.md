@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_01_yoghurt_popsicles_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>​Best way to eat popsicles for breakfast &mdash; a perfect hot weather treat with only the good stuff in it!</p>
+excerpt: ​Best way to eat popsicles for breakfast &mdash; a perfect hot weather treat with only the good stuff in it!
 ---
 ​
 It's really hot over here &mdash; like right from the get go! Not from 9 or 10 but right from 6AM. I'm also a morning coffee drinker so my internal temp is usually sky high before I leave my home (can anyone relate or is it just me?) so these little pops are the perfect cooling breakfast that I can even take on the go. Not only are they practical for hot weather, they are also quite delicious!

@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_05_mediterranean_bowl_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>This Mediterranean inspired bowl is packed full of flavour. It's a simple and delicious way to meal prep that will keep you going strong all day</p>
+excerpt: This Mediterranean inspired bowl is packed full of flavour. It's a simple and delicious way to meal prep that will keep you going strong all day
 ---
 ​
 This is one of my go to bowls when it comes to meal prep.  It's pretty simple and full of flavour!  The chicken is absolutely delicious and can be repurposed with other sides as well if you're meal prepping.  Everything can be grilled and cooked in 30 minutes which makes it great as a midweek meal. All it takes is a bit of planning and remembering to marinate your chicken earlier in the day or the night before.  Everything else comes together pretty quickly. I even like to make my yoghurt sauce and dressing for the veggies the night before because I like to make things a bit easier for myself but that is not necessary.  

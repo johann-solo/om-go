@@ -6,9 +6,8 @@ thumbnail: /images/uploads/santorini_21.jpg
 image: JUNE2017/santorini_1.jpg
 categories: blog
 tags: travel
-excerpt: >-
-  <p>Don't miss a thing on your next visit to one of the most picturesque
-  islands you will ever visit</p>
+excerpt: Don't miss a thing on your next visit to one of the most picturesque
+  islands you will ever visit
 ---
 This post is a long time coming. At least 36 weeks of #omsantorinisaturdays leading up to it. Well it's finally here and I'm excited to share more than photos, although there will be many of those too! Planning a visit? Going back for more than a few short hours of stopping over on a cruise? Well I'm sharing a few of the highlights of our trip and some tips so that you don't miss a thing while you visit!
 <br>

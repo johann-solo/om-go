@@ -6,7 +6,7 @@ thumbnail: /images/uploads/2017_08_10_beef_bulgogi_1.jpg
 image: null
 categories: blog
 tags: food
-excerpt: <p>A good balance of sweet and spice and everything nice</p>
+excerpt: A good balance of sweet and spice and everything nice
 ---
 ​
 I was super happy to have been doing the book ***Eat Delicious*** by Dennis Prescott for the Rainy Day Bites cookbook club last month. His book is a fabulous little treasure of some great recipes and his photography is top notch. I love how he processes his photos. The food jumps right off the page at you and you want to just reach out and grab it. One of the recipes I knew I had to try was his beef bulgogi. It's a favourite dish for me and my hubby and I have no idea why but I was always intimidated to try and make it myself.

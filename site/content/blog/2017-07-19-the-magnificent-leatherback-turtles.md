@@ -6,9 +6,8 @@ thumbnail: /images/uploads/2017_07_19_leatherbacks_1.jpg
 image: null
 categories: blog
 tags: travel
-excerpt: >-
-  <p>Get up close and personal with the threatened but beautiful leatherback
-  turtles in Trinidad and Tobago</p>
+excerpt: Get up close and personal with the threatened but beautiful leatherback
+  turtles in Trinidad and Tobago
 ---
 We are not alone. There are giant creatures from another realm that invade our world. That's how it may feel seeing the mammoth yet shy leatherback turtles emerging onto a beach in the dead of night. These gentle creatures are the largest of all living turtles, and seeing these amazing animals is not something to be missed &mdash; especially if you are a nature lover.  
 <br>
