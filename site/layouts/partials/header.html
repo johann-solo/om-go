@@ -3,7 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="description" content="DESCRIPTION">
+    <meta name="description" content= "{{ $.Site.Params.description }}">
+    <!-- Open Graph -->
+    <meta name="og:title" content="Olive & Mango">
+    <meta name="og:url" content="{{ $.Site.BaseURL }}">
+    <meta name="og:image" content="/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_2.jpg">
+
     <base href="{{ $.Site.BaseURL }}">
     <title>{{ $.Site.Title }} | {{ $.Site.Params.description }}</title>
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700i|Quicksand:400,700" rel="stylesheet">
