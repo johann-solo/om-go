@@ -6,9 +6,9 @@
     <meta name="description" content= "{{ $.Site.Params.description }}">
     <!-- Open Graph -->
     <meta name="og:title" content="Olive & Mango">
-    <meta name="og:url" content="{{ .URL }}">
-    <meta name="og:image" content="{{ .Params.thumbnail }}">
-    <meta name="og:description" content="{{ .Params.excerpt }}">
+    <meta name="og:url" content="{{ $.Site.BaseURL }}">
+    <meta name="og:image" content="/images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_1.jpg">
+    <meta name="og:description" content="{{ $.Site.Params.description }}">
 
     <base href="{{ $.Site.BaseURL }}">
     <title>{{ $.Site.Title }} | {{ $.Site.Params.description }}</title>
