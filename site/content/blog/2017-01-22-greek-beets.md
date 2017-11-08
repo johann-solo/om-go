@@ -3,11 +3,10 @@ title: Greek beet salad with a creamy yoghurt dressing (panzarosalata)
 date: "2017-01-22 7:30:35 -0400"
 author: Joanne
 permalink: greek-beets
-image: JAN2017/greek_beets_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>For the love of beets</p>"
+thumbnail: /img/JAN2017/greek_beets_1.jpg
+categories: sides
+tags: ["Greek", "salad"]
+excerpt: For the love of beets
 ---
 
 I don't remember ever growing up having a tonne of beets in my life.  So I don't actually remember at what point I started to cook them.  I remember my mom occasionally making them and serving them roasted with olive oil, vinegar and garlic. I love them that way and for years I made them like that or with red wine vinegar or balsamic.  Then I started to roast them into chips and have them in my veggie bowls. I love the texture and colour they bring to hummus when they are added to it and in fact the colour they add to anything.  They are beautiful jewels whose glossy texture mesmerizes me when I'm peeling them.  They are just plain sensational. And so good for you!!!
@@ -17,13 +16,9 @@ I don't remember ever growing up having a tonne of beets in my life.  So I don't
 One day several years ago (prob like 10) I came across them in a salad made with a garlicky yoghurt dressing. How? Well one of my friends who I also worked with brought them in for my boss. Her mother was his personal cook at least for his lunches and my friend brought him lunch daily. He was obsessed with this beet salad and requested it all the time.  One day she brought extra for the rest of us and I got to try them.  Well I couldn't believe I hadn't tried them earlier because they are not a new thing as far as Greek food is concerned.  I just had never tried them. I don't really know exactly what she had in them but I just tested recipes until i got them tasting the same. So if your in need of a new way to eat beets, here it is! I love this salad and I think you will too!
 <br>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/greek_beets_2.jpg"
-            title="Greek beets"
-            caption="Creamy, slightly tangy and garlicky yoghurt dressing turns these into pink beauties" %}
-
-
+![Greek beets](/img/JAN2017/greek_beets_2.jpg)  
+<br>
+<br>
 
 ## Beet and creamy Greek yoghurt salad (panzarosalata)
 <br>
@@ -55,11 +50,5 @@ One day several years ago (prob like 10) I came across them in a salad made with
 
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/greek_beets_3.jpg"
-            title=""
-            caption="" %}
+![Greek beets](/img/JAN2017/greek_beets_3.jpg)

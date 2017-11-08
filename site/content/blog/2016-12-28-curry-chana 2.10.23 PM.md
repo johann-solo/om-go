@@ -3,11 +3,10 @@ title: Sweet potato and chana (chickpea) curry
 date: "2016-12-28 7:30:35 -0400"
 author: Joanne
 permalink: curry-chana
-image: DEC2016/curry_chana_2.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Complex flavours without the complex ingredients</p>"
+thumbnail: /img/DEC2016/curry_chana_2.jpg
+categories: sides
+tags: curry
+excerpt: Complex flavours without the complex ingredients
 ---
 
 Have you ever looked up a Chinese dish recipe, curry recipe or Thai dish recipe hoping it will be easy with ingredients that you can pronounce and have on hand, only to be disappointed? This is not one of them. It's a curry recipe with more than just curry powder so it has a little more depth of flavour but the rest of the ingredients are simple and basic pantry ingredients that most people who cook usually have on hand.
@@ -55,14 +54,8 @@ Good for two servings plus lunch leftovers (double for more)
 1. Add the slurry and cook stirring frequently for about a minute
 1. Add the potatoes and cook for a couple of minutes tossing to coat them well
 1. Add in the tomatoes, paste, chickpeas and broth or water and bring to a boil and then turn heat down to medium and half cover the pan with lid and let simmer for approx 15 minutes or until the sweet potatoes are done, then remove lid and let it simmer until its reached the preferred thickness.
-1. Serve with rice or naan
+1. Serve with rice or naan  
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/DEC2016/curry_chana_1.jpg"
-            title=""
-            caption="" %}
+![Curry Channa](/img/DEC2016/curry_chana_1.jpg)

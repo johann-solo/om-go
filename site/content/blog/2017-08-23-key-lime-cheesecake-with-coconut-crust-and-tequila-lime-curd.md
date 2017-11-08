@@ -4,8 +4,8 @@ date: 2017-08-23T12:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_23_key_lime_cheesecake_1.JPG
 image: null
-categories: Blog
-tags: Food
+categories: desserts
+tags: pies
 excerpt: 'A zesty, fresh cheesecake that is guaranteed to brighten your day'
 ---
 Any procrastinators out there? Well, I'm having one of those procrastinating kind of evenings! I have so so so many things to do and yet I just want to sit and drink tea and scroll through my friend's posts on Instagram.

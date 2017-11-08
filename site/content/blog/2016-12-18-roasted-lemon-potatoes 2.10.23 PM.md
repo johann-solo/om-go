@@ -3,28 +3,25 @@ title: Greek Roasted Lemon Potatoes (lemonates patates)
 date: "2016-12-18 7:30:35 -0400"
 author: Joanne
 permalink: roasted-lemon-potatoes
-image: DEC2016/roasted_lemon_potatoes_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Skip the restaurant and make this delicious side yourself</p>"
+thumbnail: /img/DEC2016/roasted_lemon_potatoes_1.jpg
+categories: sides
+tags: ["Greek"]
+excerpt: Skip the restaurant and make this delicious side yourself
 ---
 
-Only my favourite potatoes out there! (Other than French fries but we're talking roasted here). These ones are my mom's style and in fact her recipe. When I make them my husband always says he's transported to Dina's (mom's) dinner table and I totally agree. If you have been to a Greek restaurant you may have had them there too.  You don't have to wait to eat them at a Greek restaurant any more. You can make them for yourself!!  Perfect morsels of crispy edged potatoes with a slight tang from the lemon which is balanced out by the richness of the olive oil.  
+Only my favourite potatoes out there! (Other than French fries but we're talking roasted here). These ones are my mom's style and in fact her recipe. When I make them my husband always says he's transported to Dina's (mom's) dinner table and I totally agree. If you have been to a Greek restaurant you may have had them there too.  You don't have to wait to eat them at a Greek restaurant any more. You can make them for yourself!!  Perfect morsels of crispy edged potatoes with a slight tang from the lemon which is balanced out by the richness of the olive oil.
+<br>
+<br>
+![Roasted Potatoes](/img/DEC2016/roasted_lemon_potatoes_2.jpg)  
+<br>
 <br>
 
-{% include image.html
-            img="/img/DEC2016/roasted_lemon_potatoes_2.jpg"
-            title="Roasted Potatoes"
-            caption="Ready to go in" %}
-
-Some people like these on the mushy side and others like them very crispy.  I am kind of in between with a slight leaning towards the crispy side.  But you really can have them any way. They are a perfect side for any meat especially roasted or rotisserie chicken. But I also have them as a vegetarian meal just on their own.  I will sprinkle them with some feta and broil them a bit in the oven to melt the cheese. Add a salad and your done. Perfection!! They also hit all my favourite flavour points; lemon, oregano and olive oil so they are a definite staple in my house.  
+Some people like these on the mushy side and others like them very crispy.  I am kind of in between with a slight leaning towards the crispy side.  But you really can have them any way. They are a perfect side for any meat especially roasted or rotisserie chicken. But I also have them as a vegetarian meal just on their own.  I will sprinkle them with some feta and broil them a bit in the oven to melt the cheese. Add a salad and your done. Perfection!! They also hit all my favourite flavour points; lemon, oregano and olive oil so they are a definite staple in my house.
 <br>
-
-{% include image.html
-            img="/img/DEC2016/roasted_lemon_potatoes_3.jpg"
-            title="Roasted Potatoes"
-            caption="Lemony perfection" %}
+<br>
+![Roasted Potatoes](/img/DEC2016/roasted_lemon_potatoes_3.jpg)  
+<br>
+<br>
 
 The best part about these is that  they are super easy to make and are pretty low maintenance when they get into the oven. It's a no fail recipe too.  They turn out the same great way every time you make them.  They are great for a dinner party not only because they could feed many but they are also a hit with everyone.  I usually give my potatoes an extra hit of lemon juice after they come out of the oven but thats because I love lemony potatoes so that is optional. The recipe itself has more than enough lemon juice in it, without being too over powering.  Well at least I think so.  So if your looking for a different and delicious way of making roasted potatoes these should be calling to you, "Try me try me!" And when you make them and love them just as much as I do; remember to thank Dina!!
 <br>
@@ -63,12 +60,6 @@ If you would like them a little more golden crispy add the butter to them and pu
 <br>
 
 Serve and enjoy!!
-<br><br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/DEC2016/roasted_lemon_potatoes_4.jpg"
-            title="Roasted Potatoes"
-            caption="Hot right out of the oven. Gotta love the afternoon light" %}
+<br>
+![Roasted Potatoes](/img/DEC2016/roasted_lemon_potatoes_4.jpg)

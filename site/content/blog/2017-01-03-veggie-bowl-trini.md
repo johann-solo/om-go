@@ -1,26 +1,24 @@
 ---
-title: Veggie bowl &mdash; Trini style
+title: Veggie bowl - Trini style
 date: "2017-01-03 7:30:35 -0400"
 author: Joanne
 permalink: veggie-bowl-trini
-image: JAN2017/veggie_bowl_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Get a healthy start to your year</p>"
+thumbnail: /img/JAN2017/veggie_bowl_1.jpg
+categories: bowls
+tags: ["Caribbean", "vegetarian"]
+excerpt: Get a healthy start to your year
 ---
 
 My first post of the year! Yay! 2017! It's going to take me a long while to start writing 17 instead of 16 in my dental charts at work. I'm sure it will stick by July- we will see though.  Hopefully all of you enjoyed some good rest and relaxation over the holidays. I always have lots of plans for the holidays. Like big cleaning plans and reorganising and purging but not this year.  I have been working a lot more at the office because we have been short staffed because of a maternity leave so I worked through the holidays.  My work schedule goes back to normal come next week so after that I will make my big cleaning goals happen. I will be sure to keep you posted on how that goes.
 <br>
 <br>
 
-I never have any dietary goals because I'm not about that at all.  I always try to eat well and I don’t feel too guilty about eating the occasional bite of sugar or whatever else that's considered sinful eating.  I usually do try to make a point of being a little more active and have high hopes of planning hikes and outdoor excursions. Some pan out and others usually roll over to the next year. And that is the extent of my new year goals.   
+I never have any dietary goals because I'm not about that at all.  I always try to eat well and I don’t feel too guilty about eating the occasional bite of sugar or whatever else that's considered sinful eating.  I usually do try to make a point of being a little more active and have high hopes of planning hikes and outdoor excursions. Some pan out and others usually roll over to the next year. And that is the extent of my new year goals.
 <br>
-
-{% include image.html
-            img="/img/JAN2017/veggie_bowl_3.jpg"
-            title=""
-            caption="You can use it to make a simple side for any dish" %}
+<br>
+![Veggie bowl](/img/JAN2017/veggie_bowl_3.jpg)  
+<br>
+<br>
 
 Well let's get this years post started out with a great veggie and legume bowl.  This is one of my top favourites for veggie bowls and thats
 because it's like a deconstructed veggie Roti sans le skin though. So it's usually what I put into my vegetable Roti. Fry bodi, curry chana and potato and pumpkin. I also get bhaji or spinach as well but this time I did a bhaji pumpkin coconut rice so it's in there.  The great thing about these recipes is that you could either eat them just like I have them over rice or if you haven’t learned or don't have the time to make roti skins you can just pick some up from a local Roti shop or even at the grocery store and eat them with those. At least you have the fillings down pat.
@@ -28,13 +26,11 @@ because it's like a deconstructed veggie Roti sans le skin though. So it's usual
 <br>
 
 Next week I will post my favourite Trini curry chicken recipe that you could add to your veggies and that recipe is easily interchangeable with any meat of your choice.  Don't be intimidated. It's a lot easier than you may think. And at least by making it on your own you can control how much other not so good stuff that shops may add to the fillings like extra seasonings that have preservatives and extra unnecessary sugars too. I'm very excited to post some Roti skin and sada recipes and even tutorials from a good friend of mine that actually makes them for a living.  So stay tuned for that! In the meantime enjoy making and eating the fillings!!
-
 <br>
-{% include image.html
-            img="/img/JAN2017/veggie_bowl_2.jpg"
-            title=""
-            caption="Perfect little combo" %}
-<br>            
+<br>
+![Veggie bowl](/img/JAN2017/veggie_bowl_2.jpg)  
+<br>
+<br>         
 
 ## Recipe for 'Fry' bodi (yard long beans)
 
@@ -134,11 +130,5 @@ Next week I will post my favourite Trini curry chicken recipe that you could add
 7. Once done remove from the oven, remove lid, fluff rice with a fork and serve.
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/veggie_bowl_4.jpg"
-            title=""
-            caption="" %}
+![Veggie bowl](/img/JAN2017/veggie_bowl_4.jpg)

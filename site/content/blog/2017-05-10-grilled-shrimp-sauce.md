@@ -4,25 +4,23 @@ date: '2017-05-10 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/grilled_shrimp_sauce_1.jpg
 image: MAY2017/grilled_shrimp_sauce_1.jpg
-categories: blog
-tags: food
+categories: mains
+tags: ["shrimp", "BBQ"]
 excerpt: Add a little spice and excitement to your homade BBQ sauce
 ---
 
-Grilling season is upon many of you friends and pretty much all year round for me.  It's nice to have something quick and easy to grill that has lots of flavour. One of the things I love to grill that fits the bill for all of that is shrimp. They take very little time to cook and don't require lots of marinating time. They also taste fabulous with this Sriracha BBQ sauce. This sauce definitely has some kick which I love but if you are nervous about that just reduce the amount of Sriracha in the recipe by half. You will still get some heat but with less intensity.  
+Grilling season is upon many of you friends and pretty much all year round for me.  It's nice to have something quick and easy to grill that has lots of flavour. One of the things I love to grill that fits the bill for all of that is shrimp. They take very little time to cook and don't require lots of marinating time. They also taste fabulous with this Sriracha BBQ sauce. This sauce definitely has some kick which I love but if you are nervous about that just reduce the amount of Sriracha in the recipe by half. You will still get some heat but with less intensity.
 <br>
-{% include image.html
-            img="/img/MAY2017/grilled_shrimp_sauce_2.jpg"
-            title="Grilled shrimp and sauce"
-            caption="Is the secret always in the sauce? This time it is" %}
+<br>
+![Grilled shrimp and sauce](/img/MAY2017/grilled_shrimp_sauce_2.jpg)
+<br>
+<br>
 
 The base BBQ sauce without the Sriracha is quite nice but adding the Sriracha bumps it up a flavour notch.  The sauce can work beautifully with any meat whether baked or grilled, and would be wonderful with a pulled pork or even great to slather on a burger, or if you are Trini you will definitely love slathering this on your pizza! I served these BBQ shrimp over a bed of pasta with grilled veggies and lots of olive oil and garlic and it was fabulous but would pair really well with fried rice and greens and really anything you want to pair it with.  Hope you like this spicy little number!
 <br>
 <br>
-{% include image.html
-            img="/img/MAY2017/grilled_shrimp_sauce_3.jpg"
-            title="Grilled shrimp and sauce"
-            caption="You don't have to hand dip each one, but you might very well want to" %}
+![Grilled shrimp and sauce](/img/MAY2017/grilled_shrimp_sauce_3.jpg)
+<br>
 <br>
 
 ### Ingredients:
@@ -64,14 +62,6 @@ Soak your wooden skewers in water while you prep the BBQ sauce and shrimp.
 
 1. Serve with more sauce on the size
 
-1. Store leftover barbecue sauce in an airtight container in the refrigerator for up to a few weeks
-<br>
+1. Store leftover barbecue sauce in an airtight container in the refrigerator for up to a few weeks  
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
-<br>
-{% include image.html
-            img="/img/MAY2017/grilled_shrimp_sauce_4.jpg"
-            title="Grilled shrimp and sauce"
-            caption="" %}
+![Grilled shrimp and sauce](/img/MAY2017/grilled_shrimp_sauce_4.jpg)

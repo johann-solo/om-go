@@ -3,21 +3,18 @@ title: Trini style curry chicken
 date: "2017-01-17 7:30:35 -0400"
 author: Joanne
 permalink: trini-curry
-image: JAN2017/trini_curry_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Make your curry the Caribbean way</p>"
+thumbnail: /img/JAN2017/trini_curry_1.jpg
+categories: dinners
+tags: ["Caribbean", "chicken"]
+excerpt: Make your curry the Caribbean way
 ---
 
-
-This recipe comes straight from my mother-in-law.  In her words from her emailed recipe, “easy peasy” is how she describes it about 8 years ago. She is a wonderful cook and a Trini would say “her hand is sweet”. And sweet it is.  She has been a vegan for several years now. But that doesn't stop her from cooking meat like a boss for the rest of her family. (No offence to the vegans out there &mdash; full respect) This chicken curry included. My first real experiences with Trini food have been by her hand and I really judge all Trini food by it.  Her curry is fantastic, [stew chicken and pie](http://oliveandmango.com/macaroni-stew-chicken) on point. I fell in love with salt fish because of her buljol, and also in love with oil down and calliloo because I tasted hers first.  
+This recipe comes straight from my mother-in-law.  In her words from her emailed recipe, “easy peasy” is how she describes it about 8 years ago. She is a wonderful cook and a Trini would say “her hand is sweet”. And sweet it is.  She has been a vegan for several years now. But that doesn't stop her from cooking meat like a boss for the rest of her family. (No offence to the vegans out there &mdash; full respect) This chicken curry included. My first real experiences with Trini food have been by her hand and I really judge all Trini food by it.  Her curry is fantastic, [stew chicken and pie](http://oliveandmango.com/macaroni-stew-chicken) on point. I fell in love with salt fish because of her buljol, and also in love with oil down and calliloo because I tasted hers first.
 <br>
-
-{% include image.html
-            img="/img/JAN2017/trini_curry_2.jpg"
-            title="Trinidad curry"
-            caption="Pick your side. Rice or roti skins &mdash; or both!" %}
+<br>
+![Trinidad curry](/img/JAN2017/trini_curry_2.jpg)  
+<br>
+<br>
 
 Can't leave out my fathers-in-law too! Yes fathers-in-law. Don't you know Trinis have complex families?!? My one father-in-law makes the best BBQ grilled chicken and always makes sure that I have a drink in my hand when I'm over (knows me so well). And my other father-in-law was made for the kitchen. He can make absolutely anything. He introduced me to the best acra and the best "Trini-Chinee" food.  So any way you look at it I was blessed with foodie family from my Greek side and my Trini side.
 <br>
@@ -26,11 +23,8 @@ Can't leave out my fathers-in-law too! Yes fathers-in-law. Don't you know Trinis
 Many people say that Trini curry is "d'bess". I am not a great person to ask when it comes to the accuracy of this statement because I love all curries. Japanese, Thai, Sri Lankan, Pakistani, you name it and I'm digging it.  But one thing that stands out for me in Trini curry is all the fresh seasoning that gets put in it. First the meat is marinated in fresh [green seasoning](http://oliveandmango.com/green-seasoning) and then I usually add more while it cooks for even more flavour. (A workmate from Penal, south Trinidad, insisted I do that and I have never turned back). This curry is very basic. You can use it with various meats and you can add chana/chickpeas, potato, bodhi etc, and you can add more to the seasoning too like ginger and various other thymes to deepen the flavours further. Hope you enjoy this "easy peasy" Trini style chicken curry. What's your favourite curry and what do you like to add in yours?
 <br>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/trini_curry_3.jpg"
-            title="Trinidad curry"
-            caption="Go traditional when you eat. No forks required!" %}
+![Trinidad curry](/img/JAN2017/trini_curry_3.jpg)  
+<br>
 <br>
 
 ## Recipe for: Trini style curry chicken
@@ -71,11 +65,5 @@ Many people say that Trini curry is "d'bess". I am not a great person to ask whe
 
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/trini_curry_4.jpg"
-            title=""
-            caption="" %}
+![Trinidad curry](/img/JAN2017/trini_curry_4.jpg)

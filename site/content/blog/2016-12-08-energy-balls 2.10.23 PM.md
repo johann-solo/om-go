@@ -3,11 +3,10 @@ title: Raw chocolate peanut butter energy bliss balls
 date: "2016-12-06 7:30:35 -0400"
 author: Joanne
 permalink: energy-balls
-image: DEC2016/energy_balls_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>A delicious pick me up</p>"
+thumbnail: /img/DEC2016/energy_balls_1.jpg
+categories: snacks
+tags: chocolate
+excerpt: A delicious pick me up
 ---
 
 One of the first times that I tried one of these types of energy or bliss balls I almost gagged.  The texture and the flavour was not what I expected and especially didn't expect it from the brand either or the price I paid for one of them. (I will not say the brand but it's a big one for these little guys) I was not impressed at all and thought there had to be a way to make these taste great and also be full of good stuff!!
@@ -15,24 +14,22 @@ One of the first times that I tried one of these types of energy or bliss balls 
 
 > raw cacao and nibs add that intense chocolate flavour
 
-I wanted to make them more moist and less Lärabar tasting.   That is not the brand by the way and I don't hate Lärabar's but sometimes that kind of fruit roll up fruitiness, stickiness and texture can be a little off putting to me.  The one I was talking about earlier was very dominantly &lsquo;dateish&rsquo; and oddly dry.  Weird. Anyways everyone has their own taste for things like these.  
+I wanted to make them more moist and less Lärabar tasting.   That is not the brand by the way and I don't hate Lärabar's but sometimes that kind of fruit roll up fruitiness, stickiness and texture can be a little off putting to me.  The one I was talking about earlier was very dominantly &lsquo;dateish&rsquo; and oddly dry.  Weird. Anyways everyone has their own taste for things like these.
 <br>
-
-{% include image.html
-            img="/img/DEC2016/energy_balls_2.jpg"
-            title="Energy Balls"
-            caption="Chocolate and peanut butter are always a hit" %}
+<br>
+![Energy Balls](/img/DEC2016/energy_balls_2.jpg)  
+<br>
+<br>
 
 These ones are moist enough and don't taste saw dusty from the oats at all.  They also don't have an over powering date flavour or that strong chew factor that a lot of date bars/energy bars have.  If you like chocolate and peanut butter I'm pretty sure you will love these.  
 <br>
 
-These little guys have helped get me through many long days.  The raw cacao and nibs add that intense chocolate flavour but equally as important is the perk factor they bring. They are great as an afternoon pick me up and definitely great for before or after a work out.  
+These little guys have helped get me through many long days.  The raw cacao and nibs add that intense chocolate flavour but equally as important is the perk factor they bring. They are great as an afternoon pick me up and definitely great for before or after a work out.
 <br>
-
-{% include image.html
-            img="/img/DEC2016/energy_balls_3.jpg"
-            title="Energy Balls"
-            caption="One is never enough" %}
+<br>
+![Energy Balls](/img/DEC2016/energy_balls_3.jpg)  
+<br>
+<br>
 
 There's absolutely no sugar added to them and they are sweetened by the dates and maple syrup.  The peanut butter adds great protein.  So do the oats as well as being a great source of fibre. The extra pinch of salt on top of them is just perfect. Think salted peanuts dunked in a bit chocolate! The chia adds a little crunch too not to mention more protein and antioxidants.
 <br><br>
@@ -75,13 +72,6 @@ Makes 8-12 depending on size
 1. Sprinkle with salt and drizzle with dark chocolate. Refrigerate for a few minutes to set the chocolate and then they are ready to enjoy
 <br>
 
-I like to store mine in the refrigerator (probably because it's always 30 degrees here)
-<br><br>
+I like to store mine in the refrigerator (probably because it's always 30 degrees here)  
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-<br>
-
-{% include image.html
-            img="/img/DEC2016/energy_balls_4.jpg"
-            title=""
-            caption="Don't mind the turmeric stains on my board" %}
+![Energy Balls](/img/DEC2016/energy_balls_4.jpg)  

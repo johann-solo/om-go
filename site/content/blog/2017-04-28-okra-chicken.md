@@ -2,27 +2,27 @@
 title: Greekstyle Braised Okra (bamies) with Chicken
 date: '2017-04-28 7:30:35 -0400'
 author: Joanne
-image: APR2017/okra_chicken_2.jpg
-categories: blog
-tags: food
+image: /APR2017/okra_chicken_2.jpg
+thumbnail: /img/APR2017/okra_chicken_2.jpg
+categories: dinners
+tags: ["Greek", "chicken"]
 excerpt: With warmer weather coming, enjoy a classic Greek summer dish
 
 ---
 
 I have a new found love and appreciation for okra since moving to Trinidad. They are in abundance when in season and added to several popular Trini dishes. Growing up we just never ate them because my parents weren't really fans, as many people aren't.  The whole slime factor can be a big deterrent, and there's something about the seeds that people either love or hate.  
 <br>
-{% include image.html
-            img="/img/APR2017/okra_chicken_1.jpg"
-            title="Greek okra chicken"
-            caption="Greeks love our meat, but we also love big vegetables too" %}
+<br>
+![Greek okra chicken](/img/APR2017/okra_chicken_1.jpg)
+<br>
+<br>
 
 I accept and love them as a whole - slime included.  Love them in [callaloo](http://oliveandmango.com/callaloo-soup)  or crispy and panfried too. There are a few ways to prep them to prevent them from getting too slimy.  First is to brine them a bit in acid.  In this recipe it's both red wine vinegar and lemon that are the acidic components. The acidity helps them keep their integrity, meaning they don't burst as easily and release the slime. Also dehydrating them works really well too If you have to cut into them and fry them as I did in the recipe for [fry okra](http://oliveandmango.com/choka).  Many here actually let them sun dry outside for a couple hours. That is not necessary in this recipe because they cook whole.
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/okra_chicken_3.jpg"
-            title="Greek okra chicken"
-            caption="If you're cooking Greek food you might as well have a large side of feta too" %}
+![Greek okra chicken](/img/APR2017/okra_chicken_3.jpg)
+<br>
+<br>
 
 This dish is a classic Greek summer dish.  It's classic but can be prepped in may different ways. You can roast this instead of braising it which is also fabulous. You can have it as a vegetarian dish and cooked [lathera style](http://oliveandmango.com/lathera). I have seen many recipes that call for frying the okra first to help keep them slime free but I liked Akis Petrizakis way of incorporating the okra into the dish so I used his method for this part of the dish. He places them over the chicken to allow them to steam and cook before they get mixed in, and with an extra bit of lemon juice on them they are sure to maintain their integrity.
 
@@ -34,10 +34,8 @@ His get spiced with coriander which is nice but I went more traditional with my 
 Hope you like my version of this classic Greek summer dish!! Me and hubby loved it and will be making it every time okra season rolls around!
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/okra_chicken_4.jpg"
-            title="Greek okra chicken"
-            caption="" %}
+![Greek okra chicken](/img/APR2017/okra_chicken_4.jpg)
+<br>
 <br>
 
 ### Ingredients
@@ -98,15 +96,6 @@ And place them over the chicken without mixing them in. Squeeze the lemon juice 
 1. Remove the chicken and plate, mix the okra into the sauce and add to  plate with chicken (if I wanted that chicken crisp again, When i remove it I place it onto a baking sheet and put it under the broiler for a couple of minutes before plating - optional)
 
 1. Serve with pasta, rice or on their own sprinkled with fresh parsley, with crusty bread and lots of
-Feta
+Feta  
 
-
-<br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
-<br>
-{% include image.html
-            img="/img/APR2017/okra_chicken_5.jpg"
-            title="Greek okra chicken"
-            caption="" %}
+![Greek okra chicken](/img/APR2017/okra_chicken_4.jpg)

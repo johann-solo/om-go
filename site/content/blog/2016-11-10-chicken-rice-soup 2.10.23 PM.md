@@ -3,11 +3,10 @@ title: Chicken soup for the soul
 date: "2016-11-09 10:30:35 -0400"
 author: Joanne
 permalink: chicken-rice-soup
-image: NOV2016/chicken_rice_soup_2.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Don't let the flu season get you down, fight back with this hearty soup</p>"
+thumbnail: /img/NOV2016/chicken_rice_soup_2.jpg
+categories: sides
+tags: ["soups", "chicken"]
+excerpt: Don't let the flu season get you down, fight back with this hearty soup
 ---
 
 Like a warm hug from mom, is a hot bowl of this soothing chicken rice and veggie soup.  
@@ -22,13 +21,12 @@ I sooo wish my mom was near to make me this soup every time I was feeling like t
 My mom use to always make us **&lsquo;*avgolemono*&rsquo;** soup. Which is a basic chicken and rice or noodle soup that finishes off by stirring in a frothy beaten egg and lemon juice sauce.  The best addition to your soup!! I don't always add it to the pot because my hubby isn't a huge fan of it but if it was up to me it would be in each and every pot I make of this soup. Otherwise I serve it up with some lemon wedges.
 <br><br>
 
-Why do I use rice instead of noodles?  Well that's just a personal choice. You really can make this with either or.  I stay away from pasta unless its GF due to its affect on me (oddly enough I can eat bread and be fine &mdash; I eat sandwiches and toast on the regular. It's just the pasta).  But aside from that I'm a huge rice lover.  My dad always use to say that I was born on the wrong continent.  I really could have rice daily! I have made this with white rice, brown rice, wild mix rice, and basmati and all of them are delicious. I usually just use what I have on had in the pantry. So feel free to use whatever you like.   
+Why do I use rice instead of noodles?  Well that's just a personal choice. You really can make this with either or.  I stay away from pasta unless its GF due to its affect on me (oddly enough I can eat bread and be fine &mdash; I eat sandwiches and toast on the regular. It's just the pasta).  But aside from that I'm a huge rice lover.  My dad always use to say that I was born on the wrong continent.  I really could have rice daily! I have made this with white rice, brown rice, wild mix rice, and basmati and all of them are delicious. I usually just use what I have on had in the pantry. So feel free to use whatever you like.
 <br>
-
-{% include image.html
-            img="/img/NOV2016/chicken_rice_soup.jpg"
-            title="Chicken and rice soup"
-            caption="All the good stuff to make you feel better" %}
+<br>
+![Chicken and rice soup](/img/NOV2016/chicken_rice_soup.jpg)  
+<br>
+<br>
 
 So I will get down to the recipe part in a second but I just wanted to say that I'm happy to have it finally up in a permanent location (the web) where my husband can find and follow it so he can make it for me when I'm too sick to make it for myself. Not so subtle hint!! (Trying to dictate each step while you have a fever and sore throat takes all the goodness out of it somehow) because what's better than having soup made for you?
 <br><br>

@@ -3,11 +3,10 @@ title:  "Turn your mezethakia into a meal"
 date:   2016-10-26 09:30:35 -0400
 author: Joanne
 permalink: mezethes-to-meals
-categories: blog
-image: OCT2016/mezethes.jpg
-tags:
-    - food
-excerpt: <p>Have a Greek party at home with these classic and easy to make appetizers</p>
+categories: sides
+thumbnail: /img/OCT2016/mezethes.jpg
+tags: ["Greek", "meatballs"]
+excerpt: Have a Greek party at home with these classic and easy to make appetizers
 ---
 Who doesn't enjoy a nice meal at a Greek restaurant? &mdash; if you have one around where you are living that is. Greek food though, like most ethnic food, tastes way better when it's homemade in my opinion. These two recipes are just a couple of my favourite *mezethakia* or appetizers I love to order when I'm out at a Greek restaurant.  But they are so easy to make and recreate in the comfort of your own home. Plus you can eat as much of it as you want at home without thinking about the cost of a second order.  
 <br>
@@ -19,13 +18,12 @@ So let me start off with telling you a little bit about keftedakia.  The recipes
 <br><br>
 
 ### Keftedakia
-The Greek meatball. So tasty as a meal or as an appetizer. There are several versions of these Greek meatballs but the recipe I have included is how I usually like to make them.  I either grill them, pan fry or bake them. I love to make batches of them and freeze them so I have some on hand to reheat for a quick lunch.  That was something an old roommate's mom used to do. She would pack them with her every time she visited home.  
+The Greek meatball. So tasty as a meal or as an appetizer. There are several versions of these Greek meatballs but the recipe I have included is how I usually like to make them.  I either grill them, pan fry or bake them. I love to make batches of them and freeze them so I have some on hand to reheat for a quick lunch.  That was something an old roommate's mom used to do. She would pack them with her every time she visited home.
 <br>
-
-{% include image.html
-            img="/img/OCT2016/Keftedakia.jpg"
-            title="Keftedakia"
-            caption="Keftedakia are a nice change to the usual meatballs you are accustomed to &mdash; unless you are Greek of course" %}
+<br>
+![Keftedakia](/img/OCT2016/Keftedakia.jpg)  
+<br>
+<br>
 
 I usually use bread crumbs and an egg as a binder for them but I have left out the egg at times and they still turn out great, so either or is fine.  I have even used a little cornmeal in the past if I didn't have crumbs or some bread to soak on hand.  The key is not to over work the meat when you are seasoning. If you do you will get harder tougher meatballs.
 <br><br>
@@ -57,13 +55,10 @@ I don't usually measure exact amounts when I cook but a trick to meatballs and t
 
 ### Melitzana Sta Karvouna
 The name literally means eggplant on coals. This is one of my favorite or I should say in the top ten favorite *meze* or Greek small plate or appetizer. I have too many favorites! Its totally delicious and super easy to make.  And when you serve it, at least to people who like eggplant, there's always ooohs and ahhhs. I like to grill mine but roasting it in the oven is just as tasty. Grilling gives it a sweet smokiness that is so deliciously unreal. Enjoy!!
-<br><br>
-
-{% include image.html
-            img="/img/OCT2016/melitzana.jpg"
-            title="melitzana"
-            caption="Get that great smoked flavour from the grill. Don't forget to poke some holes in your eggplant if it's large to avoid an explosion" %}
-
+<br>
+<br>
+![melitzana](/img/OCT2016/melitzana.jpg)  
+<br>
 <br>
 
 **Recipe:**

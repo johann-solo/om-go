@@ -3,20 +3,18 @@ title: Smokey red lentil and chorizo soup
 date: "2016-11-21 10:30:35 -0400"
 author: Joanne
 permalink: red-lentil-soup
-image: NOV2016/red_lentil_soup_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Small is size, big in flavour</p>"
+thumbnail: /img/NOV2016/red_lentil_soup_1.jpg
+categories: soups
+tags: ["lentils", "chorizo"]
+excerpt: Small is size, big in flavour
 ---
 
-I got this recipe from a soup book called Hearty soups. Great little book that I think was gifted to me a long time ago. I have been making this red lentil soup for a long time too even before I ever made or tasted dhal with red lentils, an easy Indian inspired dish which i first tasted when I moved to Trinidad. More on that fabulous recipe on another post.  This red lentil soup has a different flavour than that dhal.  The paprika gives it a nice smokiness and it also has a lot of garlic and ginger in it too so it is not lacking any flavour at all. I have adapted the original recipe because I like to add in some  pumpkin too and a little cayenne for a little heat as well.  I also think that the original recipe calls for way too much red lentils in it for the amount of water/broth it asks for.  
+I got this recipe from a soup book called Hearty soups. Great little book that I think was gifted to me a long time ago. I have been making this red lentil soup for a long time too even before I ever made or tasted dhal with red lentils, an easy Indian inspired dish which i first tasted when I moved to Trinidad. More on that fabulous recipe on another post.  This red lentil soup has a different flavour than that dhal.  The paprika gives it a nice smokiness and it also has a lot of garlic and ginger in it too so it is not lacking any flavour at all. I have adapted the original recipe because I like to add in some  pumpkin too and a little cayenne for a little heat as well.  I also think that the original recipe calls for way too much red lentils in it for the amount of water/broth it asks for.
 <br>
-
-{% include image.html
-            img="/img/NOV2016/red_lentil_soup_2.jpg"
-            title="Red lentil soup"
-            caption="No chorizo? No problem" %}
+<br>
+![Red lentil soup](/img/NOV2016/red_lentil_soup_2.jpg)  
+<br>
+<br>
 
 When I was back home it was really really easy to get my hands on chorizo and very good chorizo too, but here in Trinidad that is not always the case.  I find it as sandwich meat at the grocery store sometimes but not often enough to be able to just depend on having it on hand every time I make this soup.  I'm sure I can find it at one of the specialty stores here but I will also be paying specialty prices for it too. So instead what I usually do is fry up some bacon and spice it up with a chorizo blend of spices after it's been frying for a while (chorizo spice being: some chilli powder, cumin and clove, you can also add coriander and oregano and thyme too for a more complex blend) and tada- you have chorizo'ish bacon bits!! Solves that problem.  The real thing is obviously better but the soup itself works well with plain old bacon if you can't get your hands on chorizo or maybe if you want a more frugal option.  But I found out recently that [@delmanofoods](https://www.instagram.com/delmanofood) makes an awesome chorizo sausage here locally so next time I make this recipe I will be frying those up instead.
 <br><br>

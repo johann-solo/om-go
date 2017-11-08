@@ -3,8 +3,8 @@ title: Homemade Apple Butter
 date: 2017-09-05T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_05_apple_butter_1.jpg
-categories: blog
-tags: food
+categories: jams
+tags: apples
 excerpt: 'More than a purée, and delicious enough to eat by the spoonful'
 ---
 

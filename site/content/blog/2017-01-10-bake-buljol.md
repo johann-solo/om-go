@@ -3,11 +3,10 @@ title: Coconut bake and 'Buljol'
 date: "2017-01-10 7:30:35 -0400"
 author: Joanne
 permalink: bake-buljol
-image: JAN2017/bake_buljol_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>A classic Caribbean breakfast with salt fish and coconut bread</p>"
+thumbnail: /img/JAN2017/bake_buljol_1.jpg
+categories: breakfast
+tags: ["Caribbean", "seafood"]
+excerpt: A classic Caribbean breakfast with salt fish and coconut bread
 ---
 
 I think the first time I had buljol it was either with Crix crackers as a little snack/appetiser or with warm hops. Can't quite remember but the buljol love started from then. What is buljol? Well it's like a salted fish salsa &mdash; almost.  It can be served warm as the recipe below describes or you can chop everything much finer and serve it cold as well (and serve it almost like a chip and salsa style) after the salted fish has cooled. I have had it both ways and I love it either way.
@@ -15,12 +14,11 @@ I think the first time I had buljol it was either with Crix crackers as a little
 <br>
 
 Buljol if you're not West Indian sounds very weird as a word. I really don't know what I thought it was when I heard that name for the first time.  I definitely didn't think it was salted fish.  But apparently it comes from the French patois term 'Brûlé Gueule', which means burn mouth, likely due to the effect of it being prepared with a lot of hot peppers (scotch bonnet). This recipe  adds some optionally.  I like a little pepper in mine but I like to add it after because my husband doesn't eat much pepper so please adjust it to taste.
-<br><br>
-
-{% include image.html
-            img="/img/JAN2017/bake_buljol_2.jpg"
-            title=""
-            caption="A slice of avocado is a perfect compliment to this spicy fish" %}
+<br>
+<br>
+![Bake and buljol](/img/JAN2017/bake_buljol_2.jpg)  
+<br>
+<br>
 
 This is a meal most popularly eaten for breakfast but I enjoy it anytime especially with some warm coconut bake or bread.  There are many variations of coconut bake. This is a simple recipe I was given from a friend and it seems to come out the same every time so I like it.  Just a heads up though it's a denser bread. Not as fluffy in case you were wondering.  It has a subtle sweetness to it and coconut flavour, and it's a little buttery too. I can eat the bread with a little butter and jam and I love it with cheese and jam also.  But its a perfect accompaniment to buljol! Hope you enjoy this simple Trini dish!!
 <br><br>
@@ -84,11 +82,4 @@ This is a meal most popularly eaten for breakfast but I enjoy it anytime especia
 1. Bake for 20 - 30 minutes or until done and golden brown
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-<br>
-
-{% include image.html
-            img="/img/JAN2017/bake_buljol_3.jpg"
-            title=""
-            caption="" %}
+![Bake and buljol](/img/JAN2017/bake_buljol_3.jpg)

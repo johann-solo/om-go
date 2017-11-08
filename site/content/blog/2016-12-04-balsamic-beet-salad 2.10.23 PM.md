@@ -3,31 +3,24 @@ title: Roasted balsamic beet salad with goat cheese and caramelised pecans
 date: "2016-12-04 8:30:35 -0400"
 author: Joanne
 permalink: balsamic-beet-salad
-image: DEC2016/balsamic_beet_salad_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>The perfect beet salad</p>"
+thumbnail: /img/DEC2016/balsamic_beet_salad_1.jpg
+categories: sides
+tags: ["salads", "beets"]
+excerpt: The perfect beet salad
 ---
 
-
-I really love eating salads and I especially love eating salads that incorporate more than just lettuce but I usually don't make these on a days to day basis.  But I love making them for company and for weekend meals when I have more time to prepare them. Yes they do involve a little work and prep but it's so worth it because they taste fabulous. They are also usually so nourishing especially this one.  It's got your greens covered.  Arugula is not only punchy and delicious but also super good for you (full of antioxidants, mineral, vitamin K and chlorophyll). It also has beets which are not just the most beautiful things you can look at but are also super good for you (immune boosting and full of vitamin C, fibre and potassium).  
+I really love eating salads and I especially love eating salads that incorporate more than just lettuce but I usually don't make these on a days to day basis.  But I love making them for company and for weekend meals when I have more time to prepare them. Yes they do involve a little work and prep but it's so worth it because they taste fabulous. They are also usually so nourishing especially this one.  It's got your greens covered.  Arugula is not only punchy and delicious but also super good for you (full of antioxidants, mineral, vitamin K and chlorophyll). It also has beets which are not just the most beautiful things you can look at but are also super good for you (immune boosting and full of vitamin C, fibre and potassium).
+<br>
+<br>
+![Balsamic Beet Salad](/img/DEC2016/balsamic_beet_salad_2.jpg)  
+<br>
 <br>
 
-{% include image.html
-            img="/img/DEC2016/balsamic_beet_salad_2.jpg"
-            title="Balsamic Beet Salad"
-            caption="Great medley of flavours" %}
-
 Then you have your crunch factor.  Those delicious caramelised spiced pecans(rich source of energy, and contain health nutrients, minerals, antioxidants and vitamins). So good! Try not to eat them all before putting your salad together. In fact, its probably best if you make a double batch cause you won't stop eating them.  Also that goat cheese crumble just goes so well with the sweetness of this salad and it's easier to digest than other cheeses. It's always a crowd favourite and it's so pleasing to the eyes also.  Just an all around beautiful looking and beautiful tasting salad. Hope you enjoy making, eating and sharing this with friends and family.
-<br><br>
-
-{% include image.html
-            img="/img/DEC2016/balsamic_beet_salad_3.jpg"
-            title="Balsamic Beet Salad"
-            caption="Balasamic beets ready to roast" %}
-
-
+<br>
+<br>
+![Balsamic Beet Salad](/img/DEC2016/balsamic_beet_salad_3.jpg)  
+<br>
 <br>
 
 ## Roasted balsamic beet salad with goat cheese and caramelised pecans
@@ -61,14 +54,6 @@ Then you have your crunch factor.  Those delicious caramelised spiced pecans(ric
 
 1. Toss the arugula with a light vinaigrette of your choice or leave plain( I toss it with a little EVOO and a little more balsamic or red wine vinegar) and then plate
 
-1. Top arugula with beets, goat cheese and pecans and drizzle with balsamic reduction and enjoy!!
-<br><br>
+1. Top arugula with beets, goat cheese and pecans and drizzle with balsamic reduction and enjoy!!  
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-<br>
-<br>
-
-{% include image.html
-            img="/img/DEC2016/balsamic_beet_salad_4.jpg"
-            title="Balsamic Beet Salad"
-            caption="" %}
+![Balsamic Beet Salad](/img/DEC2016/balsamic_beet_salad_4.jpg)  

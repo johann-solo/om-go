@@ -3,10 +3,10 @@ title: Smashed herbed potatoes with harissa
 date: '2017-03-19 7:30:35 -0400'
 author: Joanne
 permalink: smashed-potatoes-harissa
-image: MAR2017/smashed_potatoes_harissa_1.jpg
-categories: blog
-tags: food
-excerpt: <p>Turn 'boring potatoes' into something bright, quick and delicious</p>
+thumbnail: /img/MAR2017/smashed_potatoes_harissa_1.jpg
+categories: sides
+tags: potatoes
+excerpt: Turn 'boring potatoes' into something bright, quick and delicious
 
 ---
 
@@ -24,10 +24,9 @@ I always have some pasta stocked so that I can make a quick dish like my bacon, 
 In the fridge I usually have basics like eggs, turkey breast, onions, celery and carrots, greens, and sweet peppers. All things you could use for a quick and easy dinner like omelettes, sandwiches and salads. Just some simple stuff I can use to make food quickly even if I don't have something planned in particular.  Basically things you can whip up fast before throwing in the figurative towel and going out for dinner. Not that I have an issue with that once in a while but I much more prefer eating at home and enjoying home cooked food.  
 <br>
 <br>
-{% include image.html
-            img="/img/MAR2017/smashed_potatoes_harissa_2.jpg"
-            title="Smashed potatoes"
-            caption="Use multicoloured potatoes to brighten up your dish" %}
+![Smashed potatoes](/img/MAR2017/smashed_potatoes_harissa_2.jpg)  
+<br>
+<br>
 
 It does help that my husband is not picky at all and really is easy to please when it comes to foods.  He is totally cool with a tuna sandwich and salad for dinner if that's what we were having.  Another reason I love the guy!  So the key is to have a few basics on hand but do plan ahead a little when it comes to meal prep. It will help especially on those days when you might feel like your in a rut cooking-wise.
 <br>
@@ -36,10 +35,9 @@ It does help that my husband is not picky at all and really is easy to please wh
 Here is just another great way to eat your potatoes! Also a basic staple ingredient I usually have on hand.  These guys are crispy and perfect for topping or dipping and super easy to make.  I made these with a harissa sauce to top them with and they were absurdly awesome!! But I think they would be awesome with some chives and sour cream, some tzatziki sauce and even loaded with cheese and other goodness.  So feel free to use your imagination and come up with all sort of ways to enjoy these smashed potatoes!!
 <br>
 <br>
-{% include image.html
-            img="/img/MAR2017/smashed_potatoes_harissa_4.jpg"
-            title="Smashed potatoes"
-            caption="You can either top these or dip them straight in" %}
+![Smashed potatoes](/img/MAR2017/smashed_potatoes_harissa_4.jpg)  
+<br>
+<br>
 
 ## Herb butter smashed potatoes
 
@@ -89,14 +87,8 @@ Here is just another great way to eat your potatoes! Also a basic staple ingredi
 
 1. In a food processor add the onion garlic mixture, the spice mixture, the roasted red pepper, the lemon juice and salt and pepper and pulse until it's a sauce.  I like mine a little chunky so I just pulse it a couple times.  
 
-1. Sauce can be stored in the fridge for up to 2 weeks
+1. Sauce can be stored in the fridge for up to 2 weeks  
 
 <br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
 <br>
-{% include image.html
-            img="/img/MAR2017/smashed_potatoes_harissa_3.jpg"
-            title=""
-            caption="" %}
+![Smashed potatoes](/img/MAR2017/smashed_potatoes_harissa_3.jpg)

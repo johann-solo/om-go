@@ -3,10 +3,10 @@ title: Classic minestrone soup
 date: '2017-03-17 7:30:35 -0400'
 author: Joanne
 permalink: minestrone
-image: MAR2017/minestrone_1.jpg
-categories: blog
-tags: food
-excerpt: <p>Hearty fill you up and feel good kind of soup</p>
+thumbnail: /img/MAR2017/minestrone_1.jpg
+categories: soups
+tags: Italian
+excerpt: Hearty fill you up and feel good kind of soup
 
 ---
 
@@ -17,10 +17,9 @@ This is a hearty fill you up and feel good kind of soup. Perfect for the cooler 
 Minestrone always reminds me of a very good friend of mine.  She made this for us on a very very cold wintery day for lunch and it was the most satisfying thing I had ever had.  It's literally the best one pot dish.  Just add bread, wine and good company and it's perfect!
 <br>
 <br>
-{% include image.html
-    img="/img/MAR2017/minestrone_2.jpg"
-    title=""
-    caption="Pesto adds a little something extra to this classic" %}
+![minestrone](/img/MAR2017/minestrone_2.jpg)  
+<br>
+<br>
 
 She is also the one who introduced me to putting in the rind of Parmesan cheese to anything tomato based including this soup to add more flavour and richness. She told me she freezes all her rinds and just adds them to things as she pleases.  I have been doing the same since then. Does this soup taste wonderful without it? Yes but I like the flavour that the rind adds and that's why I add it in, so it's totally optional.  It is said to add a Unami flavour to things. Well you can be the judge of that. I just think it's adds an extra layer of goodness.  
 
@@ -29,10 +28,8 @@ She is also the one who introduced me to putting in the rind of Parmesan cheese 
 This is my classic recipe for minestrone which I have been making for years.  I often sub the pumpkin and kale with potato or sweet potato and spinach and the pancetta for bacon but other than that this soup recipe pretty much stays the same and I'm super happy with it.  I was looking through some recipes and came across Ina Garten's recipe for it and she adds white wine and pesto at the end of the cooking time so I thought I would try it out. Just a side note, I love this woman so much and so does my mom (and the rest of the world) but watching her cook brings this kind of inner calm and total food bliss and comfort all at the same time.  Anyways do add in the wine and pesto! Just like adding the rind, these two add further complexity of flavour to the soup that is 'soup'erb!!!
 <br>
 <br>
-{% include image.html
-            img="/img/MAR2017/minestrone_3.jpg"
-            title=""
-            caption="Kale or spinach added for the green effect" %}
+![minestrone](/img/MAR2017/minestrone_3.jpg)  
+<br>
 <br>
 
 ### Ingredients
@@ -67,15 +64,6 @@ This is my classic recipe for minestrone which I have been making for years.  I 
 
 1. Add the pasta and beans and kale and cook for another few minutes adding a little more broth or water if it's too thick.  
 
-1. Stir in white wine and pesto, check for salt and pepper and then serve
+1. Stir in white wine and pesto, check for salt and pepper and then serve  
 
-
-<br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
-<br>
-{% include image.html
-            img="/img/MAR2017/minestrone_4.jpg"
-            title=""
-            caption="" %}
+![minestrone](/img/MAR2017/minestrone_4.jpg)  

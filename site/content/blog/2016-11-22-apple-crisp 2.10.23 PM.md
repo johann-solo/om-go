@@ -1,22 +1,20 @@
 ---
-title: Perfect apple crisp with dulce de leche sauce
+title: Perfect Apple Crisp With Dulce De Leche Sauce
 date: "2016-11-22 10:30:35 -0400"
 author: Joanne
 permalink: apple-crisp
-image: NOV2016/apple_crisp_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Entertaining made easy</p>"
+thumbnail: /img/NOV2016/apple_crisp_1.jpg
+categories: desserts
+tags: apples
+excerpt: Entertaining made easy
 ---
 
-This is such a great and easy dessert to feed a crowd.  From young to old everyone loves it.  Everyone except my husband that is.  He doesn't like cooked apples but he loves the crisp topping.  Good thing I like apples so it's a win win. I get to eat more apples and he gets to have his topping and a bit of mine too. Who could blame him for loving that topping though.  It's 'crispy', buttery and sweet!! And that dulce de leche drizzle adds a little extra something to this dessert.  Because caramel and apples go together like PB and jelly.  
+This is such a great and easy dessert to feed a crowd.  From young to old everyone loves it.  Everyone except my husband that is.  He doesn't like cooked apples but he loves the crisp topping.  Good thing I like apples so it's a win win. I get to eat more apples and he gets to have his topping and a bit of mine too. Who could blame him for loving that topping though.  It's 'crispy', buttery and sweet!! And that dulce de leche drizzle adds a little extra something to this dessert.  Because caramel and apples go together like PB and jelly.
 <br>
-
-{% include image.html
-            img="/img/NOV2016/apple_crisp_3.jpg"
-            title=""
-            caption="Caramel and apple go together like PB & J" %}
+<br>
+![Perfect apple crisp](/img/NOV2016/apple_crisp_3.jpg)  
+<br>
+<br>
 
 Having people over is fantastic but can also be stressful. I think so at least, especially if it's a crowd so I opt to cooking things that can be made or prepped ahead of time and this is perfect for that. You can make the filling and topping ahead and keep refrigerated separately and then you can put it together in minutes, put it in the oven and let the house smell of apples and cinnamon as your eating dinner.  Drizzle with that caramel sauce and serve with some good vanilla ice cream! Yum!! It's perfect and totally headache free.  I'm not a pastry genius so I stress a little over pies. How will it turn out this time? Is it flaky enough?...... With this crisp you don't have to even think about that. Comes out perfect every time!
 
@@ -94,5 +92,3 @@ Don't have enough apples? No problem. I have added frozen peaches and nectarines
 
 * Heat oven to 425°F with rack in middle. Pour the contents of 1 (14-ounce) can sweetened condensed milk into a 9-inch deep-dish pie plate and cover tightly with foil. Set plate in a roasting pan and add enough hot water to pan to reach halfway up pie plate. Bake milk in middle of oven 45 minutes. Check water level and add additional, if necessary, then continue to bake 45 minutes more, or until milk is thick and brown. Remove pie plate from water bath and cool, uncovered. Makes about 1 1/4 cups.
 <br>
-
-<a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a>

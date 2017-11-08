@@ -3,36 +3,32 @@ title: Classic Caribbean Sunday Lunch Staples
 date: "2016-12-12 7:30:35 -0400"
 author: Joanne
 permalink: macaroni-stew-chicken
-image: DEC2016/macaroni_stew_chicken_6.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>If you cant escape to the Caribbean, at least you can eat the food and imagine you're there </p>"
+thumbnail: /img/DEC2016/macaroni_stew_chicken_6.jpg
+categories: lunch
+tags: Caribbean
+excerpt: If you cant escape to the Caribbean, at least you can eat the food and imagine you're there
 ---
 
 What's better than macaroni pie and 'stew'(stewed) chicken? Maybe macaroni pie, stew chicken and stew peas or macaroni pie, stew chicken and callaloo. I will have a separate post for those though. Macaroni pie and stewed meat is part of the classic Trini Sunday lunch and so it should be. It's so fantastic and when you eat all components of it you really feel so satisfyingly full and delighted and also like you need a long nap.
-<br><br>
-
-{% include image.html
-            img="/img/DEC2016/macaroni_stew_chicken_1.jpg"
-            title=""
-            caption="The start of something tasty..." %}
-
-The first time I had macaroni pie I thought wow this is like meatless pastitsio, and I absolutely love pastitsio so obviously I love macaroni pie.  For those of you who haven't had pastitsio then I could compare a macaroni pie to mac and cheese as well.   Kind of a cross between both.  In fact I made it once and brought it to a gathering( lime) and everyone was saying " oh look it's macaroni pie with meat". All this pastitsio talk has me wondering why I haven't made and posted my recipe for it yet.  Coming soon I promise!
-<br><br>
-
-{% include image.html
-            img="/img/DEC2016/macaroni_stew_chicken_4.jpg"
-            title=""
-            caption="Layers" %}
-
-Ok I have to tell you, just like pelau, I have yet to taste a really good macaroni pie at an establishment. They usually are just mediocre at best. I mean they are alright when you buy them but nothing beats a homemade macaroni pie.  I learned quickly that there are many ways of making it. Everyone makes there's a little different. Some add eggs, some don't, some use a cheese sauce some just add cheese, some use regular milk others use evaporated milk.  The best recipe I was given and the best way I found making it was my mother-in-law's way. In fact everything she makes is delicious.  She gave me the recipe to this pie a long time ago. And it works the best I find.  You don't need to think about whether it will turn out or not.  It always turns out perfectly.  I also love it because it uses a béchamel sort of cheese sauce which is how I make pastitsio so it translated well for me.  I switched it up only by frying up some garlic and onion and pimentos just before making the roux to give it a little extra flavour and I also add an egg to the béchamel for extra stickiness/binding factors.  
+<br>
+<br>
+![Classic Caribbean Sunday Lunch Staples](/img/DEC2016/macaroni_stew_chicken_1.jpg)  
+<br>
 <br>
 
-{% include image.html
-            img="/img/DEC2016/macaroni_stew_chicken_5.jpg"
-            title=""
-            caption="Golden tender and saucy..... that's how I like ya!" %}
+The first time I had macaroni pie I thought wow this is like meatless pastitsio, and I absolutely love pastitsio so obviously I love macaroni pie.  For those of you who haven't had pastitsio then I could compare a macaroni pie to mac and cheese as well.   Kind of a cross between both.  In fact I made it once and brought it to a gathering( lime) and everyone was saying " oh look it's macaroni pie with meat". All this pastitsio talk has me wondering why I haven't made and posted my recipe for it yet.  Coming soon I promise!
+<br>
+<br>
+![Classic Caribbean Sunday Lunch Staples](/img/DEC2016/macaroni_stew_chicken_4.jpg)  
+<br>
+<br>
+
+Ok I have to tell you, just like pelau, I have yet to taste a really good macaroni pie at an establishment. They usually are just mediocre at best. I mean they are alright when you buy them but nothing beats a homemade macaroni pie.  I learned quickly that there are many ways of making it. Everyone makes there's a little different. Some add eggs, some don't, some use a cheese sauce some just add cheese, some use regular milk others use evaporated milk.  The best recipe I was given and the best way I found making it was my mother-in-law's way. In fact everything she makes is delicious.  She gave me the recipe to this pie a long time ago. And it works the best I find.  You don't need to think about whether it will turn out or not.  It always turns out perfectly.  I also love it because it uses a béchamel sort of cheese sauce which is how I make pastitsio so it translated well for me.  I switched it up only by frying up some garlic and onion and pimentos just before making the roux to give it a little extra flavour and I also add an egg to the béchamel for extra stickiness/binding factors.
+<br>
+<br>
+![Classic Caribbean Sunday Lunch Staples](/img/DEC2016/macaroni_stew_chicken_5.jpg)  
+<br>
+<br>
 
 The stew chicken is another one that has its own variations.  And actually I haven't tried anyone's stew chicken that I hated.  I mean chicken stewing in wonderful flavours and seasonings is going to taste amazing no matter what shade of brown it is. I like to use bone in meat for stew chicken because I think it adds a lot to the flavour.  I will usually use thighs that I chop in half(splitting the bone) and also drumsticks. Breast is good too but I normally like my pieces smaller than a full breast so if your going to use breast meat chop it up into smaller pieces.
 <br>
@@ -96,13 +92,6 @@ Now for the recipes:
 4. Now turn up the heat to high for a few minutes and stir well and constantly until most of the moisture and juice from meat is mostly evaporated - takes only a few minutes 
 5. Once it’s mostly evaporated add in your veggies(pimentos, onions, tomatoes, plus your ketchup and I also like to add a tsp of fresh <span class="highlight">[green seasoning](http://oliveandmango.com/green-seasoning)</span> for extra flavour — I usually have some frozen to take from) and sauté for a couple minutes
 6. Add your water and stir well, cover and let simmer away for 15-30 minutes or until chicken is done cooking and tender on medium heat(check if it needs more water and stir it frequently- add a little more water if needed)
-7. Once cooked remove lid and cook for another few minutes to allow the sauce to reduce a little ( optional if you like a thicker sauce) 
-<br><br>
+7. Once cooked remove lid and cook for another few minutes to allow the sauce to reduce a little ( optional if you like a thicker sauce)   
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-<br>
-
-{% include image.html
-            img="/img/DEC2016/macaroni_stew_chicken_3.jpg"
-            title=""
-            caption="Hello cheesy goodness!" %}
+![Classic Caribbean Sunday Lunch Staples](/img/DEC2016/macaroni_stew_chicken_3.jpg)

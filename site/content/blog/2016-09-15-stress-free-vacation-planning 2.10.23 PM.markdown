@@ -3,23 +3,21 @@ title:  "How to prep for a stress-free vacation"
 date:   2016-09-15 09:30:35 -0400
 author: Joanne
 permalink: stress-free-vacation-planning
-categories: blog
-image: SEPT2016/greece_beach.jpg
-tags:
-    - travel
-excerpt: <p>Vacation shouldn't be stressful. These simple tips will help you to get the most out of yours</p>
+categories: travel
+thumbnail: /img/SEPT2016/greece_beach.jpg
+tags: How-to's
+excerpt: Vacation shouldn't be stressful. These simple tips will help you to get the most out of yours
 ---
 
 We all love to travel. But the whole packing and getting ready, although exciting, can get a little stressful. Especially since we all lead such busy lives. Another factor is that many of us, myself included, try to stay budget conscience when planning and taking a trip. Not all of us have the luxury of packing light and then buying everything we need on our trip especially if we have to deal with foreign exchange.
 <br><br>
 
 Things can get tricky when you are traveling on a budget. For example, likely you purchased your tickets at a great price. But many of the cheaper flights may have extra layovers, or have very strict baggage policies. This is just one little hurdle you come across when planning and preparing for your trip. Here are a few tips for planning ahead that can help make things a little less stressful and hopefully save you a few dollars.
-<br><br>
-
-{% include image.html
-            img="/img/SEPT2016/packing.jpg"
-            title="Packing materials"
-            caption="Know your weather and plan accordingly" %}
+<br>
+<br>
+![Travel planning](/img/SEPT2016/packing.jpg)  
+<br>
+<br>
 
 ## Things to prepare a week or so before your trip:
 * Take advantage of the time before to check and verify information. Check status of your accommodations. I like to re-confirm with Airbnb or wherever we are staying so that we don't have any last minute confusion when we arrive at our destination
@@ -35,24 +33,22 @@ Things can get tricky when you are traveling on a budget. For example, likely yo
 * Check if you need to get any particular vaccines or meds for your trip if you haven't already. (Some require a series of shots so hopefully you checked when booking your tickets)
 * Check the type of electrical current that your destination uses and buy a converter if needed.
 * If you need a house-sitter or someone to come by and water plants, feed and look after pets, now is the time to arrange that
-* book your hair appointment or waxing appointment
-<br>
+* book your hair appointment or waxing appointment  
 
-{% include image.html
-            img="/img/SEPT2016/paris_street.jpg"
-            title="Paris street"
-            caption="Have peace of mind to wander without worry" %}
+![Travel planning](/img/SEPT2016/paris_street.jpg)  
+<br>
+<br>
 
 * Inform your bank and credit card company of where you will be visiting and exact dates if you plan on using your credit cards (many credit cards no longer require this, but call just in case)
 * Exchange some money to the foreign currency that you will need if available. It's better to do this at the bank than the airport. We don't usually carry and exchange a ton of cash when we travel but it's always good to have a little to pay for your cab ride to your hotel or even to buy metro/tube/subway passes if you plan on taking this mode from the airport (saves you time and frustration of having to do it when you get there). Some places allow you to purchase transportation passes in advance so it's a good idea to look into that
 * Have a basic itinerary planned for your trip and do a little research on places you would like to visit. Certain places require a particular dress code, some places need to be booked in advance or you have to reserve and can't just walk in.
 * Make a list of what you need to bring in categories of clothing, shoes, undergarments, medications, swimwear, toiletries etc.  It's always best to keep things simple, plan actual outfits and clothing than can easily pair with other pieces your bringing to save in packing space. Doing this in advance will also help you see if you need to wash things ahead or mend things or find coats or boots in storage (bikinis and summer clothing). There are a lot of free printable packing lists you can use on line and on Pinterest to make this very easy for all of you who hate making lists. Having this list will help you determine if you need to buy items for your trip like medications, vitamins, extra socks and underwear, travel toothbrush, extra floss etc..
 * Planning on buying any gifts for people you maybe be visiting or staying with? Now is a good time to do that otherwise this can be completely forgotten and then you have to spend your travel money at the airport! Not good!
-
-{% include image.html
-            img="/img/SEPT2016/mountain.jpg"
-            title="mountain"
-            caption="Spend all your emotional energy enjoying your trip" %}
+<br>
+<br>
+![Travel planning](/img/SEPT2016/mountain.jpg)  
+<br>
+<br>
 
 ## A few days before :
 

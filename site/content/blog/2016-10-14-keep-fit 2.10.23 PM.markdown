@@ -3,34 +3,31 @@ title:  "How to keep moving and fit even with a busy schedule"
 date:   2016-10-14 09:30:35 -0400
 author: Joanne
 permalink: keep-fit
-categories: blog
-image: OCT2016/chancellor_peak.jpg
-tags:
-    - health
-excerpt: <p>No time to workout? These tips are free and accessible to almost everyone</p>
+categories: wellness
+thumbnail: /img/OCT2016/chancellor_peak.jpg
+tags: excercise
+excerpt: No time to workout? These tips are free and accessible to almost everyone
 ---
 
 Working out and the gym. I don't know what feelings those two drum up. For most it's an "ugh" and a big old sigh! I'm kind of in between both. I love it when I do it, but if I haven't gone in a while I feel guilty about it but at the same time lack the motivation to get back at it.
 <br><br>
 
 I have had gym memberships in the past, worked at a gym through school and loved going to the one close to home cause I got to see my friends, studied while on the elliptical, stairclimber and bike and it was perfect for those winter months. But I hated all the prep especially if I was going before or after work. Pack clothes, sneakers, snack, shower stuff (if I was going before work). The list goes on.
-<br><br>
-
-{% include image.html
-            img="/img/OCT2016/hololo.jpg"
-            title="Mt Hololo path"
-            caption="Use the places around you to clear your mind and get a good workout at the same time" %}
+<br>
+<br>
+![excercise](/img/OCT2016/hololo.jpg)  
+<br>
+<br>
 
 The last several years I have been sans gym membership, probably for over 5 years now.  I used to run (correction more like a jog) quite a bit before I moved to Trinidad.  It was my favorite thing to do, and best thing for clearing the head and getting good sleep and having more energy overall.  Loved signing up to do 5K and 10k runs because they kept me motivated to run and keep active.  
 <br>
 
-Well things are a little different here.  It is very hot, like very hot, and humid here and I find it really hard to maintain my running.  Although I still do it if I'm out on an early run before the sun is out and blasting — which is a rarity because I have to go to work around that time. I do still enjoy a jog in the evenings around the Savannah, hikes or going up Lady Chancellor or Hololo which are two hills in the area that are popular to walk or run up for exercise.  I love doing this when I have the time. You need at least an hour if not more for these. I don't always have that kind of time in the evenings.  
+Well things are a little different here.  It is very hot, like very hot, and humid here and I find it really hard to maintain my running.  Although I still do it if I'm out on an early run before the sun is out and blasting — which is a rarity because I have to go to work around that time. I do still enjoy a jog in the evenings around the Savannah, hikes or going up Lady Chancellor or Hololo which are two hills in the area that are popular to walk or run up for exercise.  I love doing this when I have the time. You need at least an hour if not more for these. I don't always have that kind of time in the evenings.
 <br>
-
-{% include image.html
-            img="/img/OCT2016/chancellor_view.jpg"
-            title="Lady Chancellor"
-            caption="Take it a bit at a time and stay safe" %}
+<br>
+![excercise](/img/OCT2016/chancellor_view.jpg)  
+<br>
+<br>
 
 As for the gym, well I have been over it for a long time.  Don't get me wrong.  If you gave me a free membership I would take it.  But to pay for one and then have to worry about parking, waiting for machines, going off peak hours — not my kinda thing. So the last few years I have been doing things at home. I used to have a rebounder which I loved, but gave away before we moved here. So now I do a lot of workout videos on YouTube, follow some noteworthy Instagram accounts and get a lot of ideas and inspiration for all sorts of workouts that you can do in the privacy of your own home, at your convenience and the best part is that with many of them, it's almost like you have an instructor right there with you.
 
@@ -74,9 +71,6 @@ John is not only a personal and dear friend but a Pilates lover through and thro
 <br><br>
 
 Almost all of these people offer either personal training and or plans.  Check out their social media accounts or YouTube for more information.
-<br><br>
-
-{% include image.html
-            img="/img/OCT2016/chancellor_break.jpg"
-            title="Joanne drinking water"
-            caption="It's hard work but it can pay off" %}
+<br>
+<br>
+![excercise](/img/OCT2016/chancellor_break.jpg)  

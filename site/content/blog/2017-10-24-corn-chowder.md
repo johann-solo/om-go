@@ -3,8 +3,8 @@ title: Creamy Corn Chowder
 date: 2017-10-24
 author: Joanne
 thumbnail: /images/uploads/2017_10_24_corn_chowder_1.jpg
-categories: blog
-tags: food
+categories: soups
+tags: corn
 excerpt: A hearty make-you-smile-from-the-inside kind of soup that’s chock-full of flavour and creaminess.
 ---
 

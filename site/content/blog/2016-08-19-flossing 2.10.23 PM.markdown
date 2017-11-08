@@ -3,12 +3,10 @@ title:  "One of the biggest dental misconceptions"
 date:   2016-08-18 07:00:35 -0400
 author: Joanne
 permalink: flossing
-categories: blog
-image: AUG2016/dental_supplies.jpg
-tags:
-    - wellness
-    - health
-excerpt: <p>To floss or not to floss, that is the question</p>
+categories: wellness
+thumbnail: /img/AUG2016/dental_supplies.jpg
+tags: teeth
+excerpt: To floss or not to floss, that is the question
 ---
 
 Why would I write about this you ask? Well, I felt I had to in response to a media release recently on flossing. Many of my clients and friends have asked me about that article and I thought I would chime in. There seems to always be a debate about flossing and whether it's proven "effective". A few years ago there was a mouthwash (name not to be mentioned) claiming that rinsing with it is just as, or even more effective than flossing. If that's the case then we all might as well stop flossing and brushing all together. It's claims like that, and the obvious fact that generally people hate to do it, that create a bit of a bad rap for flossing.  
@@ -30,12 +28,11 @@ Well without getting too technical. There is all sorts of bad bacteria in the pl
 <br>
 
 That tartar and plaque not only move up the tooth and build up in between the teeth but guess where else they build up and grow? They actually migrate down to fill the gum pocket and if left undisturbed (not cleaned) allow the bacteria in them to start eating away bone which leads to periodontal disease. This is more serious then gingivitis because your gums can bounce back from gingivitis, but not when it comes to your bone levels. Once you lose bone you cannot grow it back. The only way to refill bone in this case would be by getting bone grafts or bone implants. Less bone equals mobile and weakened teeth which equals not good my friends.
-<br><br>
-
-{% include image.html
-            img="/img/AUG2016/dental_tools.jpg"
-            title="Dental Tools"
-            caption="Your dental exam will be a more positive one if you include floss." %}
+<br>
+<br>
+![Dental Tips](/img/AUG2016/dental_tools.jpg)  
+<br>
+<br>
 
 In my experience from working in a general dental office and also and at a periodontal office (gum specialist), I have definitely noticed a correlation between flossing and healthier gums, less buildup between the teeth, and less bleeding of the gums also.  
 <br>

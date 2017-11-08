@@ -4,8 +4,8 @@ date: '2017-06-13 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/matar_paneer_3.jpg
 image: JUNE2017/matar_paneer_2.jpg
-categories: blog
-tags: food
+categories: sides
+tags: ["Indian", "vegetarian"]
 excerpt: This classic Indian dish is vegetarian, loaded with wonderful spices and
   absolutely delicious
 ---
@@ -13,36 +13,29 @@ Matar paneer was introduced to me by my husband. He would always order it at thi
 and how you spell and pronounce it.
 <br>
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_1.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_1.jpg)
+<br>
 <br>
 
-I always wanted to make it and got down to the business of researching how and what spices make up this beautiful dish. My rendition had to be tasty but also simple and with ingredients I can access here in Trinidad.  I got a bit of directional and authentic flavour inspiration from mytastycurry.com as well as @singh.monisha.  She is the reason I got inspired to actually make it because she made it on her stories one day (the sauce part that is) and I'm glad I watched because it made it seem totally doable. My recipe isn't exactly like either because I don't have all the ingredients they have but I used some basic principles from their recipes and from several others I looked up and tried. This combo I put together really is what I was looking for in a great homemade matar paneer and although it may not be 100 percent the authentic way of making it, it sure tastes authentic and is super delicious.\
+I always wanted to make it and got down to the business of researching how and what spices make up this beautiful dish. My rendition had to be tasty but also simple and with ingredients I can access here in Trinidad.  I got a bit of directional and authentic flavour inspiration from mytastycurry.com as well as @singh.monisha.  She is the reason I got inspired to actually make it because she made it on her stories one day (the sauce part that is) and I'm glad I watched because it made it seem totally doable. My recipe isn't exactly like either because I don't have all the ingredients they have but I used some basic principles from their recipes and from several others I looked up and tried. This combo I put together really is what I was looking for in a great homemade matar paneer and although it may not be 100 percent the authentic way of making it, it sure tastes authentic and is super delicious.
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_3.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+<br>
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_3.jpg)
+<br>
 <br>
 
 Let's talk about the paneer or cheese part itself.  I have never bought paneer from a grocery store back home so I didn't even look for it here. I decided I was going to just make some myself. I saw a recipe for it in a Trinidadian cookbook called Naparima girls' cookbook and compared it to a recipe for paneer from thekitchn.com and basically made it based on the two recipes.  It was easier than I thought and it turned out fabulous! I'm glad it did because I have no idea where I would find paneer ready made here. Has anyone seen it ready made here in Trinidad? Would love to know.  Another great alternative is using tofu which we actually do have here and can find generally anytime. It's a great vegan option for this dish as well.
 <br>
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_4.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_4.jpg)
+<br>
 <br>
 
 Enough blabber from me though. In the recipes below I have listed the substitutions I had to make to get the flavours intended! Hope you try this because it's totally worth the effort! It's absolutely delicious! My husband loved it and said we don't ever have to go out for East Indian food ever again.  Clear sign that it's that good, so I was pretty happy about that. If you have made it and have any further additions to the recipe, let me know!
 <br>
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_5.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_5.jpg)
+<br>
 <br>
 
 ### Paneer recipe adapted from Thekitchn.com & Naparima Girls' Cookbook
@@ -81,10 +74,7 @@ caption="" %}
 11. Marinate and then pan fry (directions for this below) or leave as is - it's up to you
 
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_8.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_8.jpg)
 <br>
 <br>
 
@@ -111,10 +101,7 @@ caption="" %}
 NOTE: this step of marinating and frying is totally optional. I do it because it adds more flavour to the entire dish and to the paneer itself. Also if you are using tofu as the paneer part - you can marinate and toss the tofu cubes in the ingredients above minus the yoghurt if you're vegan unless you use coconut yoghurt and you can then pan fry as mentioned above. This adds a ton of flavour to the tofu and strongly recommend this step if you are using tofu cubes in place of the paneer
 <br>
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_7.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_7.jpg)
 <br>
 <br>
 
@@ -159,7 +146,6 @@ Serves approx 4-6
 7. Sprinkle with more chopped coriander, cilantro or chadon beni. Serve with rice, naan, roti or all of the above and enjoy!!
 
 <br>
-{% include image.html
-img="/img/JUNE2017/matar_paneer_6.jpg"
-title="Matar Paneer Masala"
-caption="" %}
+![Matar Paneer Masala](/img/JUNE2017/matar_paneer_6.jpg)
+<br>
+<br>

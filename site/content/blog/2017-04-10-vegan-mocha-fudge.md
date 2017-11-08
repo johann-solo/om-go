@@ -3,27 +3,26 @@ title: Vegan mocha fudge
 date: '2017-04-10 7:30:35 -0400'
 author: Joanne
 permalink: vegan-mocha-fudge
-image: APR2017/vegan_mocha_fudge_1.jpg
-categories: blog
-tags: food
-excerpt: <p>Small bites of explosive flavour</p>
+thumbnail: /img/APR2017/vegan_mocha_fudge_1.jpg
+categories: desserts
+tags: ["vegan", "mocha"]
+excerpt: Small bites of explosive flavour
 
 ---
 
-Just like my chocolate peanut butter energy balls, these mocha fudge bites are a hit in my house. My husband and I love to have something sweet after dinner but nothing too heavy (I'm the one reaching for a few blocks of chocolate in the fridge after din din). These do the trick all the time and are loaded with good stuff so really a no-guilt kind of dessert. I crave them in the early afternoon when I want a little nudge or a kick to help get over the after lunch slump thanks to the coffee, cocoa powder and cacao nibs. They would also be a perfect snack for pre or post workout too because of the peanut butter punch of protein in them.  
+Just like my chocolate peanut butter energy balls, these mocha fudge bites are a hit in my house. My husband and I love to have something sweet after dinner but nothing too heavy (I'm the one reaching for a few blocks of chocolate in the fridge after din din). These do the trick all the time and are loaded with good stuff so really a no-guilt kind of dessert. I crave them in the early afternoon when I want a little nudge or a kick to help get over the after lunch slump thanks to the coffee, cocoa powder and cacao nibs. They would also be a perfect snack for pre or post workout too because of the peanut butter punch of protein in them.
 <br>
-{% include image.html
-            img="/img/APR2017/vegan_mocha_fudge_2.jpg"
-            title="Vegan mocha fudge"
-            caption="Take that rich flavour to another level with some shredded coconut" %}
+<br>
+![Vegan mocha fudge](/img/APR2017/vegan_mocha_fudge_2.jpg)  
+<br>
+<br>
 
 All you need is a little square bite to really satisfy that sweet tooth. They are rich without being too heavy and sugary like regular fudge. Made with simple ingredients, but will keep you coming back to your fridge for more. They are totally vegan and sugar free, completely plant based, but fear not (if you're not inclined that way) they lack nothing as a fudge! Totally fabulous!! Hope you give them a try and see what the hype's about!
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/vegan_mocha_fudge_3.jpg"
-            title="Vegan mocha fudge"
-            caption="With these wholesome ingredients you can eat (relatively guilt-free)" %}
+![Vegan mocha fudge](/img/APR2017/vegan_mocha_fudge_3.jpg)  
+<br>
+<br>
 
 ### Ingredients
 
@@ -66,13 +65,6 @@ All you need is a little square bite to really satisfy that sweet tooth. They ar
 
 
 Recipe adapted from the Minimalist Baker
-
 <br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
 <br>
-{% include image.html
-            img="/img/APR2017/vegan_mocha_fudge_4.jpg"
-            title="Vegan mocha fudge"
-            caption="" %}
+![Vegan mocha fudge](/img/APR2017/vegan_mocha_fudge_4.jpg)  

@@ -3,31 +3,28 @@ title:  "SoCal...so cool"
 date:   2016-10-21 09:30:35 -0400
 author: Joanne
 permalink: socal-so-cool
-categories: blog
-image: OCT2016/santa_monica_palms.jpg
-tags:
-    - travel
-excerpt: <p>A local's guide to the top 5 budget-friendly things to do in LA </p>
+categories: travel
+thumbnail: /img/OCT2016/santa_monica_palms.jpg
+tags: SoCal
+excerpt: A local's guide to the top 5 budget-friendly things to do in LA
 ---
 
 I have always wanted to visit California but never seemed to have the opportunity to.  California was one of those places that Hollywood kind of built up in my mind.  And visiting it really lived up to the hype.  From picturesque beaches to the Hollywood sign and to the most cliche tourist traps - I loved it all!
-<br><br>
-
-{% include image.html
-            img="/img/OCT2016/hollywood_sign.jpg"
-            title="Hollywood Sign"
-            caption="Some might think it's cliche, but you can't go to LA without seeing it's iconic sign" %}
+<br>
+<br>
+![SoCal](/img/OCT2016/hollywood_sign.jpg)  
+<br>
+<br>
 
 Before we hear about my top rate places to see and do in Southern California I though it best to hear from a local. Helping me out on this blog post today is my IG friend @glamanatti aka Shauna also [theglamanatti.com](http://www.theglamanatti.com). She is more than a fashion blogger. She also shares tips on blogging in general. She has some great Youtube content as well. You need to check out her social media! I know many of my friends will love her curly hair routine for natural hair on YouTube! Why is she helping out with this post? Well she grew up in Southern California and knows a thing or two about what to do when you are visiting. But let me say no more, here is what she had to say:  
 <br><br>
 
 Howdy Y'all! My name is Shauna and I am the founder of [theglamanatti.com](http://www.theglamanatti.com), which is a fashion and beauty site for the average girl. Feel free to check it out!
-<br><br>
-
-{% include image.html
-            img="/img/OCT2016/la_palms.jpg"
-            title="LA Palm trees"
-            caption="Soak up the cool LA vibe on the cheap" %}
+<br>
+<br>
+![SoCal](/img/OCT2016/la_palms.jpg)  
+<br>
+<br>
 
 One thing about me is that I am originally from Los Angeles. Never thought much of it until I started to attend college in the Bay Area, my appreciation of LA. has grown since then. I believe Southern California is the place to be, especially LA. So here are my top 5 places you must visit while in LA.
 <br><br>
@@ -59,9 +56,8 @@ Get a taste of vintage Mexico by visiting Olvera street. This is one of my place
 <br><br>
 
 Thanks Shauna for your excellent suggestions!!! I need to go back and check out numbers 2-4!! There's always a good reason to go back to Southern California.  Stay tuned next week for part 2 of this series.  I will try to keep it a top ten list, but no promises. There's so much awesomeness to see in Southern California!!!!
-<br><br>
-
-{% include image.html
-            img="/img/OCT2016/olvera_fountain.jpg"
-            title="Olvera Fountain"
-            caption="Olvera is a great way to see the rich history and culture of LA" %}
+<br>
+<br>
+![SoCal](/img/OCT2016/olvera_fountain.jpg)
+<br>
+<br>

@@ -4,8 +4,8 @@ date: 2017-08-24
 author: Joanne
 thumbnail: /images/uploads/2017_08_24_pork_chops_mango_salsa_1.JPG
 image: null
-categories: Blog
-tags: Food
+categories: mains
+tags: pork
 excerpt: Summer's not over yet! Make the most out of the grilling season with these delicious pork chops
 ---
 

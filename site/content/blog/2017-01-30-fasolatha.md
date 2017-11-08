@@ -1,13 +1,12 @@
 ---
-title: Fasolatha &mdash; quintessential Greek white bean soup
+title: Fasolatha - quintessential Greek white bean soup
 date: "2017-01-30 7:30:35 -0400"
 author: Joanne
 permalink: fasolatha
-image: JAN2017/fasolatha_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Make soup as warm and hearty as the people who invented it</p>"
+thumbnail: /img/JAN2017/fasolatha_1.jpg
+categories: soups
+tags: ["Greek", "vegetarian", "vegan"]
+excerpt: Make soup as warm and hearty as the people who invented it
 ---
 
 I have to be completely honest that growing up I wanted nothing to do with this dish. I even hated walking into my house and smelling my mom cooking it as a child.  Lots of bribery was involved for me to even take a bite.  I usually would just sop up the broth with bread and leave all the beans behind.  One day though my grandmother made it and I couldn't refuse her so I ate the whole bowl of it and I loved it.  Who knows what it was. But something switched off and I didn't hate beans anymore.
@@ -17,11 +16,9 @@ I have to be completely honest that growing up I wanted nothing to do with this 
 Fasolatha is a popular Greek dish and in fact in general Greeks are a soup loving and eating people.  This national dish isn't just simple to make but simple also when it comes to ingredients. So that makes it a staple meal in my kitchen.  Though simple, it's definitely not lacking in the flavour department. It's a very satisfying meal especially when paired with good crusty bread and olives and of course some feta.  This is perfect if your trying to incorporate some vegetarian meals into your week. Nutritionally high in protein and also is full of veggies so not only simple, flavourful, satisfying but also good for you.
 <br>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/fasolatha_2.jpg"
-            title="fasolatha"
-            caption="So simple but satisfying" %}
+![Fasolatha](/img/JAN2017/fasolatha_2.jpg)  
+<br>
+<br>
 
 It's totally up to you what kind of white beans you would like to use and what form of them you use. I totally don't judge if you use dried or canned beans.  Of course cooked dried beans always have better flavour and texture but in a pinch I totally have no problem using canned. I love using butter beans but any white bean will do.
 <br>
@@ -34,13 +31,11 @@ Some people also use a whole cup of olive oil in the recipe and I'm not opposed 
 <br>
 
 I also like to sauté the veggies first and then add beans and water/broth as opposed to filling the pot with water/broth and bringing it to a boil and adding the rest of the ingredients.  That is totally preferential.  You can make them either way and they will turn out delicious.
-
 <br>
-
-{% include image.html
-            img="/img/JAN2017/fasolatha_3.jpg"
-            title="fasolatha"
-            caption="Fasolada and it's loyal companions" %}
+<br>
+![Fasolatha](/img/JAN2017/fasolatha_3.jpg)  
+<br>
+<br>
 
 It's one of those dishes that is also suitable for most diets. It's vegetarian friendly, vegan, gluten free....you get the picture, you can serve it up to just about everyone and I'm sure they will enjoy this hearty peasant like dish that Greeks are so fond of.  
 <br>
@@ -96,11 +91,5 @@ It's one of those dishes that is also suitable for most diets. It's vegetarian f
 I also like to drizzle a little olive oil over top when served and sometimes add a squeeze of lemon but that is totally optional.
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/fasolatha_4.jpg"
-            title="fasolatha"
-            caption="" %}
+![Fasolatha](/img/JAN2017/fasolatha_4.jpg)

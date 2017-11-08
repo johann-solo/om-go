@@ -3,8 +3,8 @@ title: Mango Ginger Galette
 date: 2017-09-04T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_09_04_mango_ginger_galette_1.jpg
-categories: blog
-tags: food
+categories: pastries
+tags: ["mangoes", "galettes"]
 excerpt: The perfect and most delicious way to use up all your ripe and half ripe
   mangoes
 ---

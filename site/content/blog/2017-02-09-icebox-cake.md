@@ -1,13 +1,12 @@
 ---
-title: Chocolate icebox cake
+title: Chocolate Icebox Cake
 date: "2017-02-09 7:30:35 -0400"
 author: Joanne
 permalink: icebox-cake
-image: FEB2017/icebox_cake_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>A chocolatey decadent mousse cake that will make your tastebuds explode</p>"
+thumbnail: /img/FEB2017/icebox_cake_1.jpg
+categories: desserts
+tags: cakes
+excerpt: A chocolatey decadent mousse cake that will make your tastebuds explode
 ---
 
 The first time I had this cake was while having dinner at my husbands grandparents place.  When granny brought it out I saw my husbands (boyfriend at the time) eyes light up in a way that I had never before seen. She knew it too. With her coy smile and flashy eyes she remarked about not forgetting that it was his favourite. In fact it was and is a favourite amongst all the grandchildren, present company included!
@@ -17,11 +16,9 @@ The first time I had this cake was while having dinner at my husbands grandparen
 My husband has very fond memories of spending weekends at his granny's with his other cousins in the pool or enjoying quiet afternoons there colouring and doing word puzzles and searches in granny's famous puzzle books. She would often make this and serve it out as a special treat for the little guys.  They called it the magical dessert in the big glass bowl. Always trying to figure out what it was. Was it ice cream? Was it cake? Was it ice cream cake? Oh to be 8 again!!!!
 <br>
 <br>
-
-{% include image.html
-            img="/img/FEB2017/icebox_cake_2.jpg"
-            title="Ice box cake"
-            caption="Hazelnuts are optional &mdash; I always choose that option" %}
+![Icebox cake](/img/FEB2017/icebox_cake_2.jpg)  
+<br>
+<br>
 
 The mystery ended when we were given the recipe a couple years later.  We always intended to make it but it kind of got lost in a card box.  I recently found it when I was organising and purging and had to make it! Well I was so glad I found it because it turned out fantastic and was literally the best thing ever to watch my husband throughly enjoy it with a big old grin and eyes beaming knowing behind them were memories of a happy curious 8 year old enjoying a sweet treat.
 <br>
@@ -33,11 +30,10 @@ Let's break this recipe down now.  It's basically a mousse layered cake. Simple 
 
 The raw egg dilemma... ok yes you will be using a raw egg just like you would in many mousse recipes and tiramisu recipes.  The key is to be sure to use fresh eggs and if you can try to use organic or free range and even pasteurised.  I read that you can pasteurise your own eggs by placing them in water that is 60•C or 140•F for 4 minutes.  This is hot enough to kill bacteria but not hot enough to cook the egg. I haven’t tried it but let me know if you have or if you know of any other tips for using raw eggs in recipes.  Would love to hear of any suggestions.  
 <br>
-
-{% include image.html
-            img="/img/FEB2017/icebox_cake_3.jpg"
-            title="Ice box cake"
-            caption="Is it a cake or is it a mousse? It's definitely delicious" %}
+<br>
+![Icebox cake](/img/FEB2017/icebox_cake_3.jpg)  
+<br>
+<br>
 
 All in all this recipe is a total win!! I have had several requests for this and my husband can't wait to take it to work! Simple, chocolatey, mouse heaven in a dish. There is no wonder why this long love affair started.  And we have granny to thank for it!!
 <br>
@@ -84,11 +80,7 @@ All in all this recipe is a total win!! I have had several requests for this and
 
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/FEB2017/icebox_cake_4.jpg"
-            title="Ice box cake"
-            caption="" %}
+![Icebox cake](/img/FEB2017/icebox_cake_4.jpg)  
+<br>
+<br>

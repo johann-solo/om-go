@@ -3,23 +3,21 @@ title: Greek-style potato salad
 date: "2016-11-13 10:30:35 -0400"
 author: Joanne
 permalink: greek-potatoes
-image: NOV2016/greek_potatoes_2.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Not your average potato salad</p>"
+thumbnail: /img/NOV2016/greek_potatoes_2.jpg
+categories: sides
+tags: ["Greek", "salads"]
+excerpt: Not your average potato salad
 ---
 
 Yes we have a potato salad too. Some may argue that it's like an imitation French potato salad. They do have their similarities but I wouldn't call them identical. They both are prepared warm and can be served warm or cold and they share some of the same elements of flavour.  What they also share is how delicious they both are.  
 <br>
 
 I truly can't remember ever having a bad potato salad.  Even if it's heavily 'mayonaised' with canned peas &mdash; they all seem to have their charm. There are two types that I make often and are my go- to potato salads.  One of them is a crispy bacon creamy potato salad which I will post on another side Sunday and the second is this Greek style potato salad. My husband requests both all the time especially the bacon one.
-<br><br>
-
-{% include image.html
-            img="/img/NOV2016/greek_potatoes_1.jpg"
-            title="Greek potato salad"
-            caption="Extra lemon always makes it better" %}
+<br>
+<br>
+![Greek potato salad](/img/NOV2016/greek_potatoes_1.jpg)  
+<br>
+<br>
 
 This salad is a nice change to the heavier creamier potato salads out there. I love those too don't get me wrong, but if you want a bit of a change this is it. This potato salad has more of a fresh and tangy flavour with its fresh herbs and lemony/vinegary dressing. Those are my kind of flavours. (no wonder I love dill pickle and salt and vinegar chips) They fall into what my husband calls the 'Greek trinity' of flavours: lemon, oregano and olive oil.  I think our flavours expand further than that but those three are definitely staples in many dressings and recipes and including this one for the most part.  
 <br>
@@ -46,7 +44,7 @@ Serves 4-6 as a side (or 1 if your greedy like me)
 
 ### Directions:
 
-1. Place the potatoes in a large pot and fill with cold water until the potatoes are completely submerged.  Bring water to boil and salt the water very generously- simmer until fork tender
+1. Place the potatoes in a large pot and fill with cold water until the potatoes are completely submerged.  Bring water to boil and salt the water very generously &ndash; simmer until fork tender
 
 2. While potatoes are boiling chop up all your fresh herbs and onions and place in a bowl along with your lemon juice or vinegar (oregano too if using).
 

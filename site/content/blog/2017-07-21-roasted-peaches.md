@@ -4,8 +4,8 @@ date: 2017-07-21T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_21_roasted_peaches_2.jpg
 image: null
-categories: blog
-tags: food
+categories: desserts
+tags: peaches
 excerpt: Summer dessert made easy and delicious. A beautiful take on peaches and
   cream
 ---

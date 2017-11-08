@@ -3,10 +3,10 @@ title: Brown butter lemon garlic grilled asparagus
 date: '2017-03-12 7:30:35 -0400'
 author: Joanne
 permalink: grilled-asparagus
-image: MAR2017/grilled_asparagus_1.jpg
-categories: blog
-tags: food
-excerpt: <p>Spring is in the air with this simple asapargus side dish</p>
+thumbnail: /img/MAR2017/grilled_asparagus_1.jpg
+categories: sides
+tags: vegetarian
+excerpt: Spring is in the air with this simple asapargus side dish
 published: true
 ---
 
@@ -19,12 +19,11 @@ Spring is in the air for many and asparagus totally reminds me of spring.  These
 * 11/2 lbs. of asparagus washed and trimmed
 * 2-3 tbsp butter
 * 1 clove of garlic chopped
-* Juice of 1/2 a lemon divided in half
+* Juice of 1/2 a lemon divided in half  
+
+![Grilled asparagus](/img/MAR2017/grilled_asparagus_2.jpg)  
 <br>
-{% include image.html
-            img="/img/MAR2017/grilled_asparagus_2.jpg"
-            title=""
-            caption="Tenting gets them tender, grilling gets them crisp" %}
+<br>
 
 ### Directions
 
@@ -40,14 +39,6 @@ Spring is in the air for many and asparagus totally reminds me of spring.  These
 
 1. Place the asparagus on the grill against the line of the grates (otherwise they will fall between) and grill for a couple minutes until golden brown and slightly charred at the edges
 
-1. Remove from the grill, plate and drizzle with the butter lemon garlic sauce remaining in  the foil, sprinkle with salt and drizzle the rest of the lemon juice on them and serve
+1. Remove from the grill, plate and drizzle with the butter lemon garlic sauce remaining in  the foil, sprinkle with salt and drizzle the rest of the lemon juice on them and serve   
 
-<br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
-<br>
-{% include image.html
-            img="/img/MAR2017/grilled_asparagus_3.jpg"
-            title=""
-            caption="" %}
+![Callaloo Soup](/img/MAR2017/callaloo_soup_3.jpg)

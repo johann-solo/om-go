@@ -1,25 +1,23 @@
 ---
-title:  "How to make authentic Greek stuffed peppers"
+title:  "How To Make Authentic Greek Stuffed Peppers"
 date:   2016-09-02 07:00:35 -0400
 author: Joanne
 permalink: how-to-make-greek-stuffed-peppers
-categories: blog
-image: SEPT2016/yemista_meal.jpg
-tags:
-    - food
-excerpt: <p>Try one of the staples of Greek comfort food</p>
+categories: sides
+thumbnail: /img/SEPT2016/yemista_meal.jpg
+tags: ["Greek", "peppers"]
+excerpt: Try one of the staples of Greek comfort food
 ---
 
 So if you didn't already know I'm a fruit and vegetable kinda girl. I like them all and any which way. But you give me roasted veggies and I'm one very very happy girl!! So no doubt I absolutely adore roasted peppers. Greeks and in fact all Mediterranean and Middle Eastern countries do roasted vegetables really really well (mouth watering just thinking of them perfectly roasted to bring out there intense and sweet flavours and then drizzled with some amazing EVOO whoa!!!!)
 <br><br>
 
 Naturally a favourite classic I grew up on was roasted red peppers and my mom's were the most amazing.  I'm super partial though cause it's from my mom's hands so you will just have to trust me on that one. Have I told you about her? Well if you don't already know her she is the sweetest and kindness human being I know!!! Anyways (as I wipe away tears cause I'm missing her right now) back to the roasted peppers. When I was younger with a very innocent palate I use to peel away the pepper and dig into the filling which I would crumble feta over and then just devour!!!
-<br><br>
-
-{% include image.html
-            img="/img/SEPT2016/peppers_prepped.jpg"
-            title="Cleaned peppers"
-            caption="Once cleaned these babies are good to go!" %}
+<br>
+<br>
+![Greek Peppers](/img/SEPT2016/peppers_prepped.jpg)  
+<br>
+<br>
 
 I think the slight bitter taste of the green peppers was what turned me off, but I did get over that cause I love all things bitter now! My husband still prefers the red or yellow or orange but here locally the green variety are the ones most commonly found so I stick to these with the odd local red ones I may find.  
 <br>
@@ -39,13 +37,12 @@ I will get into more stuffing options later.
 I try to pick large sized peppers for the obvious reason that you would have more room to stuff but sometimes I don't always have the option of choosing gigantic ones here, so I stuff small to medium sized ones too and they are perfectly delicious. I usually make these when the peppers are in season to keep it more cost effective too!
 <br><br>
 
-Lets talk a little about the stuffing. I will mainly use mined beef but you can replace the meat with any meat. Minced chicken, turkey and lamb are some other options although with the turkey and chicken you may have to season a little more aggressively, because I find they are a little less flavourful than beef or lamb.  
+Lets talk a little about the stuffing. I will mainly use mined beef but you can replace the meat with any meat. Minced chicken, turkey and lamb are some other options although with the turkey and chicken you may have to season a little more aggressively, because I find they are a little less flavourful than beef or lamb.
 <br>
-
-{% include image.html
-            img="/img/SEPT2016/peppers_stuffed.jpg"
-            title="Peppers stuffed"
-            caption="Let those beautiful juices and flavours blend" %}
+<br>
+![Greek Peppers](/img/SEPT2016/peppers_stuffed.jpg)  
+<br>
+<br>
 
 I usually use arborio rice but really any rice or grain can be used.  For this recipe I used quinoa just because I wanted to switch it up and get a little more protein in. I cooked a cup of quinoa separately and added it to the meat after.  That's isolated to the quinoa otherwise with any kind of rice I usually wash it and add it to the sauce as its simmering and it gets 1/2 or 3/4 way cooked and then cooks down the rest of the way in the oven in the peppers for simplicity. I'm sure you could do that with the quinoa too but I just did it separately this time.  
 <br>
@@ -57,12 +54,11 @@ Many other recipes add feta or other hard Greek cheeses or even Parmesan cheese 
 <br><br>
 
 As for the herbs in the recipe well you can't mess with the trifecta of dill, mint and parsley if you can manage to find all three( which I often can't, which in turn makes it ever so much more important for me to get on creating my own herb garden. Future post? hmmm...).  I go heavy with the Oregano in my horiatiki salad and don't usually add it to the mix but it definitely would be fine to add in as well if your a fan. I just like the flavour the other herbs produce on their own without the oregano.
-<br><br>
-
-{% include image.html
-            img="/img/SEPT2016/stuffed_pepper.jpg"
-            title="Single yemista"
-            caption="A hearty package full of flavour" %}
+<br>
+<br>
+![Greek Peppers](/img/SEPT2016/stuffed_pepper.jpg)  
+<br>
+<br>
 
 This recipe is very flexible with what you can do.  Perhaps you hate mint and dill, then feel free to use your own combination. Maybe you prefer basil and parsley for a pesto-ish flavoured stuffing, that is great.  Or maybe you want to "Trinify" it and season your meat with chive, chadon beni (cilantro family), celery, pimentos and parsley. It's totally up to you so feel free to alter the recipe to your taste. But the recipe below is a more traditional Greek style stuffed peppers
 <br><br>

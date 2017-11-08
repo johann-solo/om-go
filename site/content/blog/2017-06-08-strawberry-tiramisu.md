@@ -4,18 +4,16 @@ date: '2017-06-08 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/strawberry_tiramisu_1.jpg
 image: JUNE2017/strawberry_tiramisu_1.jpg
-categories: blog
-tags: dessert
+categories: desserts
+tags: ["strawberry", "eggless"]
 excerpt: This refreshing spin on your typical tiramisu will not disappoint
 ---
 
 This is a great recipe for anyone who loves tiramisu and anything light and creamy like a moussey dessert but don't let the lightness fool you, it's very rich. Personalised cups or glasses of it are the perfect portion size for a sweet treat like this. Whether you use fresh strawberries or if you are using frozen, it's wonderful both ways.
 <br>
 <br>
-{% include image.html
-            img="/img/JUNE2017/strawberry_tiramisu_2.jpg"
-            title="Strawberry Tiramisu"
-            caption="" %}
+![Strawberry Tiramisu](img/JUNE2017/strawberry_tiramisu_2.jpg)
+<br>
 <br>
 
 With the frozen ones I usually make them into a sauce by simmering the berries with some sugar &mdash; in this case I used coconut sugar and a squeeze or two of lime or lemon juice and a splash of vanilla.  Once it's reduced I take it off the heat and let it cool completely before layering. It's a darker richer red when you make the sauce this way especially if you are using coconut sugar. With the fresh, I macerate them in some sugar, lemon juice, vanilla and a splash of orange liqueur. Let them all hang out while you are making the creamy layer and until they turn into a thick syrup.
@@ -29,19 +27,15 @@ Now for the mascarpone! Well this recipe is a little different than a regular ti
 Let's talk about those spongy layers. I use lady fingers but if you can't get your hands on any then definitely use a sponge cake like you would in a trifle. I don't have trouble finding them here so I stick to the lady fingers.  And if you want to be super adventurous and you have lots of time on your hands (I'm super jealous if that's the case) by all means make your own lady fingers. There's lots of great recipes out their for making them from scratch and all the best to you!! To moisten them I use some orange juice and orange liqueur.  I also like to add a splash of orange blossom water but that is completely optional. The light citrus flavours complement the strawberry well and the freshly squeezed orange juice adds just enough sweetness. To top these little beauties I just do the same as my regular tiramisu. I  sift some cocoa powder on them or I drizzle a little more of the sauce. Either way is great!
 <br>
 <br>
-{% include image.html
-            img="/img/JUNE2017/strawberry_tiramisu_3.jpg"
-            title="Strawberry Tiramisu"
-            caption="" %}
+![Strawberry Tiramisu](img/JUNE2017/strawberry_tiramisu_3.jpg)
+<br>
 <br>
 
 This is a pretty simple recipe. There are a few easy steps involved and a few bowls to clean but it's worth it cause they are so pretty and so refreshingly delicious especially with the fresh berries.  The frozen ones that get the heat treatment are just as delicious but definitely have a richer deeper flavour, more decadent and a heavier dessert-like flavour. I tend to make them with the frozen because they are never in season here and can only get the ones imported and those never taste the same as locally grown berries.  Whatever way you chose to make them, you and whoever gets a serving of these will be happy!
 <br>
 <br>
-{% include image.html
-            img="/img/JUNE2017/strawberry_tiramisu_4.jpg"
-            title="Strawberry Tiramisu"
-            caption="" %}
+![Strawberry Tiramisu](img/JUNE2017/strawberry_tiramisu_4.jpg)
+<br>
 <br>
 
 Recipe makes 4-6 tiramisu cups depending on the size and if you are making it into a dish then I would definitely double the recipe
@@ -87,13 +81,11 @@ Recipe makes 4-6 tiramisu cups depending on the size and if you are making it in
 
 1. In a medium size bowl combine the liquids for the cake layer. Soak the lady fingers in the bowl individually for a few seconds flipping them once and set them aside (if you are making the tiramisu in cups you can break the ladyfingers in half before or after soaking for them to fit glasses &mdash; I find after soaking is easier)
 
-1. Layering: this is where preference rules. I like to do a little cream on the bottom then the lady fingers and then syrup. I change the fingers and cream layers up but what I don't change is the sequence of the fingers and syrup. I always top the fingers with the syrup so that they soak up the liquid of the syrup otherwise the syrup will start to blend or seep through the cream and look a little messier-that doesn't change the flavours at all it just keeps the layers more distinct and neat looking. I also like to pipe  the cream into the cups because it easier and less messy but you definitely can just spoon it in as well. I like to end off with a layer of cream and the I dust it with cocoa powder. I like to do some like that and some with a little syrup drizzled over the top.
+1. Layering: this is where preference rules. I like to do a little cream on the bottom then the lady fingers and then syrup. I change the fingers and cream layers up but what I don't change is the sequence of the fingers and syrup. I always top the fingers with the syrup so that they soak up the liquid of the syrup otherwise the syrup will start to blend or seep through the cream and look a little messier-that doesn't change the flavours at all it just keeps the layers more distinct and neat looking. I also like to pipe  the cream into the cups because it easier and less messy but you definitely can just spoon it in as well. I like to end off with a layer of cream and the I dust it with cocoa powder. I like to do some like that and some with a little syrup drizzled over the top.  
+
 <br>
+![Strawberry Tiramisu](img/JUNE2017/strawberry_tiramisu_6.jpg)
 <br>
-{% include image.html
-            img="/img/JUNE2017/strawberry_tiramisu_6.jpg"
-            title="Strawberry Tiramisu"
-            caption="" %}
 <br>
 
 ## Mascarpone recipe adapted from FOOD52
@@ -128,7 +120,6 @@ Makes approx 2 cups worth
 * The next day scrape out the cheese  into a bowl and use in place of mascarpone
 
 <br>
-{% include image.html
-            img="/img/JUNE2017/strawberry_tiramisu_7.jpg"
-            title="Strawberry Tiramisu"
-            caption="" %}
+![Strawberry Tiramisu](img/JUNE2017/strawberry_tiramisu_7.jpg)
+<br>
+<br>

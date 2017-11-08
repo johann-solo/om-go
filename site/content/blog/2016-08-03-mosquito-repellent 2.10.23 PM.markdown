@@ -3,11 +3,10 @@ title:  "DEET-free mosquito repellent"
 date:   2016-08-03 9:33:35 -0400
 author: Joanne
 permalink: mosquito-repellant
-categories: blog
-image: AUG2016/sss_acvinegar.jpg
-tags:
-    - wellness
-excerpt: <p>Looking for a DEET-free alternative mosquito repellent? Try these unexpected methods</p>
+categories: wellnes
+thumbnail: /img/AUG2016/sss_acvinegar.jpg
+tags: skin
+excerpt: Looking for a DEET-free alternative mosquito repellent? Try these unexpected methods
 ---
 
 So after a couple of years of worrying about Chikungunya (CHIKV) and the ever present threat of dengue we now have another one to worry about Zika virus (ZIKV)! And it's rainy season so you know those pesky mosquitos are out there on a mission to suck some serious blood.  
@@ -42,12 +41,11 @@ The oil is pretty easy to find in Trinidad because a lot of people sell Avon her
 <br><br>
 
 Its not a very strong smelling oil. It's soft smelling and many find it pleasant. Its also light enough to wear it with your favourite perfume over it. I personally am not a fan of how it smells.  I find it smells like stale strong perfume I can picture finding in my grandmothers medicine cabinet. My opinion.  Despite the smell it works really well for me especially in the evenings. I really don't know what it is about it, but the smell or something in it detracts mosquitos. Now I can't say that I haven't been bitten while wearing it but not nearly as many bites as I would without having it on.
-<br><br>
-
-{% include image.html
-            img="/img/AUG2016/sss_acvinegar.jpg"
-            title="Skin So Soft and apple cider vinegar"
-            caption="Skin So Soft and apple cider vinegar" %}
+<br>
+<br>
+![Apple cider vinegar](/img/AUG2016/sss_acvinegar.jpg)  
+<br>
+<br>
 
 In its defence even Off claims 8-10 hours of effectiveness but I still have had bites while having that on too so I believe on me, nothing is completely fool proof. I'm not claiming that SSS body oil is chemical free either because it's a perfumed body oil after all, but it is a good DEET free option and it has a moisturising effect as a good bonus!
 <br><br>

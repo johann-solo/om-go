@@ -1,11 +1,11 @@
 ---
-title: Roasted Vegetable Frittata &mdash; a must  have on your brunch list.
+title: Roasted Vegetable Frittata &mdash; a must have on your brunch list.
 date: 2017-08-07T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_07_vegetable_frittata_1.jpg
 image: null
-categories: blog
-tags: food
+categories: sides
+tags: vegetarian
 excerpt: Creamy, sweet from roasting the veggies and savory with the added cheese
   and bacon!
 ---

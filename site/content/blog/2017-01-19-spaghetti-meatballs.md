@@ -3,20 +3,18 @@ title: Classic spaghetti and meatballs
 date: "2017-01-19 7:30:35 -0400"
 author: Joanne
 permalink: spaghetti-meatballs
-image: JAN2017/spaghetti_meatballs_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>The tastiest meatballs and marinara sauce made the Italian way</p>"
+thumbnail: /img/JAN2017/spaghetti_meatballs_1.jpg
+categories: dinners
+tags: Italian
+excerpt: The tastiest meatballs and marinara sauce made the Italian way
 ---
 
 Like many people I am a huge fan of pasta (even gluten free). I can eat it with anything and everything or even plain or for a quick bite-buttered, tossed with fresh tomatoes, feta and drizzled with olive oil and with a lot of cracked black pepper on it.  Mmmmm! Yum! But add meat and a good sauce and it's a whole new level of love!
-
 <br>
-{% include image.html
-            img="/img/JAN2017/spaghetti_meatballs_2.jpg"
-            title="Meatballs"
-            caption="Perfectly browned and ready to go for a swim" %}
+<br>
+![Meatballs](/img/JAN2017/spaghetti_meatballs_2.jpg)  
+<br>
+<br>
 
 I grew up in an area with a lot of Italians. I mean a lot. The place was called Stoney Creek but often referred to by its nickname Tony's Creek &mdash; an ode to how many Italians live there (or lived there &mdash; I heard the demographic has changed quite a bit). I have a lot of dear Italian friends that really feel like family to me.  Although the food may have its differences the Italian culture is very similar to Greek culture so really all my friends felt like an extension of my family.  
 <br>
@@ -28,12 +26,11 @@ My friend's mom would make the best arancini or rice balls I have ever had. I ha
 <br>
 
 But I will keep things simple with an easy marinara that you can make at home instead of using the store bought. It's perfect for any of your sauce needs. Whether it's just for your pasta, meatballs, lasagna, or anything else you would use a marinara for. You can make it ahead like the day before and just heat it up when you need. I do a big batch when I'm making lasagna and keep some extra for shakshuka or for a cacciatore, or chicken or eggplant parm.
-
 <br>
-{% include image.html
-            img="/img/JAN2017/spaghetti_meatballs_3.jpg"
-            title="Spaghetti and meatballs"
-            caption="Everyone likes spaghetti and meatballs (use rice pasta for the gluten free)" %}
+<br>
+![Meatballs](/img/JAN2017/spaghetti_meatballs_3.jpg)  
+<br>
+<br>
 
 The meatballs are super flavorful and so nice fork tender. I love them.  My friend is married to an Italian and she ate my meatballs once and asked " how do you get your meatballs to taste so Italian?" Well the answer is ask an Italian how they make their meatballs and follow suit! This is a very basic meatball recipe.  It's also a very flexible one too.  The ratio of bread and breadcrumbs can be altered to taste.  Some people don't like adding the Parmesan cheese to them and that is fine. And you can play up the herbs a little too.  You could also add a third meat like many do. Often added is ground veal. So feel free to add it in or even do all ground beef if you don't have the pork. This is the way I like mine.  You could change and add things to your personal taste.  Hope you live these as much as my husband and I do! Let me know what you add to your meatballs and sauce!  
 <br>
@@ -131,11 +128,5 @@ Place the meatballs on a baking sheet drizzle with a little olive oil and bake u
 1. Once all the meatballs are finished browning gently place them in the marinara sauce and simmer for 20-30 minutes occasionally and carefully stirring.
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/spaghetti_meatballs_4.jpg"
-            title=""
-            caption="" %}
+![Meatballs](/img/JAN2017/spaghetti_meatballs_4.jpg)

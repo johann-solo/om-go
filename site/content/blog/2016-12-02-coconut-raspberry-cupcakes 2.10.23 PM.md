@@ -3,34 +3,31 @@ title: Coconut raspberry cupcakes
 date: "2016-12-02 8:30:35 -0400"
 author: Joanne
 permalink: coconut-raspberry-cupcakes
-image: DEC2016/coconut_raspberry_cupcakes_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Powder pink swirls and coconut confetti</p>"
+thumbnail: /img/DEC2016/coconut_raspberry_cupcakes_1.jpg
+categories: desserts
+tags: cupcakes
+excerpt: Powder pink swirls and coconut confetti
 ---
 
 Have you ever had one of those days where when it's over and you can't believe you survived it?   Well that was my day yesterday. I ate breakfast at 6am which was a loaded toast with a bulletproof coffee and that literally lasted me until 4 pm when I left work with my lunch in hand. (And what makes things even worse is that my day got booked that way purposely by my lovely boss &mdash; so it wasn't like oh I'm so busy I forgot to eat, it was more like sorry no lunch for you today) So I'm going to overload on vitamin C tonight and pray that I don't get sick with this new strain of the flu going around.  Because I don't have time for that. I have a busy weekend ahead of me!!
 <br><br>
 
 Now that I unloaded that we can focus on these powder pink gals. I'm typically a chocolate or vanilla fan when it comes to cupcakes. Nothing fancy but it must be a good cupcake. So I'm not usually draw to the 5 billion flavours in one cupcake sort of cupcakes but these are delicious. And the flavours just work really well together.
-<br><br>
-
-{% include image.html
-            img="/img/DEC2016/coconut_raspberry_cupcakes_2.jpg"
-            title="Raspberry Coconut Cupcakes"
-            caption="Coconut and raspberry are a dream together" %}
+<br>
+<br>
+![Raspberry Coconut Cupcakes](/img/DEC2016/coconut_raspberry_cupcakes_2.jpg)  
+<br>
+<br>
 
 I originally got this recipe for coconut cupcakes from Pinterest several years ago and it was a screenshot before you could save screenshots.  So I don't know who it's by and I have searched and never found the page again. It's quite alright though because I have made them my own.  As good as the recipe was taste-wise, it was lacking texturally. My husband along with anyone who has tried them loves these cupcakes but every time I made them he would say that the actual cupcake is too heavy. The best way I could describe it was that it had a texture like a corn bread or muffin. Not a cupcake. So the last little while I have been testing the recipe and methods to get the right texture and finally did!!  
 <br>
 
-Now they are a lot lighter and just all around better. I decided to add the raspberry one day because I saw some really good jam at the grocery store and brought it home and the last time i made these cupcakes the jam caught my eye and I thought I would give the combo a try. It was a win! But that's no surprise coconut and raspberry are a dream together. I just needed to see the two together to remember that!! I have brought them to work many times and they are always on request there and at home.  
+Now they are a lot lighter and just all around better. I decided to add the raspberry one day because I saw some really good jam at the grocery store and brought it home and the last time i made these cupcakes the jam caught my eye and I thought I would give the combo a try. It was a win! But that's no surprise coconut and raspberry are a dream together. I just needed to see the two together to remember that!! I have brought them to work many times and they are always on request there and at home.
 <br>
-
-{% include image.html
-            img="/img/DEC2016/coconut_raspberry_cupcakes_3.jpg"
-            title="Raspberry Coconut Cupcakes"
-            caption="Powder pink peaks for the win" %}
+<br>
+![Raspberry Coconut Cupcakes](/img/DEC2016/coconut_raspberry_cupcakes_3.jpg)  
+<br>
+<br>
 
 I think these would be great with anything you would love to pair coconut with or nothing. They are wonderful just as plain coconut cupcakes too but I think I will try them out next using my sorrel jam that I recently made and I can only imagine the colour of the frosting. I'm sure it won't be powder pink anymore! My fingernails were stained for days after making that jam just like when you make anything with beets.  My we have so much colour to choose from and use in nature. It just amazes me constantly!!
 <br><br>
@@ -104,14 +101,6 @@ I also want to try this out with passionfruit when they are back in season. I fi
 * dry ingredients must be sifted for best results
 * eggs and butter **NEED** to be room temp
 * butter must be creamed first for cake and frosting
-* do not just dump all the ingredients for frosting all together and mix ( as the original recipe called for- complete mess and not a nice textured frosting)
-<br><br>
+* do not just dump all the ingredients for frosting all together and mix ( as the original recipe called for- complete mess and not a nice textured frosting)  
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-<br>
-<br>
-
-{% include image.html
-            img="/img/DEC2016/coconut_raspberry_cupcakes_4.jpg"
-            title="Raspberry Coconut Cupcakes"
-            caption="" %}
+![Raspberry Coconut Cupcakes](/img/DEC2016/coconut_raspberry_cupcakes_4.jpg)  

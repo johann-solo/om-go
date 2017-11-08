@@ -3,20 +3,18 @@ title: Roasted Lemony Parmesan Broccoli
 date: "2017-01-15 7:30:35 -0400"
 author: Joanne
 permalink: roasted-broccoli
-image: JAN2017/roasted_broccoli_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Perfectly done whether fresh or from frozen</p>"
+thumbnail: /img/JAN2017/roasted_broccoli_1.jpg
+categories: sides
+tags: vegetarian
+excerpt: Perfectly done whether fresh or from frozen
 ---
 
-Sometimes people are surprised to know how much I use store bought frozen fruits and veggies.  I love fresh don't get me wrong but I love fresh from the market and many times I will freeze my market finds to maintain their freshness.  I usually freeze bhaji/spinach, mangos, pimento peppers, bananas, passion fruit pulp, pineapple, and even water melon. You name it if I bought it fresh or if I picked it myself I will freeze it if I don't use it all up and if I know I could use it later in foods and smoothies.  I always have frozen fruit and frozen spinach and broccoli in the freezer at any given time.  They are staple freezer items I have and use.  I also have peas and corn in there too.  And I will choose frozen over canned anytime for taste alone but also for the additives which come along with many canned goods. The only canned veggie I have in my cupboards is tomatoes and I choose the ones with no salt and as few or no preservatives in them.   
+Sometimes people are surprised to know how much I use store bought frozen fruits and veggies.  I love fresh don't get me wrong but I love fresh from the market and many times I will freeze my market finds to maintain their freshness.  I usually freeze bhaji/spinach, mangos, pimento peppers, bananas, passion fruit pulp, pineapple, and even water melon. You name it if I bought it fresh or if I picked it myself I will freeze it if I don't use it all up and if I know I could use it later in foods and smoothies.  I always have frozen fruit and frozen spinach and broccoli in the freezer at any given time.  They are staple freezer items I have and use.  I also have peas and corn in there too.  And I will choose frozen over canned anytime for taste alone but also for the additives which come along with many canned goods. The only canned veggie I have in my cupboards is tomatoes and I choose the ones with no salt and as few or no preservatives in them.
 <br>
-
-{% include image.html
-            img="/img/JAN2017/roasted_broccoli_2.jpg"
-            title="Roasted broccoli"
-            caption="They come out crispy and delicious every time" %}
+<br>
+![Roasted broccoli](/img/JAN2017/roasted_broccoli_2.jpg)  
+<br>
+<br>
 
 Back to the whole store bought  frozen veggies though. There are a few reasons why they are staple items in my freezer. For one they are very cost effective especially in countries like the one I live in where produce like broccoli, broccolini, broccoli rabe, zucchini, cauliflower and some other varieties are not readily grown locally.  Buying these imported can be very expensive.  This goes for berries and other fruits that are not grown locally.
 <br>
@@ -25,24 +23,18 @@ Another reason is that you really don't know how far imported produce has travel
 
 > we can all agree that veggies and fruit picked when ripened always taste so much better
 
-When choosing frozen fruit, always check the back of packaging to check for any added salt or sugar.  Not many do add it but it's good to check just in case.  
-Check the dates also because just like you wouldn't chose fresh fruits or veggies that look like they have been sitting a long time on the the grocery store shelf you wouldn't want to choose frozen ones that have been sitting in the freezer a long time either.  Also eat it all up sooner than later especially if you have opened the package.  Make sure you put opened  frozen veggies in a sealed bag to maintain freshness if they don't come in one.  
+When choosing frozen fruit, always check the back of packaging to check for any added salt or sugar.  Not many do add it but it's good to check just in case. Check the dates also because just like you wouldn't chose fresh fruits or veggies that look like they have been sitting a long time on the the grocery store shelf you wouldn't want to choose frozen ones that have been sitting in the freezer a long time either.  Also eat it all up sooner than later especially if you have opened the package.  Make sure you put opened  frozen veggies in a sealed bag to maintain freshness if they don't come in one.  
 <br>
-
-{% include image.html
-            img="/img/JAN2017/roasted_broccoli_5.jpg"
-            title="Roasted broccoli"
-            caption="Golden melted Parmesan cheese takes them over the top- just enough saltiness and nuttiness" %}
+<br>
+![Roasted broccoli](/img/JAN2017/roasted_broccoli_5.jpg)  
+<br>
+<br>
 
 This is one way I like to eat my frozen or fresh broccoli.  Even when roasted this way frozen, the end result is crispy edged delicious broccoli.  Much different than the usual frozen steamed broccoli.  Nothing against that at all because I love my broccoli steamed and with lots of lemon juice and olive oil but this is just another great way to eat broccoli even from frozen.  I will be 100 percent honest with you though, you are not going to get the exact texture of fresh roasted broccoli but it's still an excellent alternative to steaming.   The high roasting temperature helps evaporate the moisture allowing it to roast instead of steam. I think the flavours are awesome and it's worth a try whether frozen or fresh!
 <br>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/roasted_broccoli_3.jpg"
-            title="Roasted broccoli"
-            caption="Hard to believe these were frozen" %}
-
+![Roasted broccoli](/img/JAN2017/roasted_broccoli_3.jpg)  
+<br>
 <br>
 
 ## Roasted lemony Parmesan broccoli
@@ -81,11 +73,5 @@ This is one way I like to eat my frozen or fresh broccoli.  Even when roasted th
 1. Remove from oven and generously drizzle with lemon juice
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/roasted_broccoli_4.jpg"
-            title=""
-            caption="" %}
+![Roasted broccoli](/img/JAN2017/roasted_broccoli_4.jpg)

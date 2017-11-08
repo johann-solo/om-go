@@ -4,8 +4,8 @@ date: 2017-08-10T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_10_beef_bulgogi_1.jpg
 image: null
-categories: blog
-tags: food
+categories: mains
+tags: ["Korean", beef]
 excerpt: A good balance of sweet and spice and everything nice
 ---
 ​

@@ -3,11 +3,10 @@ title: Caribbean style coconut rice with pigeon peas
 date: "2017-03-05 7:30:35 -0400"
 author: Joanne
 permalink: coconut-rice-peas
-image: MAR2017/coconut_rice_peas_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>The Caribbean's favourite 'anytime' side dish</p>"
+thumbnail: /img/MAR2017/coconut_rice_peas_1.jpg
+categories: sides
+tags: vegetarian
+excerpt: The Caribbean's favourite 'anytime' side dish
 ---
 
 This is a basic rice and peas recipe and it's one that I often make and switch up a lot.  I love to add different beans to it or even green peas and carrots as well.  I also add pumpkin and spinach or bhaji to it too.  I like to also add different flavourings to it by adding pimento peppers and thyme. This recipe is a basic rice and peas but feel free to play around with the variations.  
@@ -56,12 +55,5 @@ Hope  you enjoy my version of coconut rice with pigeon peas and also hope you gu
 
 1. Once done remove from the oven fluff and serve  
 
-<br>
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-<br>
-{% include image.html
-            img="/img/MAR2017/coconut_rice_peas_2.jpg"
-            title="Coconut rice and pigeon and peas"
-            caption="" %}
+![Coconut rice and pigeon and peas](/img/MAR2017/coconut_rice_peas_2.jpg)

@@ -3,31 +3,28 @@ title: Orange olive oil cake
 date: "2017-01-06 7:30:35 -0400"
 author: Joanne
 permalink: orange-olive-oil-cake
-image: JAN2017/orange_olive_oil_cake_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Try a decadent and moist cake with a light mascarpone topping</p>"
+thumbnail: /img/JAN2017/orange_olive_oil_cake_1.jpg
+categories: desserts
+tags: cakes
+excerpt: Try a decadent and moist cake with a light mascarpone topping
 ---
 
 This feels like the longest but also the shortest week I have had in a while. One of those weeks that feels short because of the holidays but it was so jam packed with busyness that if felt so long.   Work made it even longer but we did do some fun stuff like go to the beach!! Ok yes we have been living on this island for over 4 years now but the novelty of going to the beach has not worn off, and I speak for myself when I say that it will never wear off. I'm a total beach bum and always have been.  Keep your pool! I need the salt and waves and sand between my toes!!
 <br>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/orange_olive_oil_cake_2.jpg"
-            title=""
-            caption="Freshly squeezed will bring out a better flavour" %}
+![Orange olive oil cake](/img/JAN2017/orange_olive_oil_cake_2.jpg)  
+<br>
+<br>
 
 Another reason it's still a novelty is that we don't go nearly as often as you would think we should be going.  Yeah that's how it is folks.  Don't think cause you live on and island you get to go to the beach every day or every weekend for that matter.  Unless you're independently wealthy and have nothing else going on. But life is busy folks! From work, to volunteering, to family, to housework, you name it. The beach always seems to take the back burner. But we always try to carve out some beach time. That's actually the deal we had coming into deciding to live here. "I will go but we need to go to the beach regularly" not my exact words to my husband but it was implied.  And I have to say he has delivered.  Anyways it's Friday now and glad the weekend is here. It will be busy but with less work and more play both in the kitchen and with friends getting together.  
 <br>
 
 Speaking of get togethers this is the perfect cake to share (see what I did there?!?) with friends or take to a dinner.  If you like a very moist cake with a soft and mellow creamy icing this is one cake you need to make.  You all know by now I have a deep love for all things citrus and I also love soaked desserts. This ticks both of those off.  Third on that list of criteria is simplicity and this cake is pretty easy to put together and believe it or not no mixer is involved or required.  
 <br>
-{% include image.html
-            img="/img/JAN2017/orange_olive_oil_cake_3.jpg"
-            title="Orange olive oil cake"
-            caption="Moisture locked in by that perfectly golden brown exterior" %}
+<br>
+![Orange olive oil cake](/img/JAN2017/orange_olive_oil_cake_3.jpg)  
+<br>
+<br>
 
 It's just a beautiful cake. It's dense and moist yet its not too heavy tasting.  Probably because of the citrus flavour in it and also the icing is very light.  My husband said he loved the icing but he could even see this cake taking a heavier cream cheese icing.  I think either or would be fine but I love the subtle sweetness of the mascarpone and the airiness of it. You can even make the cake plain with a dusting of powdered sugar and maybe decorated with some candied oranges! Yum that sound good, actually may need to make it like that next time.  
 <br>
@@ -37,11 +34,8 @@ This recipe was adapted from Kylie Flavell and also Maialino's version of it.
 I found that Maialino's version was a bit too heavy and almost too moist.  Kylie's recipe is great but I don't always have almond flour/ meal around but I did take the almond meal idea from that recipe and incorporated into the other one and I loved her idea for the mascarpone icing. Hope you enjoy this beauty of a cake!!
 <br>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/orange_olive_oil_cake_4.jpg"
-            title=""
-            caption="How about a slice? Or two?" %}
+![Orange olive oil cake](/img/JAN2017/orange_olive_oil_cake_4.jpg)  
+<br>
 <br>
 
 ## Orange olive oil cake
@@ -93,11 +87,5 @@ I found that Maialino's version was a bit too heavy and almost too moist.  Kylie
 * Stir together mascarpone, cream, icing sugar and vanilla with a wooden spoon until it comes together. Do not over mix or it will start to go from smooth to almost chunky.  It  will still taste good but won't look as appealing. I speak from experience. So only mix until well incorporated and smooth.  It will come together quickly.  Ice cake and leave as is or top with chopped walnuts or almond flakes or orange zest.
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/JAN2017/orange_olive_oil_cake_5.jpg"
-            title=""
-            caption="" %}
+![Orange olive oil cake](/img/JAN2017/orange_olive_oil_cake_5.jpg)

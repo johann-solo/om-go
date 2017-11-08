@@ -4,8 +4,8 @@ date: 2017-07-24T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_24_black_eyed_peas_greens_1.jpg
 image: null
-categories: blog
-tags: food
+categories: sides
+tags: vegetarian
 excerpt: A delicious, nourishing and Mediterranean take on a bean salad. Perfect
   side or a main as I like it &mdash; served either warm or cold
 ---

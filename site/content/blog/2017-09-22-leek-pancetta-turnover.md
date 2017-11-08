@@ -3,8 +3,8 @@ title: Leek And Pancetta Turnover
 date: 2017-09-22
 author: Joanne
 thumbnail: /images/uploads/2017_09_22_leek_pancetta_turnover_1.jpg
-categories: blog
-tags: food
+categories: pastries
+tags: ["savoury", "leeks"]
 excerpt: A savoury and hearty turnover just in time for Fall
 ---
 ![Leek and pancetta turnovers](/images/uploads/2017_09_22_leek_pancetta_turnover_2.jpg)

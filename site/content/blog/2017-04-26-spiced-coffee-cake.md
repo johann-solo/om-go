@@ -2,9 +2,9 @@
 title: Spiced Coffee Cake with a Caramel Rum Glaze
 date: '2017-04-26 7:30:35 -0400'
 author: Joanne
-image: APR2017/spiced_coffee_cake_1.jpg
-categories: blog
-tags: food
+thumbnail: /img/APR2017/spiced_coffee_cake_1.jpg
+categories: desserts
+tags: cakes
 excerpt: The perfect accompaniment to any hot beverage!!
 
 ---
@@ -12,36 +12,29 @@ excerpt: The perfect accompaniment to any hot beverage!!
 As far as coffee cakes go, this has to be one of my husband's favourite and most requested cake. He is not the only one either. I have served this for brunch and also for dessert and it's always a hit. It's a humble and simple little cake yet it has some really nice flavours in it. The texture is just right especially with a bit of the crunch from the streusel, and the glaze gives it a little stickiness &mdash; something that I think the cake needs and the original recipe was missing.
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/spiced_coffee_cake_2.jpg"
-            title="Spiced coffee cake"
-            caption="Hello sticky sweet glaze!!" %}
-
+![Spiced coffee cake](/img/APR2017/spiced_coffee_cake_2.jpg)
+<br>
+<br>
 
 The cake is airy and slightly crumbly yet also moist.  It's perfect with a cup of coffee just like the name of the cake suggest but equally good with a nice cup of earl grey! So perfect with an afternoon tea! There is absolutely no coffee in this cake, something that many thought when I first posted the picture of it on social media.  It's merely called a coffee cake, something that any cake can be called, but the term is most often used for cakes with a German ring to them like a streusel cake or cake with a streusel on or in them. Just thought I would clarify in case you were expecting a coffee kick from this cake.  
 <br>
-{% include image.html
-            img="/img/APR2017/spiced_coffee_cake_3.jpg"
-            title="Spiced coffee cake"
-            caption="Save a little glaze to drizzle when serving" %}
-
+<br>
+![Spiced coffee cake](/img/APR2017/spiced_coffee_cake_3.jpg)
+<br>
+<br>
 
 You definitely can go without the caramel rum glaze but why would you do that? All jokes aside you can  go without it or you can omit the rum if you wanted it to be alcohol free. It would be just as delicious!
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/spiced_coffee_cake_4.jpg"
-            title="Spiced coffee cake"
-            caption="Getting the glaze treatment" %}
-
+![Spiced coffee cake](/img/APR2017/spiced_coffee_cake_4.jpg)
+<br>
+<br>
 
 There are a few steps involved in making the cake since you are making a streusel and a glaze separately but all the components of the cake are fairly easy to make and quick. What I love about this cake is that all the ingredients are pretty basic too.  That is a plus for me since most uncommon ingredients are like 3-4 times the price of what they are back home.  Most of the ingredients are pantry items. The only thing I had to get that I don't usually have at home is the sour cream. And of course if you're not a baker, the cake flour and powdered sugar.  So there you have it! A simple cake, basic ingredients, a definite crowd pleaser and the perfect accompaniment to a hot beverage! All you can ask for in a coffee cake!  Hope you give it a try and if you do, please let me know. I love all the feedback!
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/spiced_coffee_cake_5.jpg"
-            title="Spiced coffee cake"
-            caption="Airy, crumbly and yet moist &mdash; a great little combo" %}
+![Spiced coffee cake](/img/APR2017/spiced_coffee_cake_5.jpg)
+<br>
 <br>
 
 ## Coffee Cake
@@ -125,15 +118,8 @@ in the powdered sugar gradually and the rum until smooth
 
 1. Continue to whisk for a couple minutes until it's starts to cool and thicken
 
-1. You can store any leftover sauce in the fridge in a sealed container for a few days and reheat and whisk to soften
+1. You can store any leftover sauce in the fridge in a sealed container for a few days and reheat and whisk to soften  
 
-
+![Spiced coffee cake](/img/APR2017/spiced_coffee_cake_6.jpg)
 <br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
 <br>
-{% include image.html
-            img="/img/APR2017/spiced_coffee_cake_6.jpg"
-            title="Spiced coffee cake"
-            caption="" %}

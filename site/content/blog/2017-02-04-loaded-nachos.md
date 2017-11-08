@@ -3,11 +3,10 @@ title: Nachos supreme sheet pan loaded nachos
 date: "2017-02-04 7:30:35 -0400"
 author: Joanne
 permalink: loaded-nachos
-image: FEB2017/loaded_nachos_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>Game day or any day is a good  excuse to whip these up</p>"
+thumbnail: /img/FEB2017/loaded_nachos_1.jpg
+categories: snacks
+tags: Latin
+excerpt: Game day or any day is a good excuse to whip these up
 ---
 
 Let gets something out of the way right off the bat. Game day is not my thing at all.  I'm not a fan of football. I don't get it and don't get the hype. I am more of a hockey and basketball fan probably because I also enjoyed playing those sports growing up and because my dad is a huge hockey fan. Anyways I do love game food.  I love wings, nachos, dips, you name it! So any excuse to make or partake and I'm in. This year the Patriots are in the super bowl and my brother in law is a huge fan.  We were invited to his place to watch and also enjoy a little munchkin loving time with my niece and nephew. That's what I'm most excited for plus the food.  
@@ -21,13 +20,12 @@ I'm super conscious of healthy eating but I do love my junk food too! I totally 
 <br>
 <br>
 
-Back to these loaded nachos. They taste amazing and are definitely a little healthier than nachos or fries supreme at Taco Bell cause you're using real ingredients and no processed cheese. So it's a junk food but of the good kind.  If you know what I mean.  Hehehe! At least that's what I tell myself.  
+Back to these loaded nachos. They taste amazing and are definitely a little healthier than nachos or fries supreme at Taco Bell cause you're using real ingredients and no processed cheese. So it's a junk food but of the good kind.  If you know what I mean.  Hehehe! At least that's what I tell myself.
 <br>
-
-{% include image.html
-    img="/img/FEB2017/loaded_nachos_2.jpg"
-    title="Loaded Nachos"
-    caption="For the love of cheesy goodness" %}
+<br>
+![Loaded Nachos](/img/FEB2017/loaded_nachos_2.jpg)  
+<br>
+<br>
 
 These are also pretty easy to put together and they literally get licked up fast so be sure to make more than one tray! You won't regret it! Another good thing about this is you can load these nachos with anything you want. Customise them by adding beans, corn, red onion, do them meatless, different cheeses, literally anything you like.  
 <br>
@@ -82,11 +80,5 @@ One serving
 * 1/4 tsp black pepper
 
 <br>
-
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
 <br>
-
-{% include image.html
-            img="/img/FEB2017/loaded_nachos_3.jpg"
-            title="Loaded Nachos"
-            caption="" %}
+![Loaded Nachos](/img/FEB2017/loaded_nachos_3.jpg)

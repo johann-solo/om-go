@@ -3,11 +3,10 @@ title: Smooth and rich chocolate avocado pudding
 date: "2016-11-11 10:30:35 -0400"
 author: Joanne
 permalink: chocolate-avocado-pudding
-image: NOV2016/avocado_chocolate_pudding_3.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>One of my favourites way to have an avocado? Chocolatey</p>"
+thumbnail: /img/NOV2016/avocado_chocolate_pudding_3.jpg
+categories: desserts
+tags: ["pudding", "chocolate", "avocado"]
+excerpt: One of my favourites way to have an avocado? Chocolatey
 ---
 
 I have seen these little puddings all over Pinterest and IG but I was watching [@erinireland](https://www.instagram.com/erinireland) stories last week and saw her make it and I thought 'why have I not
@@ -15,12 +14,11 @@ tried this yet!' The time came to make it when I realised I had a really ripe av
 <br>
 
 Disclaimer: I am a fan of dark chocolate, all chocolate in fact.  But I think you must have a bit of an affinity towards dark chocolate to really enjoy this pudding.  Yes I absolutely loved it, but if you are a milk chocolate fan and a sweets fan this may not be your favourite.  That being said you can add more sweetener like honey or maple syrup to it to help.  But it's flavour is definitely more toward the darker chocolate kind.
-<br><br>
-
-{% include image.html
-            img="/img/NOV2016/avocado_chocolate_pudding_4.jpg"
-            title="Chocolate avocado pudding"
-            caption="Remember it's a vegetable, so it's ok to binge" %}
+<br>
+<br>
+![Chocolate avocado pudding](/img/NOV2016/avocado_chocolate_pudding_4.jpg)  
+<br>
+<br>
 
 Its silky smooth and requires very few ingredients.  And the best part is you dump all those ingredients in the food processor and presto you have your rich silky smooth chocolate pudding!!
 I topped mine off with a coconut whip cream.  By the way I whipped it in the food processor because if you are following my stories you know that my mixer died on me last week.  I haven't got a new one yet so I debated whether it would work using the food processor and was surprised to find that it did.  It turns out fluffier when using the mixer though for future reference.  
@@ -49,9 +47,6 @@ Note: depending on size of avocado and ripeness you may need to adjust the amoun
 <br>
 
 Serve with coconut whip on top and a sprinkle of cocoa powder. Enjoy!!!!
-<br><br>
-
-{% include image.html
-            img="/img/NOV2016/avocado_chocolate_pudding_2.jpg"
-            title="Chocolate avocado pudding"
-            caption="" %}
+<br>
+<br>
+![Chocolate avocado pudding](/img/NOV2016/avocado_chocolate_pudding_2.jpg)  

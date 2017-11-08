@@ -3,39 +3,34 @@ title: Creamy Spring Potato salad with Yoghurt dressing
 date: '2017-04-23 7:30:35 -0400'
 author: Joanne
 permalink: potato-salad
-image: APR2017/potato_salad_1.jpg
-categories: blog
-tags: food
+thumbnail: /img/APR2017/potato_salad_1.jpg
+categories: sides
+tags: salads
 excerpt: A lighter delicious version of a creamy potato salad
 
 ---
 
-You can never go wrong with having a few good potato salad recipes on hand. This is one of them.  It's a cool and refreshing one.  Nice and fresh tasting from the cool yoghurt to the fresh herbs in it, and not to mention the green peas. The yoghurt based dressing keeps it creamy but light. Not as heavy as a mayo based one.  Nothing wrong with a mayo based one by the way. I do a really nice one like that too, but it's good to have an alternative if you want a lighter one. One thing it isn't light on is flavour. The fresh herbs and chives in the salad as well as the tangy yoghurt and garlicky dressing make it a rounded out side dish that is perfect for BBQs, picnics or Sunday lunch/dinner.  
+You can never go wrong with having a few good potato salad recipes on hand. This is one of them.  It's a cool and refreshing one.  Nice and fresh tasting from the cool yoghurt to the fresh herbs in it, and not to mention the green peas. The yoghurt based dressing keeps it creamy but light. Not as heavy as a mayo based one.  Nothing wrong with a mayo based one by the way. I do a really nice one like that too, but it's good to have an alternative if you want a lighter one. One thing it isn't light on is flavour. The fresh herbs and chives in the salad as well as the tangy yoghurt and garlicky dressing make it a rounded out side dish that is perfect for BBQs, picnics or Sunday lunch/dinner.
 <br>
-{% include image.html
-            img="/img/APR2017/potato_salad_2.jpg"
-            title="Potato Salad"
-            caption="Crispy bacon adds just the right amount of saltiness" %}
+<br>
+![Potato Salad](/img/APR2017/potato_salad_2.jpg)  
+<br>
 
 I like using new potatoes because they have a natural sweetness that adds a nice flavour to this tangy potato salad, but you really can use whatever potatoes you like. I have also switched out the peas for green beans, snap peas and even asparagus and cucumbers. The bacon adds some nice saltiness and a bit of crunch or chewiness but you can leave it out if you want to go the vegetarian route.
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/potato_salad_3.jpg"
-            title="Potato Salad"
-            caption="A perfect side for a BBQ, picnic lunch or dinner" %}
+![Potato Salad](/img/APR2017/potato_salad_3.jpg)  
+<br>
+<br>
 
-Feel free to play it up according to your preference. That includes the dressing also. Want it less lemony then add more vinegar or vice versa. Want it saltier feel free to smash in an anchovy for more salt and flavour.  Want it more garlicky, then feel free to grate in more garlic or leave it out completely if you don't like it.  You can also swap out the Dijon for honey mustard for a little extra sweetness. I always love the flavour that capers add to a creamy potato salad but if that is not your cup of tea then definitely leave them out.  
+Feel free to play it up according to your preference. That includes the dressing also. Want it less lemony then add more vinegar or vice versa. Want it saltier feel free to smash in an anchovy for more salt and flavour.  Want it more garlicky, then feel free to grate in more garlic or leave it out completely if you don't like it.  You can also swap out the Dijon for honey mustard for a little extra sweetness. I always love the flavour that capers add to a creamy potato salad but if that is not your cup of tea then definitely leave them out.
 <br>
 
 So you see, this is a really good base recipe for a creamy tangy potato salad with a yoghurt dressing.  It's one that I alternate between a few that I keep in my arsenal and I love! It reminds me of backyard grilling and laughter of friends having a good time sharing good food. Hope you try it! Enjoy what is left of the weekend friends!
 <br>
 <br>
-{% include image.html
-            img="/img/APR2017/potato_salad_5.jpg"
-            title="Potato Salad"
-            caption="" %}
-
+![Potato Salad](/img/APR2017/potato_salad_5.jpg)  
+<br>
 <br>
 
 ### Ingredients:
@@ -80,15 +75,6 @@ So you see, this is a really good base recipe for a creamy tangy potato salad wi
 
 1. Then add the potatoes and toss gently
 
-1. Add the bacon and peas and yoghurt dressing and continue to toss gently so that the potatoes and peas do not get too mashed up
+1. Add the bacon and peas and yoghurt dressing and continue to toss gently so that the potatoes and peas do not get too mashed up  
 
-
-<br>
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
-
-<br>
-{% include image.html
-            img="/img/APR2017/potato_salad_4.jpg"
-            title="Potato Salad"
-            caption="" %}
+![Potato Salad](/img/APR2017/potato_salad_5.jpg)  

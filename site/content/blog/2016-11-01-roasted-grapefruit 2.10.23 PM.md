@@ -3,21 +3,19 @@ title:  "Have your grapefruit roasted"
 date:   2016-11-01 09:30:35 -0400
 author: Joanne
 permalink: roasted-grapefruit
-image: NOV2016/roasted_grapefruit.jpg
-categories: blog
-tags:
-    - food
-excerpt: <p>Why not add a twist to your citrus the next time you need some natural Vitamin C</p>
+thumbnail: /img/NOV2016/roasted_grapefruit.jpg
+categories: sides
+tags: fruit
+excerpt: Why not add a twist to your citrus the next time you need some natural Vitamin C
 
 ---
 
-I have been feeling really run down the last few days.  I hear something is going around and it must be true because friends, workmates, and patients alike have been sick with some sort of flu bug.  I have been downing all my chicken and rice soup. I'm a big believer in vitamin C and echinacea too, but if I can have the real deal I will do that too. That's why I thought it would be perfect to roast some grapefruit and oranges that I still had around from the market just the other day.  
+I have been feeling really run down the last few days.  I hear something is going around and it must be true because friends, workmates, and patients alike have been sick with some sort of flu bug.  I have been downing all my chicken and rice soup. I'm a big believer in vitamin C and echinacea too, but if I can have the real deal I will do that too. That's why I thought it would be perfect to roast some grapefruit and oranges that I still had around from the market just the other day.
 <br>
-
-{% include image.html
-            img="/img/NOV2016/roasted_grapefruit_3.jpg"
-            title="Roasted grapefruit"
-            caption="Great for those breakfast pick me ups" %}
+<br>
+![Roasted grapefruit](/img/NOV2016/roasted_grapefruit_3.jpg)  
+<br>
+<br>
 
 Grapefruits are so intense in flavour and I love them fresh or roasted. Roasting them just deepens the flavour and gives them a certain bitter-sweet smokiness.
 <br><br>
@@ -27,12 +25,11 @@ Everyone knows grapefruits are great weight loss inducers because they charge up
 > Did you know they can help reduce free radicals and even help with gum disease due to their vitamin C content?
 
 Grapefruit increases blood levels of vitamin C, which promotes healing, and also lessens damage caused by free radical molecules. This helps in repairing gum tissue.  Just a quick reminder though, moderation is key because they are also acidic and can have a damaging effect on you tooth enamel, so like any other acidic food do not brush your teeth right after having them.  Wait at least 20-30 minutes.  It's also a liver cleanser, and helpful in preventing kidney stones. It's so great when something that tastes so good is also so good for you!!
-<br><br>
-
-{% include image.html
-            img="/img/NOV2016/roasted_grapefruit_2.jpg"
-            title="Roasted grapefruit"
-            caption="Breakfast for two is easy, or you can just eat them both yourself" %}
+<br>
+<br>
+![Roasted grapefruit](/img/NOV2016/roasted_grapefruit_2.jpg)  
+<br>
+<br>
 
 As I mentioned before, I love to eat them fresh just on their own or with a dash or two of bitters on them.   When I roast them though, I love to throw on some brown or coconut sugar and cinnamon. Yum!! So delicious.  
 <br>
@@ -42,11 +39,10 @@ What to do with them when you have roasted them? Well there's many options.  The
 
 Today I added them over stove-top coconut oats and chia with a caramelised banana too. Talk about a good breakfast!!  You can definitely use overnight oats as well.  I forgot to soak my oats so I just did them on the stove top today. If you don't think you would like that combo of the tart and sweet you can eat them on the side. But it's a nice blend with the coconut oats. Here are the recipes (this made enough for two bowls/people)
 <br>
-
-{% include image.html
-            img="/img/NOV2016/roasted_grapefruit_1.jpg"
-            title="Roasted grapefruit"
-            caption="Nice bold flavours make it a nice change for your breakfast" %}
+<br>
+![Roasted grapefruit](/img/NOV2016/roasted_grapefruit_1.jpg)  
+<br>
+<br>
 
 ## Coconut chia oats soaked or stove top
 

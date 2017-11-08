@@ -1,11 +1,11 @@
 ---
-title: Gluten free walnut roll cake
+title: Gluten-free walnut roll cake
 date: '2017-06-22 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/IMG_2448.JPG
 image: JUNE2017/walnut_roll_cake_1.jpg
-categories: blog
-tags: food
+categories: desserts
+tags: ["cake", "gluten-free"]
 excerpt: This gluten free cake is practically made of only walnuts. Creamy, crunchy
   and scrumptious
 ---

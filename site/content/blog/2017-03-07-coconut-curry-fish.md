@@ -3,11 +3,10 @@ title: Coconut curry fish
 date: "2017-03-07 7:30:35 -0400"
 author: Joanne
 permalink: coconut-curry-fish
-image: MAR2017/coconut_curry_fish_1.jpg
-categories: blog
-tags:
-  - food
-excerpt: "<p>A rich, creamy, bursting-with-flavour-30min-meal</p>"
+thumbnail: /img/MAR2017/coconut_curry_fish_1.jpg
+categories: mains
+tags: seafood
+excerpt: A rich, creamy, bursting-with-flavour-30min-meal
 ---
 
 How has everyone's week been going so far?  I had a busy start right from the get go but that is not anything new. Sundays to Tuesdays are literally my busiest days of the week. Once Tuesday is over I feel like I can breathe again!  Tonight I'm doing some organising and tweaking of my blogging schedule and calendar and of course writing this post. You see I should have been doing this while we were on our little two day retreat last week but instead I decided to catch up on sleep on those days.  It was much needed and I don't feel an ounce of guilt. That's why I'm doing it today and through the week.  As I look at my planner and photos I'm realising I have a lot of things to share and I'm exited to do so. There's a few recipes and blog posts pending and coming soon as well as lots of upcoming recipes and photo shoots. Can't wait!  
@@ -21,10 +20,9 @@ Many people season the fish over night or for at least an hour with green season
 But if you're use to doing that then by all means dredge the fish in a bit of flour before pan frying it.
 <br>
 <br>
-{% include image.html
-            img="/img/MAR2017/coconut_curry_fish_2.jpg"
-            title="Coconut curry fish"
-            caption="Some of the essentials to make this beautiful dish" %}
+![Coconut curry fish](/img/MAR2017/coconut_curry_fish_2.jpg)  
+<br>
+<br>
 
 The sauce is nice and creamy from the coconut milk and super flavourful from the garlic, ginger and of course the curry.  Feel free to use any type of curry you would like. I used a local curry but this would work lovely with a Thai curry as well.  You can even add some turmeric to boost the nutrient levels and add more colour to the dish.  Feel free to add in some potato or even some chickpeas as well to beef it up.  All in all it's a fabulously simple recipe with tons of flavour and a great way to get more fish into your diet!! Hope you all enjoy it!! And hope you have a great week ahead!
 <br>
@@ -33,10 +31,9 @@ The sauce is nice and creamy from the coconut milk and super flavourful from the
 A side note. How are you guys finding my IG stories? Are they helpful at all? Would you like to see more of them? I have been toying with the idea of starting a YouTube channel in the near future showcasing my already existing recipes and future ones step by step. Would love your thoughts and also any advice or feedback on that. That's all for now!
 <br>
 <br>
-{% include image.html
-            img="/img/MAR2017/coconut_curry_fish_3.jpg"
-            title="Coconut curry fish"
-            caption="This perfect combo take 30 mins or less" %}
+![Coconut curry fish](/img/MAR2017/coconut_curry_fish_3.jpg)  
+<br>
+<br>
 
 ## Coconut curry fish
 Serves 4
@@ -83,12 +80,7 @@ Serves 4
 
 Note: if you don't have green seasoning feel free to just chop up lots of green onion and cilantro and fresh thyme as a substitute or you an use the pre-made bottled green seasoning found in the Caribbean or ethnic sections of some grocery stores.
 
-<br>
 
-<p class="apple__news__logo"><a href="https://apple.news/TKVtoVhGUQSuiufA4bqI-gg"><img src="{{ basesite.url }}/img/apple_news.svg" /></a></p>
-
+![Coconut curry fish](/img/MAR2017/coconut_curry_fish_4.jpg)  
 <br>
-{% include image.html
-            img="/img/MAR2017/coconut_curry_fish_4.jpg"
-            title="Coconut curry fish"
-            caption="" %}
+<br>
