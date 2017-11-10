@@ -24,10 +24,10 @@
           <a href="{{ .Permalink }}"><div class="btn__main">continue reading</div></a>
         </li>
       {{ end }}
-      <div class="pagination_container">
-      {{ template "_internal/pagination.html" . }}
-      </div>
+      <div class="pagination_container">{{ template "_internal/pagination.html" . }}</div>
       </ul>
+      <h3>Instagram Feed</h3>
+      <div id="instafeed"></div>
     </div>
   </div>
 {{ partial "footer" . }}
