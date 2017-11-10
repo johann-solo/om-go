@@ -11,7 +11,8 @@
     <div class="container">
       <ul class="post-list">
       <!-- Ranges through content/post/*.md -->
-      {{ range where .Data.Pages "Type" "blog" }}
+      {{ range where  (.Paginator 10).Pages "Type" "blog"  }}
+
         <li>
           <div class="line"></div>
           <div class="post__meta--home">
@@ -23,6 +24,9 @@
           <a href="{{ .Permalink }}"><div class="btn__main">continue reading</div></a>
         </li>
       {{ end }}
+      <div class="pagination_container">
+      {{ template "_internal/pagination.html" . }}
+      </div>
       </ul>
     </div>
   </div>

@@ -900,3 +900,18 @@ input[type=submit] {
 
 .search {
   padding: 20px 0; }
+
+/*pagination*/
+.pagination {
+  display: flex;
+}
+
+.pagination_container {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination li {
+  list-style-type: none;
+  padding: 0 10px;
+}
