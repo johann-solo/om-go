@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Olive & Mango"
+disqusShortname = "disqus_Ci8qqqEWpn"
 
 [params]
   description = "A budget-conscious lifestyle blog on food, travel, and well-being"
@@ -23,7 +24,7 @@ title = "Olive & Mango"
   name = "Blog"
   url  = "/blog"
   weight = 3
-  [[menu.main]]
+[[menu.main]]
   name = "About"
   url  = "/about"
   weight = 4
