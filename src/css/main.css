@@ -894,7 +894,19 @@ input[type=submit] {
       float: none; } }
 
 .social__icons {
+  font-size: 1.2em;
   list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px !important;
+  margin-left: 0px !important; }
+
+.social__icons--footer {
+  color: black;
+  padding: 0 5px; }
+
+.copyright {
+  font-size: 0.65em;
   display: flex;
   justify-content: center; }
 

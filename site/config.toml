@@ -7,7 +7,6 @@ disqusShortname = "disqus_Ci8qqqEWpn"
 [params]
   description = "A budget-conscious lifestyle blog on food, travel, and well-being"
 
-
 [taxonomies]
   category = "categories"
   tag = "tags"

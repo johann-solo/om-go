@@ -358,10 +358,20 @@ input[type=submit] {
 // FOOTER
 
 .social__icons {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-}
+  font-size: 1.2em;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px !important;
+  margin-left: 0px !important; }
+
+.social__icons--footer {
+  color: black;
+  padding: 0 5px; }
+
+.copyright {
+  font-size: 0.65em;
+  text-align: center }
 
 .search {
     padding: 20px 0;
