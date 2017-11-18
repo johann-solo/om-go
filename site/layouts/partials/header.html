@@ -1,27 +1,16 @@
-<!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="description" content= "{{ $.Site.Params.description }}">
-    <!-- Open Graph -->
-    <meta property="og:title" content="{{ .Title }} • Olive &amp; Mango">
-    <meta property="og:url" content="{{ .URL }}">
-    <meta property="og:image" content="{{ .Params.thumbnail }}">
-    <meta property="og:description" content="{{ .Params.excerpt }}">
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="{{ $.Site.Params.description }}" />
-    <meta name="twitter:site" content="@oliveandmango" />
+<header>
+  <div class="container">
 
-    <base href="{{ $.Site.BaseURL }}">
-    <title>{{ .Params.Title }} | {{ $.Site.Title }}</title>
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700i|Quicksand:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Life+Savers" rel="stylesheet">
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon.ico/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/favicon.ico/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/favicon.ico/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/favicon.ico/manifest.json">
-    <link rel="mask-icon" href="/favicon.ico/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="stylesheet" href="css/main.css"/>
-  </head>
-  <body>
+    <a class="{{ $.Site.Title }}" href="{{ $.Site.BaseURL }}"><img src="img/om_logo_flat.svg" alt="Olive and Mango logo" class="om_logo"/>O&M</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+  </div>
+</header>
