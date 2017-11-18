@@ -32,3 +32,4 @@ I am not complaining, just reminiscing. But there are culinary challenges trying
 So I hope you enjoy reading about some of my adventures living on a small island. And hope you also enjoy some of the tried and tested recipes on the blog, coming from someone who genuinely enjoys good food and drink. What you won’t find is anything too fancy or complex. I will save that for the pros.
 <br>
 <br>
+![Joanne Sunset](/img/joanne-sunset.jpg)
