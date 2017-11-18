@@ -1,6 +1,10 @@
 {{ partial "head" . }}
 {{ partial "header" . }}
 
-  {{ .Content }}
+<div class="page-content">
+  <div class="wrapper">
+    {{ .Content }}
+  </div>
+</div>
 
 {{ partial "footer" . }}
