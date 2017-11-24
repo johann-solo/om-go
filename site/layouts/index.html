@@ -11,7 +11,7 @@
     <div class="container">
       <ul class="post-list">
       <!-- Ranges through content/post/*.md -->
-      {{ range where  (.Paginator 10).Pages "Type" "blog"  }}
+      {{ range where (.Paginator 10).Pages "Type" "blog"  }}
 
         <li>
           <div class="line"></div>

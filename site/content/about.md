@@ -3,7 +3,12 @@ date = "2017-10-20"
 title = "About"
 +++
 
+<br>
+<br>
+<br>
 ## Just your typical Canadian born Greek girl living in Trinidad.
+<br>
+<br>
 
 I was born and raised in Hamilton, Ontario in Canada (therefore naturally polite and friendly, eh!). Both my parents are Greek and migrated from the old country when they were young. They got married in Canada and then started a life and a family. Life growing up meant an unending supply of great home cooked food from hands that’s were full of love. For me home was always a place of warmth, comfort and the smell of good food.
 <br>
@@ -33,3 +38,5 @@ So I hope you enjoy reading about some of my adventures living on a small island
 <br>
 <br>
 ![Joanne Sunset](/img/joanne-sunset.jpg)
+<br>
+<br>
