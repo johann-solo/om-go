@@ -4,7 +4,7 @@ date: 2017-05-31T22:31:50.000Z
 author: Joanne
 thumbnail: /images/uploads/strawberry_almond_tea_cake_1.jpg
 image: MAY2017/strawberry_almond_tea_cake_1.jpg
-categories: desserts
+categories: ["desserts"]
 tags: ["cakes", desserts]
 excerpt: The perfect cake for Spring and Summer
 ---

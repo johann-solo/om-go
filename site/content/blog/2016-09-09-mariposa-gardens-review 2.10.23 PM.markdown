@@ -3,7 +3,7 @@ title:  "Farm to table eating - Trini style"
 date:   2016-09-09 07:00:35 -0400
 author: Johann
 permalink: mariposa-gardens-review
-categories: travel
+categories: ["travel"]
 thumbnail: /img/SEPT2016/mariposa_cafe_food_1.jpg
 tags: ["Trinidad", "hummingbirds"]
 excerpt: Mariposa Gardens offers a uniquely Caribbean experience. It's a food revelation, a getaway and an adventure all in one

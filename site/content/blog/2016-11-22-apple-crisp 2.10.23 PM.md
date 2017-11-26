@@ -4,8 +4,8 @@ date: "2016-11-22 10:30:35 -0400"
 author: Joanne
 permalink: apple-crisp
 thumbnail: /img/NOV2016/apple_crisp_1.jpg
-categories: desserts
-tags: apples
+categories: ["desserts"]
+tags: ["apples"]
 excerpt: Entertaining made easy
 ---
 

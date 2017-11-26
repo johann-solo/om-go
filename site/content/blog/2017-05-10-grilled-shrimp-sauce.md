@@ -4,7 +4,7 @@ date: '2017-05-10 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/grilled_shrimp_sauce_1.jpg
 image: MAY2017/grilled_shrimp_sauce_1.jpg
-categories: mains
+categories: ["mains"]
 tags: ["shrimp", "BBQ"]
 excerpt: Add a little spice and excitement to your homade BBQ sauce
 ---

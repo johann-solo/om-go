@@ -4,8 +4,8 @@ date: "2017-02-09 7:30:35 -0400"
 author: Joanne
 permalink: icebox-cake
 thumbnail: /img/FEB2017/icebox_cake_1.jpg
-categories: desserts
-tags: cakes
+categories: ["desserts"]
+tags: ["cakes"]
 excerpt: A chocolatey decadent mousse cake that will make your tastebuds explode
 ---
 

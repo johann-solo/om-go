@@ -4,8 +4,8 @@ date: 2017-08-17T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_17_pineapple_granita_1.jpg
 image: null
-categories: drinks
-tags: food
+categories: ["drinks"]
+tags: ["food"]
 excerpt: Summer cool down &mdash; Tropical style
 ---
 ​

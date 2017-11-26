@@ -3,7 +3,7 @@ title:  "No fail banana bread"
 date:   2016-10-12 09:30:35 -0400
 author: Joanne
 permalink: delicious-moist-banana-bread
-categories: desserts
+categories: ["desserts"]
 thumbnail: /img/OCT2016/banana-bread.jpg
 tags: ["bread"]
 excerpt: Make amazing, moist and delicious banana bread every time

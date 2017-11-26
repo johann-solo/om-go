@@ -4,8 +4,8 @@ date: '2017-04-19 7:30:35 -0400'
 author: Joanne
 permalink: souvlaki-tzatziki
 thumbnail: /img/APR2017/souvlaki_1.jpg
-categories: mains
-tags: Greek
+categories: ["mains"]
+tags: ["Greek"]
 excerpt: Greek street food made easy at home
 
 ---

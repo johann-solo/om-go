@@ -3,13 +3,13 @@ title: Roasted Pumpkin Soup
 date: '2017-04-17 7:30:35 -0400'
 author: Joanne
 thumbnail: /img/APR2017/pumpkin_soup_1.jpg
-categories: soups
-tags: pumpkin
+categories: ["soups"]
+tags: ["pumpkin"]
 excerpt: A classic soup that's simple and quick to whip up
 
 ---
 
-Here in Trinidad pumpkin is a major food staple. From making it into a sweet bread to adding it to your callaloo or having it curried- it's everywhere. The most common variety we have here is called crapaud (French for frog) back pumpkin named for its thick and knobby skin. I love it!! The flavour is sweet and it cooks down smooth and can be incorporated into so much.  One of the things I love making with it is pumpkin soup! It's so easy and cooks down fast too so you can have dinner ready in a pinch. 
+Here in Trinidad pumpkin is a major food staple. From making it into a sweet bread to adding it to your callaloo or having it curried- it's everywhere. The most common variety we have here is called crapaud (French for frog) back pumpkin named for its thick and knobby skin. I love it!! The flavour is sweet and it cooks down smooth and can be incorporated into so much.  One of the things I love making with it is pumpkin soup! It's so easy and cooks down fast too so you can have dinner ready in a pinch.
 <br>
 <br>
 ![Roasted pumpkin soup](/img/APR2017/pumpkin_soup_2.jpg)  

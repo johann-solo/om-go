@@ -4,7 +4,7 @@ date: "2016-12-01 8:30:35 -0400"
 author: Joanne
 permalink: oat-banana-bread
 thumbnail: /img/DEC2016/oat_banana_bread_1.jpg
-categories: snacks
+categories: ["snacks"]
 tags: ["vegan", "bread"]
 excerpt: Delicious flour free and hearty
 ---

@@ -4,7 +4,7 @@ date:   2016-10-30 09:30:35 -0400
 author: Joanne
 permalink: horiatiki-panzanella-salad
 thumbnail: /img/OCT2016/Panzanella_salad.jpg
-categories: sides
+categories: ["sides"]
 tags: ["Greek", "Italian", "salads"]
 excerpt: Try this mash up of Greek and Italian salads
 

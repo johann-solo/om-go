@@ -4,7 +4,7 @@ date: '2017-06-13 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/matar_paneer_3.jpg
 image: JUNE2017/matar_paneer_2.jpg
-categories: sides
+categories: ["sides"]
 tags: ["Indian", "vegetarian"]
 excerpt: This classic Indian dish is vegetarian, loaded with wonderful spices and
   absolutely delicious

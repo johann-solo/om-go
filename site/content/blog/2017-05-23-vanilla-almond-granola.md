@@ -4,7 +4,7 @@ date: '2017-05-23 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/almond_granola_2.jpg
 image: MAY2017/almond_granola_1.jpg
-categories: breakfast
+categories: ["breakfast"]
 tags: ["almond", "granola"]
 excerpt: Know exactly what's in your granola by making it yourself
 ---

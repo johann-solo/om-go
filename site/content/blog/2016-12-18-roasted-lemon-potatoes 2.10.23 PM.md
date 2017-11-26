@@ -4,7 +4,7 @@ date: "2016-12-18 7:30:35 -0400"
 author: Joanne
 permalink: roasted-lemon-potatoes
 thumbnail: /img/DEC2016/roasted_lemon_potatoes_1.jpg
-categories: sides
+categories: ["sides"]
 tags: ["Greek"]
 excerpt: Skip the restaurant and make this delicious side yourself
 ---

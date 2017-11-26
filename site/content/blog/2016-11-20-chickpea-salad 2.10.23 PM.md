@@ -4,7 +4,7 @@ date: "2016-11-20 10:30:35 -0400"
 author: Joanne
 permalink: chickpea-salad
 thumbnail: /img/NOV2016/chickpea_salad_1.jpg
-categories: sides
+categories: ["sides"]
 tags: ["chickpeas", "salads"]
 excerpt: If you're not a fan of chickpeas, this salad may change your mind
 ---

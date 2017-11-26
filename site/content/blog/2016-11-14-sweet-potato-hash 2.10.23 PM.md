@@ -4,7 +4,7 @@ date: "2016-11-14 10:30:35 -0400"
 author: Joanne
 permalink: sweet-potato-hash
 thumbnail: /img/NOV2016/sweet_potato_mash.jpg
-categories: mains
+categories: ["mains"]
 tags: ["One-pot-meals", "sweet potato"]
 excerpt: A compete meal in a pan
 ---

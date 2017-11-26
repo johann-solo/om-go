@@ -4,8 +4,8 @@ date: "2017-03-05 7:30:35 -0400"
 author: Joanne
 permalink: coconut-rice-peas
 thumbnail: /img/MAR2017/coconut_rice_peas_1.jpg
-categories: sides
-tags: vegetarian
+categories: ["sides"]
+tags: ["vegetarian"]
 excerpt: The Caribbean's favourite 'anytime' side dish
 ---
 

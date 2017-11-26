@@ -3,7 +3,7 @@ title:  "Lathera - make green peas exciting"
 date:   2016-10-10 09:30:35 -0400
 author: Joanne
 permalink: how-to-make-lathera
-categories: sides
+categories: ["sides"]
 thumbnail: /img/OCT2016/lathera_2.jpg
 tags: ["Greek", "vegetarian"]
 excerpt: A classic Greek vegetarian peasant-styled dish

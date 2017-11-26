@@ -3,9 +3,9 @@ title:  "Top 5 things to do in Southern California"
 date:   2016-10-28 09:30:35 -0400
 author: Joanne
 permalink: things-to-do-in-socal
-categories: travel
+categories: ["travel"]
 thumbnail: /img/OCT2016/santa_monica_sunset.jpg
-tags: California
+tags: ["California"]
 excerpt: With so much to do in Southern California, here are some of our favourites
 ---
 Our trip to California seems like a long time ago but it was only just a year ago.  The whole idea for the trip came about because the American Orthodontic Association annual conference was going to be held in San Francisco.  I usually try to go to the conference annually. Well when I found that out I very quickly started to look for flights.  Not flights to San Francisco but flights to Los Angeles.
@@ -88,4 +88,3 @@ Until then I will reminisce on how much fun we had exploring SoCal! I can also r
 <br>
 <br>
 ![California](/img/OCT2016/moma_art.jpg)  
-      

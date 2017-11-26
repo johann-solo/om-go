@@ -3,9 +3,9 @@ title:  "Satisfy-a-crowd kind of dessert"
 date:   2016-06-04 07:37:35 -0400
 author: Joanne
 permalink: chocolate-sheet-cake-attempt
-categories: desserts
+categories: ["desserts"]
 thumbnail: /img/JUN2016/TheBestChocolateSheetCake.jpg
-tags: cakes
+tags: ["cakes"]
 excerpt: A guaranteed crowd pleaser for almost everyone - unless they are gluten and nut intolerant or those rare ones who hate chocolate!?!?!?
 ---
 

@@ -4,7 +4,7 @@ date: "2017-01-30 7:30:35 -0400"
 author: Joanne
 permalink: fasolatha
 thumbnail: /img/JAN2017/fasolatha_1.jpg
-categories: soups
+categories: ["soups"]
 tags: ["Greek", "vegetarian", "vegan"]
 excerpt: Make soup as warm and hearty as the people who invented it
 ---

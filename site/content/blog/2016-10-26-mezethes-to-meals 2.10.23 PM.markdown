@@ -3,7 +3,7 @@ title:  "Turn your mezethakia into a meal"
 date:   2016-10-26 09:30:35 -0400
 author: Joanne
 permalink: mezethes-to-meals
-categories: sides
+categories: ["sides"]
 thumbnail: /img/OCT2016/mezethes.jpg
 tags: ["Greek", "meatballs"]
 excerpt: Have a Greek party at home with these classic and easy to make appetizers

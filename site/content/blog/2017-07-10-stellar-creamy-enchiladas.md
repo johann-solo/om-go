@@ -4,8 +4,8 @@ date: 2017-07-10T11:09:18.654Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_10_ enchiladas_4.jpg
 image: null
-categories: dinners
-tags: Latin
+categories: ["dinners"]
+tags: ["Latin"]
 excerpt: The perfect midweek meal. These enchiladas are simple to prepare and easy to
   make ahead of time
 ---

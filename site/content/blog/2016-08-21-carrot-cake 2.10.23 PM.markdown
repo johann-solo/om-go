@@ -3,9 +3,9 @@ title:  "How to make the perfect carrot cake"
 date:   2016-08-19 07:00:35 -0400
 author: Joanne
 permalink: carrot-cake
-categories: desserts
+categories: ["desserts"]
 thumbnail: /img/AUG2016/carrot_cake_cover_img.jpg
-tags: cakes
+tags: ["cakes"]
 excerpt: What's the best thing about carrot cake? The cream cheese frosting!! Am I right!?!?
 ---
 

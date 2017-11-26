@@ -3,9 +3,9 @@ title:  "Paris in a day"
 date:   2016-10-07 01:30:35 -0400
 author: Johann
 permalink: paris-in-a-day
-categories: travel
+categories: ["travel"]
 thumbnail: /img/OCT2016/eiffel_tower.jpg
-tags: Paris
+tags: ["Paris"]
 excerpt: Enjoy the City of Light even if you are pressed for time
 ---
 

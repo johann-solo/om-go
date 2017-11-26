@@ -3,9 +3,9 @@ title:  "How to keep moving and fit even with a busy schedule"
 date:   2016-10-14 09:30:35 -0400
 author: Joanne
 permalink: keep-fit
-categories: wellness
+categories: ["wellness"]
 thumbnail: /img/OCT2016/chancellor_peak.jpg
-tags: excercise
+tags: ["exercise"]
 excerpt: No time to workout? These tips are free and accessible to almost everyone
 ---
 

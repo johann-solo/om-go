@@ -4,8 +4,8 @@ date: '2017-03-17 7:30:35 -0400'
 author: Joanne
 permalink: minestrone
 thumbnail: /img/MAR2017/minestrone_1.jpg
-categories: soups
-tags: Italian
+categories: ["soups"]
+tags: ["Italian"]
 excerpt: Hearty fill you up and feel good kind of soup
 
 ---

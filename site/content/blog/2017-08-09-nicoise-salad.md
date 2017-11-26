@@ -4,8 +4,8 @@ date: 2017-08-09T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_08_nicoise_salad_1.jpg
 image: null
-categories: salads
-tags: French
+categories: ["salads"]
+tags: ["French"]
 excerpt: Laid back dinner or lunch that is so easy to put together and absolutely
   delicious and refreshing!
 ---

@@ -4,8 +4,8 @@ date: "2017-01-29 7:30:35 -0400"
 author: Joanne
 permalink: brussel-sprouts
 thumbnail: /img/JAN2017/brussels_sprouts_1.jpg
-categories: sides
-tags: bacon
+categories: ["sides"]
+tags: ["bacon"]
 excerpt: Adaptable - great as a side or a meal onto themselves
 ---
 

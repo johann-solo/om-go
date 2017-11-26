@@ -3,9 +3,9 @@ title:  "SoCal...so cool"
 date:   2016-10-21 09:30:35 -0400
 author: Joanne
 permalink: socal-so-cool
-categories: travel
+categories: ["travel"]
 thumbnail: /img/OCT2016/santa_monica_palms.jpg
-tags: SoCal
+tags: ["SoCal"]
 excerpt: A local's guide to the top 5 budget-friendly things to do in LA
 ---
 

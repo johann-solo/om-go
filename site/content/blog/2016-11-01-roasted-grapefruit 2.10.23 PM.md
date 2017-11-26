@@ -4,8 +4,8 @@ date:   2016-11-01 09:30:35 -0400
 author: Joanne
 permalink: roasted-grapefruit
 thumbnail: /img/NOV2016/roasted_grapefruit.jpg
-categories: sides
-tags: fruit
+categories: ["sides"]
+tags: ["fruit"]
 excerpt: Why not add a twist to your citrus the next time you need some natural Vitamin C
 
 ---

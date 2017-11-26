@@ -4,8 +4,8 @@ date: '2017-03-21 7:30:35 -0400'
 author: Joanne
 permalink: mtplaisir
 thumbnail: /img/MAR2017/mtplaisir_1.jpg
-categories: travel
-tags: Trinidad
+categories: ["travel"]
+tags: ["Trinidad"]
 excerpt: Enjoy the natural beauty of the island in a rustic getaway
 
 ---

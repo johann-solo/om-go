@@ -4,7 +4,7 @@ date: "2016-11-21 10:30:35 -0400"
 author: Joanne
 permalink: red-lentil-soup
 thumbnail: /img/NOV2016/red_lentil_soup_1.jpg
-categories: soups
+categories: ["soups"]
 tags: ["lentils", "chorizo"]
 excerpt: Small is size, big in flavour
 ---

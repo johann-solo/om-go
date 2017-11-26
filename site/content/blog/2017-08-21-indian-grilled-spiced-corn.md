@@ -4,7 +4,7 @@ date: 2017-08-21
 author: Joanne
 thumbnail: /images/uploads/2017_08_21_indian_grilled_spiced_corn_1.jpg
 image: null
-categories: sides
+categories: ["sides"]
 tags: ["corn", "Indian"]
 excerpt: Otherwise know as street style Bhutta masala corn &mdash; a great alternative
   flavour to spice up your grilled corn

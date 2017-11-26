@@ -4,7 +4,7 @@ date: 2017-10-11
 author: Joanne
 thumbnail: /images/uploads/2017_10_11_chocolate_hazelnut_espresso_brownies_1.jpg
 categories: desserts
-tags: chocolate
+tags: ["chocolate"]
 excerpt: Better-than-the-box one pot brownies that will knock your socks off!
 ---
 

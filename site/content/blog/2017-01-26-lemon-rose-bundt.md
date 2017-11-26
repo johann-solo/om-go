@@ -4,8 +4,8 @@ date: "2017-01-26 7:30:35 -0400"
 author: Joanne
 permalink: lemon-rose-bundt
 thumbnail: /img/JAN2017/bundt_1.jpg
-categories: desserts
-tags: cakes
+categories: ["desserts"]
+tags: ["cakes"]
 excerpt: Make the most of the citrus season by making this lemon cake
 ---
 

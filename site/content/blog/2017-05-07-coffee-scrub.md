@@ -4,8 +4,8 @@ date: '2017-05-07 7:30:35 -0400'
 author: Joanne
 thumbnail: /images/uploads/coffee_scrub_2.jpg
 image: MAY2017/coffee_scrub_1.jpg
-categories: wellness
-tags: scrubs
+categories: ["wellness"]
+tags: ["scrubs"]
 excerpt: Can't make it to the spa? This scrub is effective and easy to make
 ---
 

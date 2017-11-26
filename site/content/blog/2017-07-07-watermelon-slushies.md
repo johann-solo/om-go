@@ -4,8 +4,8 @@ date: 2017-07-07T12:21:26.516Z
 author: Joanne
 thumbnail: /images/uploads/2017_07_07_watermelon_slushie_1.jpg
 image: null
-categories: drinks
-tags: watermelon
+categories: ["drinks"]
+tags: ["watermelon"]
 excerpt: The most refreshing warm-weather cocktail around
 ---
 Who doesn't love the sweetness of watermelon? It's the perfect fruit to cool you down and it's one thing that I always crave. It's so sweet naturally and tastes like dessert on its own — at least the variety grown here is that sweet. Whether in a salad or on its own, it really can't be beaten when it comes to how refreshing it is.  

@@ -3,9 +3,9 @@ title:  "How to prep for a stress-free vacation"
 date:   2016-09-15 09:30:35 -0400
 author: Joanne
 permalink: stress-free-vacation-planning
-categories: travel
+categories: ["travel"]
 thumbnail: /img/SEPT2016/greece_beach.jpg
-tags: How-to's
+tags: ["How-to's"]
 excerpt: Vacation shouldn't be stressful. These simple tips will help you to get the most out of yours
 ---
 

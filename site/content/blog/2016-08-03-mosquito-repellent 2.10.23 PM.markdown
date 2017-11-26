@@ -3,9 +3,9 @@ title:  "DEET-free mosquito repellent"
 date:   2016-08-03 9:33:35 -0400
 author: Joanne
 permalink: mosquito-repellant
-categories: wellnes
+categories: ["wellnes"]
 thumbnail: /img/AUG2016/sss_acvinegar.jpg
-tags: skin
+tags: ["skin"]
 excerpt: Looking for a DEET-free alternative mosquito repellent? Try these unexpected methods
 ---
 

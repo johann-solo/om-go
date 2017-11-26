@@ -4,8 +4,8 @@ date: "2017-01-06 7:30:35 -0400"
 author: Joanne
 permalink: orange-olive-oil-cake
 thumbnail: /img/JAN2017/orange_olive_oil_cake_1.jpg
-categories: desserts
-tags: cakes
+categories: ["desserts"]
+tags: ["cakes"]
 excerpt: Try a decadent and moist cake with a light mascarpone topping
 ---
 

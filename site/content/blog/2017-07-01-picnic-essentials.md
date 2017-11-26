@@ -4,8 +4,8 @@ date: 2017-07-01T19:04:29.986Z
 author: 'Joanne '
 thumbnail: /images/uploads/IMG_3944.JPG
 image: JUL2017/picnics_1.jpg
-categories: How to's
-tags: picnics
+categories: ["How-to's"]
+tags: ["picnics"]
 excerpt: Keeping things simple is key to making the picnic experience fun for all
 ---
 Who doesn't enjoy eating alfresco, especially in the warmer months. Picnics are a wonderful way to do that.  I always felt that I never really fully took advantage of picnic season back home in Canada. I always blamed it on being too short. And when I moved here I thought "Yes! Picnic and patio weather all year round, this is awesome! We'll definitely be doing the picnic thing, beach thing, patio thing all the time." Hahahaha! That's when I realized it had nothing to do with the weather but more with having the time. And sometimes the effort involved in planning a picnic or getting all your stuff together is super exhausting just thinking about it.

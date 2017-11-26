@@ -4,7 +4,7 @@ date: '2017-04-04 7:30:35 -0400'
 author: Joanne
 permalink: trini-fish-broth
 thumbnail: /img/APR2017/trini_fish_broth_1.jpg
-categories: soups
+categories: ["soups"]
 tags: ["seafood", "Caribbean" ]
 excerpt: A subtly flavoured traditional Trinidadian soup
 

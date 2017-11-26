@@ -4,8 +4,8 @@ date: 2017-08-07T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_08_07_vegetable_frittata_1.jpg
 image: null
-categories: sides
-tags: vegetarian
+categories: ["sides"]
+tags: ["vegetarian"]
 excerpt: Creamy, sweet from roasting the veggies and savory with the added cheese
   and bacon!
 ---

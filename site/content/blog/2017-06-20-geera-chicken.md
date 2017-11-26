@@ -3,7 +3,7 @@ title: Fabulously flavourful Geera Chicken
 date: '2017-06-20 7:30:35 -0400'
 author: Joanne
 thumbnail: /img/JUNE2017/Geera_chicken_2.jpg
-categories: mains
+categories: ["mains"]
 tags: ["Indian", "Caribbean"]
 excerpt: A great alternative to your basic curry chicken. Geera chicken is aromatic, flavourful and quintessentially Trinidadian
 ---

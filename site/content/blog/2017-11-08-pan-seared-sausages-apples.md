@@ -3,7 +3,7 @@ title: 'Pan Seared Sausages And Apples With Honey, Thyme And Greens'
 date: 2017-11-08T00:00:00.000Z
 author: Joanne
 thumbnail: /images/uploads/2017_11_09_pan_seared_sausages_apples_1.jpg
-categories: mains
+categories: ["mains"]
 tags: ["One-pot-meals", "apples"]
 excerpt: This sweet and luscious one-pan-dish is under thirty minutes and a
   guaranteed hit

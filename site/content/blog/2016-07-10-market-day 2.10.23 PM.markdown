@@ -3,9 +3,9 @@ title:  "Market Day"
 date:   2016-07-10 20:43:35 -0400
 author: Joanne
 permalink: market-day
-categories: travel
+categories: ["travel"]
 thumbnail: /img/JUL2016/market-pinapples.jpg
-tags: markets
+tags: ["markets"]
 excerpt: Saving money, eating healthy and great tasting food doesn&apos;t have to be difficult. Local markets are the key
 ---
 

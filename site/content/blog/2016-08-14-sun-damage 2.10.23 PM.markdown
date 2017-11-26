@@ -3,9 +3,9 @@ title:  "Sun damage is real and so is hyperpigmentation"
 date:   2016-08-14 07:00:35 -0400
 author: Joanne
 permalink: sun-damage
-categories: wellness
+categories: ["wellness"]
 thumbnail: /img/AUG2016/coconut_tress.jpg
-tags: sun
+tags: ["sun"]
 excerpt: Have fun in the sun with these sun protection tips
 ---
 

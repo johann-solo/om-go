@@ -4,7 +4,7 @@ date: "2016-11-13 10:30:35 -0400"
 author: Joanne
 permalink: greek-potatoes
 thumbnail: /img/NOV2016/greek_potatoes_2.jpg
-categories: sides
+categories: ["sides"]
 tags: ["Greek", "salads"]
 excerpt: Not your average potato salad
 ---

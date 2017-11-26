@@ -4,7 +4,7 @@ date: "2017-01-22 7:30:35 -0400"
 author: Joanne
 permalink: greek-beets
 thumbnail: /img/JAN2017/greek_beets_1.jpg
-categories: sides
+categories: ["sides"]
 tags: ["Greek", "salad"]
 excerpt: For the love of beets
 ---
