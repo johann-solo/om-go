@@ -9,6 +9,7 @@
           <p class="post-meta">
             <time>{{ .Date.Format "2 Jan, 2006" }}</time> • <span itemprop="author" itemscope itemtype="http://schema.org/Person">{{ .Params.Author }}</span>
           </p>
+
           <span class="pintrest__button">
               <a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a>
           </span>
@@ -17,8 +18,9 @@
           </div>
         </div>
       </article>
+      <!-- show related posts -->
+      {{ partial "related" . }}
 
-  <!-- {% include disqus.html disqus_identifier=page.disqus_identifier %} -->
       {{ partial "disqus" . }}
     </div>
   </div>
