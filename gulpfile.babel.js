@@ -2,7 +2,10 @@ import gulp from "gulp";
 import {spawn} from "child_process";
 import hugoBin from "hugo-bin";
 import gutil from "gulp-util";
+import autoprefixer from "autoprefixer";
+import sass from "gulp-sass";
 import postcss from "gulp-postcss";
+import cssNano from "gulp-cssnano";
 import cssImport from "postcss-import";
 import cssnext from "postcss-cssnext";
 import BrowserSync from "browser-sync";
@@ -26,8 +29,15 @@ gulp.task("build-preview", ["css", "js"], (cb) => buildSite(cb, hugoArgsPreview,
 
 // Compile CSS with PostCSS
 gulp.task("css", () => (
-  gulp.src("./src/css/*.css")
-    .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()]))
+  gulp.src("./src/scss/**.scss")
+    .pipe(sass({
+      outputStyle:  "nested",
+      precision: 10,
+      includePaths: ["node_modules"],
+    }))
+    .pipe(postcss([ autoprefixer() ]))
+    .pipe(cssNano())
+    .pipe(gulp.dest("./src/css"))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
@@ -55,7 +65,7 @@ gulp.task("server", ["hugo", "css", "js"], () => {
     }
   });
   watch("./src/js/**/*.js", () => { gulp.start(["js"]) });
-  watch("./src/css/**/*.css", () => { gulp.start(["css"]) });
+  watch("./src/scss/**/*.scss", () => { gulp.start(["css"]) });
   watch("./site/**/*", () => { gulp.start(["hugo"]) });
 });
 
