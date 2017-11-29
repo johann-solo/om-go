@@ -12,6 +12,8 @@ import BrowserSync from "browser-sync";
 import watch from "gulp-watch";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
+import imagemin from "gulp-imagemin";
+import mozjpeg from "imagemin-mozjpeg";
 
 const browserSync = BrowserSync.create();
 
@@ -24,7 +26,7 @@ gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Build/production tasks
-gulp.task("build", ["css", "js"], (cb) => buildSite(cb, [], "production"));
+gulp.task("build", ["css", "js", "img:build"], (cb) => buildSite(cb, [], "production"));
 gulp.task("build-preview", ["css", "js"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
 // Compile CSS with PostCSS
@@ -56,6 +58,18 @@ gulp.task("js", (cb) => {
     cb();
   });
 });
+
+// Image Optimisation
+gulp.task("img:build", () =>
+  gulp.src(["./site/static/images/uploads/*.{jpg,png,gif,svg}"])
+    .pipe(imagemin([
+      imagemin.gifsicle(),
+      imagemin.optipng(),
+      imagemin.svgo(),
+      mozjpeg(),
+    ]))
+    .pipe(gulp.dest("./site/static/images/uploads/"))
+);
 
 // Development server with browsersync
 gulp.task("server", ["hugo", "css", "js"], () => {
