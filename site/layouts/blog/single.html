@@ -12,11 +12,9 @@
               <i class="fa fa-tags"></i> {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
               {{ end }}
             </div>
+            <span class="pintrest__button"><a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a></span>
           </div>
 
-          <span class="pintrest__button">
-            <a data-pin-do="buttonPin" data-pin-count="beside" data-pin-tall="true" data-pin-save="true" href="https://www.pinterest.com/pin/create/button/"></a>
-          </span>
           <div class="post-content" itemprop="articleBody">
             {{ .Content }}
           </div>
