@@ -279,14 +279,24 @@ caption {
   }
 }
 
-.related_posts > li {
+// .related_posts > li {
+//   @media screen and (min-width: $tablet-width) {
+//     box-sizing: border-box;
+//     margin-bottom: 20px;
+//     width: calc(1/4*100% - (1 - 1/4)*10px);
+//   }
+// }
+
+.related_posts {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(1, 1fr);
+  list-style-type: none;
+  margin: 0;
   @media screen and (min-width: $tablet-width) {
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    width: calc(1/4*100% - (1 - 1/4)*10px);
+    grid-template-columns: repeat(4, 1fr);
   }
 }
-
 
 
 // FOOTER
@@ -326,28 +336,39 @@ caption {
 }
 
 // Tags List Pages
+// .related_taxonomy {
+//   margin: 0;
+//   margin: 5px 0 20px;
+//   list-style-type: none;
+//   display: flex;
+//   flex-direction: column;
+//   @media screen and (min-width: $tablet-width) {
+//       flex-direction: row;
+//       flex-wrap: wrap;
+//       justify-content: space-between;
+//   }
+//   li {
+//     margin-bottom: 20px !important;
+//     font-size: 0.75em;
+//   }
+// }
+//
+// .related_taxonomy > li {
+//   @media screen and (min-width: $tablet-width) {
+//     box-sizing: border-box;
+//     margin-bottom: 20px;
+//     width: calc(1/4*100% - (1 - 1/4)*10px);
+//   }
+// }
 .related_taxonomy {
-  margin: 0;
-  margin: 5px 0 20px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(1, 1fr);
   list-style-type: none;
-  display: flex;
-  flex-direction: column;
+  margin: 0;
+  padding-bottom: 30px;
   @media screen and (min-width: $tablet-width) {
-      flex-direction: row;
-      flex-wrap: wrap;
-      justify-content: space-between;
-  }
-  li {
-    margin-bottom: 20px !important;
-    font-size: 0.75em;
-  }
-}
-
-.related_taxonomy > li {
-  @media screen and (min-width: $tablet-width) {
-    box-sizing: border-box;
-    margin-bottom: 20px;
-    width: calc(1/4*100% - (1 - 1/4)*10px);
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
@@ -355,10 +376,16 @@ caption {
   padding-bottom: 30px;
 }
 
+
+
 // RECIPE Page
 
 .recipe_content h1,h2 {
   text-align: center;
+}
+
+.recipe_content h2 {
+  font-style: italic;
 }
 
 .recipe_content h1 {
@@ -369,9 +396,9 @@ caption {
   padding: 60px 0 20px;
 }
 
-.recipe_content .btn_container {
-  margin: 0 auto;
-}
+// .recipe_content .btn_container {
+//   margin: 0 auto;
+// }
 
 
 .btn__main--recipe {
@@ -380,4 +407,8 @@ caption {
     font-size: 0.75em;
     color: $accent-color !important;
     text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 100px;
+    margin-bottom: 60px;
 }
