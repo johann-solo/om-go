@@ -354,3 +354,30 @@ caption {
 .heading_taxonomy {
   padding-bottom: 30px;
 }
+
+// RECIPE Page
+
+.recipe_content h1,h2 {
+  text-align: center;
+}
+
+.recipe_content h1 {
+  padding: 60px 0 20px;
+}
+
+.recipe_content h2 {
+  padding: 60px 0 20px;
+}
+
+.recipe_content .btn_container {
+  margin: 0 auto;
+}
+
+
+.btn__main--recipe {
+    background: #F3F3F3;
+    padding: 7px;
+    font-size: 0.75em;
+    color: $accent-color !important;
+    text-transform: uppercase;
+}

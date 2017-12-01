@@ -1,10 +1,37 @@
 {{ partial "head" . }}
 {{ partial "header" . }}
-{{ range $name, $items := .Site.Taxonomies.categories }}
-<li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} &nbsp;<span>({{ len $items }})</span></a>
+<div class="recipe_content">
+  <div class="container">
+    <h1>Recipes</h1>
+    <h2>Mains</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.mains }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/mains"><div class="btn__main--recipe ">Show more</div></a></span>
+    </ul>
+    <h2>sides</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.sides }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/sides"><div class="btn__main--recipe ">Show more</div></a></span>
+    </ul>
+    <h2>desserts</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.desserts }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/desserts"><div class="btn__main--recipe ">Show more</div></a></span>
+    </ul>
+    <!-- <h2>drinks</h2>
+    <ul class="related_taxonomy">
+      {{ range first 4 .Site.Taxonomies.categories.drinks }}
+        <li><a href="{{ .Page.RelPermalink }}"><img src="{{ .Params.thumbnail }}" alt="">{{ .Page.Title }}</a></li>
+      {{ end }}
+      <span class="btn_container"><a href="{{ .Site.BaseURL }}categories/mains"><div class="btn__main--recipe ">Show more</div></a></span>
+    </ul> -->
+  </div>
 
-</li>
-{{ end }}
-
-
+</div>
 {{ partial "footer" . }}

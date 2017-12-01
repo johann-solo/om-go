@@ -17,16 +17,12 @@ disqusShortname = "disqus_Ci8qqqEWpn"
   weight = 1
 [[menu.main]]
   name = "Recipes"
-  url  = "/recipes"
-  weight = 2
-[[menu.main]]
-  name = "Blog"
   url  = "/blog"
-  weight = 3
+  weight = 2
 [[menu.main]]
   name = "About"
   url  = "/about"
-  weight = 4
+  weight = 3
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
