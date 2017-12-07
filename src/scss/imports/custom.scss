@@ -1,4 +1,4 @@
-$accent-color: #FF4A07;
+$accent-color: #e74c3c;
 $tablet-width: 600px;
 $desktop-width: 800px;
 
@@ -31,6 +31,7 @@ h1 {
 
 a:link {
     text-decoration: none;
+    color: black;
 }
 a:visited {
     text-decoration: none;
@@ -39,6 +40,11 @@ a:visited {
 .post-link a:link,
 a:visited {
     color: black;
+}
+
+a:hover {
+  color: $accent-color;
+  transition: 0.65s;
 }
 
 .post-meta {
